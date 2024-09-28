@@ -25,6 +25,8 @@ jobs:
         run: uv sync --all-extras --dev
 
       - name: Run the scraping
+        with:
+          ARGENTARIS_MATRIX_PASSWORD: ${{ secrets.ARGENTARIS_MATRIX_PASSWORD }}
         run: uv run python scrape.py
 
       - name: Commit and push if it changed
