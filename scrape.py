@@ -93,7 +93,7 @@ def format_row_for_message(row):
     msg = "\n".join([f"{col}: {val}" for col, val in row.items()])
 
     msg += "\n\n"
-    msg += f"https://www.openinsider.com/{row['Ticker']}\n"
+    msg += f"http://www.openinsider.com/{row['Ticker']}\n"
     msg += f"https://finance.yahoo.com/quote/{row['Ticker']}\n"
     msg += f"https://finviz.com/quote.ashx?t={row['Ticker']}\n"
 
