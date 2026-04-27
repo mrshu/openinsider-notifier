@@ -17,6 +17,7 @@ import pandas as pd
 import requests
 import yfinance as yf
 
+from research.alerting import apply_scores, format_alert_message, format_daily_digest
 from matrix_send import matrix_send
 from research.sec_signal_database import SEC_HEADERS, build_eligible, parse_filing, serialize_value
 
@@ -154,11 +155,14 @@ def enrich_with_market_data(eligible: pd.DataFrame) -> pd.DataFrame:
     market_rows = {}
     for ticker in tickers:
         try:
-            prices = yf.download(ticker, period="90d", interval="1d", auto_adjust=True, progress=False)
+            prices = yf.download(ticker, period="1y", interval="1d", auto_adjust=True, progress=False)
             if prices.empty:
                 continue
-            close = _last_scalar(prices["Close"])
-            dollar_volume = (prices["Close"] * prices["Volume"]).tail(60).mean()
+            close_series = price_series(prices, "Close")
+            volume_series = price_series(prices, "Volume")
+            close = _last_scalar(close_series)
+            high_52w = _last_scalar(close_series.max()) if close_series is not None else None
+            dollar_volume = (close_series * volume_series).tail(60).mean() if close_series is not None and volume_series is not None else None
             market_cap = None
             try:
                 market_cap = yf.Ticker(ticker).fast_info.get("market_cap")
@@ -166,18 +170,31 @@ def enrich_with_market_data(eligible: pd.DataFrame) -> pd.DataFrame:
                 market_cap = None
             market_rows[ticker] = {
                 "latest_close": close,
+                "high_52w": high_52w,
+                "drawdown_from_52w_high": close / high_52w - 1 if close and high_52w else None,
                 "adv60_dollars": _last_scalar(dollar_volume),
                 "current_market_cap": market_cap,
             }
         except Exception:  # noqa: BLE001 - preserve candidate rows even when Yahoo fails
             continue
 
-    for col in ["latest_close", "adv60_dollars", "current_market_cap"]:
+    for col in ["latest_close", "high_52w", "drawdown_from_52w_high", "adv60_dollars", "current_market_cap"]:
         enriched[col] = enriched["ticker"].map(lambda ticker: market_rows.get(str(ticker).upper(), {}).get(col))
     enriched["signal_value_to_adv60"] = enriched["purchase_value"] / enriched["adv60_dollars"]
     enriched["current_price_premium_to_insider_vwap"] = enriched["latest_close"] / enriched["price_per_share"] - 1
     enriched["purchase_to_market_cap"] = enriched["purchase_value"] / enriched["current_market_cap"]
     return enriched
+
+
+def price_series(prices: pd.DataFrame, column: str) -> pd.Series | None:
+    if column not in prices:
+        return None
+    values = prices[column]
+    if isinstance(values, pd.DataFrame):
+        if values.empty:
+            return None
+        values = values.iloc[:, 0]
+    return values.dropna()
 
 
 def _last_scalar(value: Any) -> float | None:
@@ -235,6 +252,8 @@ def build_candidate_episodes(scored: pd.DataFrame, config: ScanConfig) -> pd.Dat
             purchase_value=("purchase_value", "sum"),
             shares=("shares", "sum"),
             latest_close=("latest_close", "first"),
+            high_52w=("high_52w", "first"),
+            drawdown_from_52w_high=("drawdown_from_52w_high", "first"),
             adv60_dollars=("adv60_dollars", "first"),
             current_market_cap=("current_market_cap", "first"),
             transaction_rows=("record_key", "count"),
@@ -311,7 +330,9 @@ def run(config: ScanConfig) -> None:
         eligible["record_key"] = eligible.apply(record_key, axis=1)
     eligible = enrich_with_market_data(eligible)
     scored = score_candidates(eligible, config)
+    scored = apply_scores(scored)
     latest_episodes = build_candidate_episodes(scored, config)
+    latest_episodes = apply_scores(latest_episodes)
 
     existing_history = load_csv(config.output_dir / "eligible_purchase_history.csv")
     history = append_unique(existing_history, scored, "record_key")
@@ -331,13 +352,32 @@ def run(config: ScanConfig) -> None:
 
     previous_episode_keys = set(existing_episodes.get("episode_key", pd.Series(dtype=str)).astype(str))
     new_alerts = latest_episodes[
-        (latest_episodes.get("alert_candidate", False) == True)
+        (latest_episodes.get("research_tier", "") == "ALERT")
         & ~latest_episodes["episode_key"].astype(str).isin(previous_episode_keys)
     ].copy() if not latest_episodes.empty else latest_episodes
     if config.notify and not new_alerts.empty:
         loop = asyncio.get_event_loop()
         for _, row in new_alerts.iterrows():
-            loop.run_until_complete(matrix_send(format_candidate_message(row)))
+            loop.run_until_complete(matrix_send(format_alert_message(row)))
+
+    alert_messages = []
+    alert_rows = (
+        latest_episodes[latest_episodes["research_tier"].isin(["ALERT", "WATCH"])].iterrows()
+        if not latest_episodes.empty
+        else []
+    )
+    for _, row in alert_rows:
+        alert_messages.append(format_alert_message(row))
+    (config.output_dir / "alert_messages_latest.md").write_text("\n\n---\n\n".join(alert_messages), encoding="utf-8")
+    (config.output_dir / "daily_digest.md").write_text(
+        format_daily_digest(
+            latest_episodes,
+            lookback_hours=config.lookback_hours,
+            filings=len(filings),
+            raw_transactions=len(raw),
+        ),
+        encoding="utf-8",
+    )
 
     diagnostics = [
         "# Daily SEC Insider Signal Scan",
@@ -349,6 +389,8 @@ def run(config: ScanConfig) -> None:
         f"- Eligible purchases >= ${config.min_purchase_value:,.0f}: {len(eligible)}",
         f"- Monitor candidates: {len(latest_candidates)}",
         f"- Monitor episodes: {len(latest_episodes)}",
+        f"- ALERT-tier episodes: {(latest_episodes.get('research_tier', pd.Series(dtype=str)) == 'ALERT').sum() if not latest_episodes.empty else 0}",
+        f"- WATCH-tier episodes: {(latest_episodes.get('research_tier', pd.Series(dtype=str)) == 'WATCH').sum() if not latest_episodes.empty else 0}",
         f"- New alert candidates: {len(new_alerts)}",
         f"- Historical eligible purchases: {len(history)}",
         f"- Historical candidates: {len(candidate_history)}",
