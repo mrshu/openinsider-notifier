@@ -43,6 +43,9 @@ jobs:
             --max-entries 500 \
             ${notify_arg}
 
+      - name: Update forward return audit
+        run: uv run python -m research.forward_returns
+
       - name: Commit signal artifacts
         run: |
           git config user.name "Automated"

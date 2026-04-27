@@ -341,11 +341,13 @@ def run(config: ScanConfig) -> None:
     latest_candidates = scored[scored.get("monitor_candidate", False) == True].copy() if not scored.empty else scored
     existing_candidates = load_csv(config.output_dir / "candidate_history.csv")
     candidate_history = append_unique(existing_candidates, latest_candidates, "record_key")
+    candidate_history = apply_scores(candidate_history)
     candidate_history.map(serialize_value).to_csv(config.output_dir / "candidate_history.csv", index=False)
     latest_candidates.map(serialize_value).to_csv(config.output_dir / "watchlist_candidates_latest.csv", index=False)
 
     existing_episodes = load_csv(config.output_dir / "candidate_episode_history.csv")
     episode_history = append_unique(existing_episodes, latest_episodes, "episode_key")
+    episode_history = apply_scores(episode_history)
     episode_history.map(serialize_value).to_csv(config.output_dir / "candidate_episode_history.csv", index=False)
     latest_episodes.map(serialize_value).to_csv(config.output_dir / "watchlist_episodes_latest.csv", index=False)
     dropped.map(serialize_value).to_csv(config.output_dir / "dropped_transactions_latest.csv", index=False)

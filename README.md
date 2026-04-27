@@ -24,6 +24,10 @@ The scanner writes:
 - `eligible_purchase_history.csv`
 - `watchlist_candidates_latest.csv`
 - `watchlist_episodes_latest.csv`
+- `alert_messages_latest.md`
+- `daily_digest.md`
+- `candidate_forward_returns.csv`
+- `forward_return_report.md`
 - `candidate_history.csv`
 - `candidate_episode_history.csv`
 - `daily_diagnostics.md`
@@ -41,6 +45,15 @@ Alert candidates are stricter: purchase value / ADV60 at least `5%`, or
 purchase value at least `$2m`. The workflow `.github/workflows/sec-daily-scan.yaml`
 runs this daily, commits `data/live/sec_daily`, and sends Matrix alerts only
 when the Matrix password secret is present.
+
+Each candidate is also assigned an explainable `research_score` and
+`research_tier`. The score is intentionally simple and stored with JSON
+reasons/caveats so every alert can be audited later. The workflow updates a
+free-data forward-return audit after every scan:
+
+```bash
+uv run python -m research.forward_returns
+```
 
 ## Free-data insider backtest
 
