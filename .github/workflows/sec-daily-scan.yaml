@@ -1,0 +1,63 @@
+name: SEC Daily Signal Scan
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "30 23 * * 1-5"
+    - cron: "30 23 * * 0"
+
+permissions:
+  contents: write
+
+jobs:
+  scan:
+    name: scan
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install uv
+        uses: astral-sh/setup-uv@v2
+
+      - name: Set up Python
+        run: uv python install 3.13
+
+      - name: Install the project
+        run: uv sync --all-extras --dev
+
+      - name: Run SEC daily signal scan
+        env:
+          ARGENTARIS_MATRIX_PASSWORD: ${{ secrets.ARGENTARIS_MATRIX_PASSWORD }}
+        run: |
+          notify_arg=""
+          if [ -n "${ARGENTARIS_MATRIX_PASSWORD:-}" ]; then
+            notify_arg="--notify"
+          fi
+
+          uv run python -m research.daily_signal_scan \
+            --output-dir data/live/sec_daily \
+            --cache-dir /tmp/openinsider-notifier/sec-cache \
+            --state-file data/live/sec_daily/state.json \
+            --lookback-hours 96 \
+            --max-entries 500 \
+            ${notify_arg}
+
+      - name: Commit signal artifacts
+        run: |
+          git config user.name "Automated"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/live/sec_daily
+          git diff --cached --quiet && exit 0
+          git commit -F - <<'EOF'
+          chore: update SEC daily signal data
+
+          Previously the live signal data was stale until the scanner ran
+          locally; this commit records the latest SEC Form 4 scan output.
+          The workflow keeps generated SEC cache files out of version control.
+
+          - Update `data/live/sec_daily` with current watchlist artifacts
+          - Preserve candidate history and scanner state for deduped alerts
+          EOF
+          git show -s --format='%H%n%an <%ae>%n%cn <%ce>%n%n%B' HEAD
+          git push

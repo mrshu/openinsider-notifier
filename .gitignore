@@ -118,6 +118,11 @@ __pypackages__/
 celerybeat-schedule
 celerybeat.pid
 
+# Generated backtest outputs
+data/cache/
+data/raw/
+data/results/
+
 # SageMath parsed files
 *.sage.py
 
