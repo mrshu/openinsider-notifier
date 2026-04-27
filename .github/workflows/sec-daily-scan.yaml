@@ -29,10 +29,15 @@ jobs:
       - name: Run SEC daily signal scan
         env:
           ARGENTARIS_MATRIX_PASSWORD: ${{ secrets.ARGENTARIS_MATRIX_PASSWORD }}
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
         run: |
           notify_arg=""
           if [ -n "${ARGENTARIS_MATRIX_PASSWORD:-}" ]; then
             notify_arg="--notify"
+          fi
+          discord_arg=""
+          if [ -n "${DISCORD_WEBHOOK_URL:-}" ]; then
+            discord_arg="--notify-discord"
           fi
 
           uv run python -m research.daily_signal_scan \
@@ -41,7 +46,8 @@ jobs:
             --state-file data/live/sec_daily/state.json \
             --lookback-hours 96 \
             --max-entries 500 \
-            ${notify_arg}
+            ${notify_arg} \
+            ${discord_arg}
 
       - name: Update forward return audit
         run: uv run python -m research.forward_returns

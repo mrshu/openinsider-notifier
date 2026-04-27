@@ -55,6 +55,7 @@ def test_score_candidates_requires_liquidity_or_large_value_and_price_discipline
         alert_adv60_ratio=0.05,
         max_price_premium=0.15,
         notify=False,
+        notify_discord=False,
     )
     frame = pd.DataFrame(
         [
@@ -99,6 +100,7 @@ def test_score_candidates_does_not_pass_missing_price_gate(tmp_path) -> None:
         alert_adv60_ratio=0.05,
         max_price_premium=0.15,
         notify=False,
+        notify_discord=False,
     )
     frame = pd.DataFrame(
         [

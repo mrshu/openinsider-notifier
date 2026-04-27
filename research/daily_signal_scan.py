@@ -17,6 +17,7 @@ import pandas as pd
 import requests
 import yfinance as yf
 
+from discord_send import discord_send
 from research.alerting import apply_scores, format_alert_message, format_daily_digest
 from matrix_send import matrix_send
 from research.sec_signal_database import SEC_HEADERS, build_eligible, parse_filing, serialize_value
@@ -38,6 +39,7 @@ class ScanConfig:
     alert_adv60_ratio: float
     max_price_premium: float
     notify: bool
+    notify_discord: bool
 
 
 def sec_get_text(url: str, sleep_seconds: float) -> str:
@@ -402,6 +404,9 @@ def run(config: ScanConfig) -> None:
         loop = asyncio.get_event_loop()
         for _, row in new_alerts.iterrows():
             loop.run_until_complete(matrix_send(format_alert_message(row)))
+    if config.notify_discord and not new_alerts.empty:
+        for _, row in new_alerts.iterrows():
+            discord_send(format_alert_message(row))
 
     alert_rows = []
     new_alert_rows = new_alerts.iterrows() if not new_alerts.empty else []
@@ -505,6 +510,7 @@ def parse_args() -> ScanConfig:
     parser.add_argument("--alert-adv60-ratio", type=float, default=0.05)
     parser.add_argument("--max-price-premium", type=float, default=0.15)
     parser.add_argument("--notify", action="store_true")
+    parser.add_argument("--notify-discord", action="store_true")
     args = parser.parse_args()
     return ScanConfig(
         output_dir=args.output_dir,
@@ -518,6 +524,7 @@ def parse_args() -> ScanConfig:
         alert_adv60_ratio=args.alert_adv60_ratio,
         max_price_premium=args.max_price_premium,
         notify=args.notify,
+        notify_discord=args.notify_discord,
     )
 
 
