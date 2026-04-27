@@ -46,7 +46,10 @@ def score_insider_candidate(row: pd.Series) -> ScoreResult:
     elif pd.isna(value_to_adv60):
         caveats.append("ADV60 unavailable")
 
-    if premium <= 0:
+    if pd.isna(premium):
+        score -= 2
+        caveats.append("latest price or insider VWAP unavailable; price gate cannot be verified")
+    elif premium <= 0:
         score += 1
         reasons.append(f"current price below insider VWAP ({premium:.1%})")
     elif premium <= 0.15:

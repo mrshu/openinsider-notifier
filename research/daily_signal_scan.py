@@ -138,6 +138,47 @@ def load_csv(path: Path) -> pd.DataFrame:
     return pd.read_csv(path)
 
 
+def read_jsonl(path: Path) -> list[dict[str, Any]]:
+    if not path.exists():
+        return []
+    rows = []
+    with path.open(encoding="utf-8") as handle:
+        for line in handle:
+            if line.strip():
+                rows.append(json.loads(line))
+    return rows
+
+
+def append_jsonl_unique(path: Path, rows: list[dict[str, Any]], key_col: str) -> list[dict[str, Any]]:
+    existing = read_jsonl(path)
+    seen = {str(row.get(key_col)) for row in existing}
+    appended = []
+    for row in rows:
+        key = str(row.get(key_col))
+        if key in seen:
+            continue
+        existing.append(row)
+        appended.append(row)
+        seen.add(key)
+    path.parent.mkdir(parents=True, exist_ok=True)
+    with path.open("w", encoding="utf-8") as handle:
+        for row in existing:
+            handle.write(json.dumps(json_ready(row), sort_keys=True) + "\n")
+    return appended
+
+
+def json_ready(row: dict[str, Any]) -> dict[str, Any]:
+    cleaned = {}
+    for key, value in row.items():
+        if pd.isna(value) if not isinstance(value, (list, dict)) else False:
+            cleaned[key] = None
+        elif isinstance(value, pd.Timestamp):
+            cleaned[key] = value.isoformat()
+        else:
+            cleaned[key] = value
+    return cleaned
+
+
 def append_unique(existing: pd.DataFrame, new: pd.DataFrame, key_col: str) -> pd.DataFrame:
     if existing.empty:
         return new.copy()
@@ -221,8 +262,8 @@ def score_candidates(enriched: pd.DataFrame, config: ScanConfig) -> pd.DataFrame
     candidates["passes_adv60_monitor"] = candidates["signal_value_to_adv60"] >= config.min_adv60_ratio
     candidates["passes_adv60_alert"] = candidates["signal_value_to_adv60"] >= config.alert_adv60_ratio
     candidates["passes_price_premium"] = (
-        candidates["current_price_premium_to_insider_vwap"].isna()
-        | (candidates["current_price_premium_to_insider_vwap"] <= config.max_price_premium)
+        candidates["current_price_premium_to_insider_vwap"].notna()
+        & (candidates["current_price_premium_to_insider_vwap"] <= config.max_price_premium)
     )
     candidates["monitor_candidate"] = (
         candidates["passes_price_premium"]
@@ -267,8 +308,8 @@ def build_candidate_episodes(scored: pd.DataFrame, config: ScanConfig) -> pd.Dat
     episodes["passes_adv60_monitor"] = episodes["signal_value_to_adv60"] >= config.min_adv60_ratio
     episodes["passes_adv60_alert"] = episodes["signal_value_to_adv60"] >= config.alert_adv60_ratio
     episodes["passes_price_premium"] = (
-        episodes["current_price_premium_to_insider_vwap"].isna()
-        | (episodes["current_price_premium_to_insider_vwap"] <= config.max_price_premium)
+        episodes["current_price_premium_to_insider_vwap"].notna()
+        & (episodes["current_price_premium_to_insider_vwap"] <= config.max_price_premium)
     )
     episodes["monitor_candidate"] = (
         episodes["passes_price_premium"]
@@ -362,6 +403,15 @@ def run(config: ScanConfig) -> None:
         for _, row in new_alerts.iterrows():
             loop.run_until_complete(matrix_send(format_alert_message(row)))
 
+    alert_rows = []
+    new_alert_rows = new_alerts.iterrows() if not new_alerts.empty else []
+    for _, row in new_alert_rows:
+        payload = row.to_dict()
+        payload["alert_key"] = f"{payload.get('episode_key')}|{payload.get('research_tier')}|{payload.get('research_score')}"
+        payload["alert_created_at"] = datetime.now(UTC).isoformat()
+        alert_rows.append(payload)
+    appended_alerts = append_jsonl_unique(config.output_dir / "alert_history.jsonl", alert_rows, "alert_key")
+
     alert_messages = []
     alert_rows = (
         latest_episodes[latest_episodes["research_tier"].isin(["ALERT", "WATCH"])].iterrows()
@@ -379,6 +429,23 @@ def run(config: ScanConfig) -> None:
             raw_transactions=len(raw),
         ),
         encoding="utf-8",
+    )
+    append_jsonl_unique(
+        config.output_dir / "daily_runs.jsonl",
+        [
+            {
+                "run_key": datetime.now(UTC).strftime("%Y-%m-%dT%H:%M:%SZ"),
+                "created_at": datetime.now(UTC).isoformat(),
+                "lookback_hours": config.lookback_hours,
+                "filings": len(filings),
+                "raw_transactions": len(raw),
+                "eligible_purchases": len(eligible),
+                "monitor_candidates": len(latest_candidates),
+                "monitor_episodes": len(latest_episodes),
+                "new_alerts": len(appended_alerts),
+            }
+        ],
+        "run_key",
     )
 
     diagnostics = [
