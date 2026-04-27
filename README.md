@@ -43,9 +43,10 @@ The monitor rule is intentionally strict:
 
 Alert candidates are stricter: purchase value / ADV60 at least `5%`, or
 purchase value at least `$2m`. The workflow `.github/workflows/sec-daily-scan.yaml`
-runs this daily, commits `data/live/sec_daily`, sends Matrix alerts when
-`ARGENTARIS_MATRIX_PASSWORD` is present, and sends Discord alerts when
-`DISCORD_WEBHOOK_URL` is present.
+runs this daily, commits `data/live/sec_daily`, sends Matrix notifications
+when `ARGENTARIS_MATRIX_PASSWORD` is present, and sends Discord notifications
+when `DISCORD_WEBHOOK_URL` is present. Both `ALERT` and `WATCH` tiers are
+pushed, with the tier shown at the top of the message.
 
 Each candidate is also assigned an explainable `research_score` and
 `research_tier`. The score is intentionally simple and stored with JSON

@@ -6,6 +6,7 @@ from research.daily_signal_scan import (
     ScanConfig,
     append_jsonl_unique,
     archive_base_from_index_url,
+    build_candidate_episodes,
     parse_atom_entries,
     read_jsonl,
     score_candidates,
@@ -128,3 +129,51 @@ def test_append_jsonl_unique_dedupes_by_key(tmp_path) -> None:
     assert len(appended) == 1
     assert appended_again == []
     assert read_jsonl(path) == [{"alert_key": "a", "ticker": "AAA"}]
+
+
+def test_watch_episode_keeps_explicit_watch_tier(tmp_path) -> None:
+    config = ScanConfig(
+        output_dir=tmp_path,
+        cache_dir=tmp_path,
+        state_file=tmp_path / "state.json",
+        lookback_hours=72,
+        max_entries=100,
+        sleep_seconds=0,
+        min_purchase_value=100_000,
+        min_adv60_ratio=0.02,
+        alert_adv60_ratio=0.05,
+        max_price_premium=0.15,
+        notify=False,
+        notify_discord=False,
+    )
+    frame = pd.DataFrame(
+        [
+            {
+                "accession": "0000000000-26-000001",
+                "ticker": "AAA",
+                "issuer_name": "AAA Inc",
+                "insider_name": "Jane Doe",
+                "filing_datetime": "2026-04-27 20:00:00",
+                "purchase_value": 150_000,
+                "shares": 10_000,
+                "signal_value_to_adv60": 0.03,
+                "current_price_premium_to_insider_vwap": 0.05,
+                "latest_close": 15.75,
+                "high_52w": 20.0,
+                "drawdown_from_52w_high": -0.2125,
+                "adv60_dollars": 5_000_000,
+                "current_market_cap": 1_000_000_000,
+                "record_key": "row-1",
+                "cik": "0000123456",
+            }
+        ]
+    )
+
+    scored = score_candidates(frame, config)
+    episodes = build_candidate_episodes(scored, config)
+
+    from research.alerting import apply_scores
+
+    episodes = apply_scores(episodes)
+
+    assert episodes.iloc[0]["research_tier"] == "WATCH"

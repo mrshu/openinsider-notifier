@@ -396,20 +396,20 @@ def run(config: ScanConfig) -> None:
     dropped.map(serialize_value).to_csv(config.output_dir / "dropped_transactions_latest.csv", index=False)
 
     previous_episode_keys = set(existing_episodes.get("episode_key", pd.Series(dtype=str)).astype(str))
-    new_alerts = latest_episodes[
-        (latest_episodes.get("research_tier", "") == "ALERT")
+    new_notifications = latest_episodes[
+        (latest_episodes.get("research_tier", "").isin(["ALERT", "WATCH"]))
         & ~latest_episodes["episode_key"].astype(str).isin(previous_episode_keys)
     ].copy() if not latest_episodes.empty else latest_episodes
-    if config.notify and not new_alerts.empty:
+    if config.notify and not new_notifications.empty:
         loop = asyncio.get_event_loop()
-        for _, row in new_alerts.iterrows():
+        for _, row in new_notifications.iterrows():
             loop.run_until_complete(matrix_send(format_alert_message(row)))
-    if config.notify_discord and not new_alerts.empty:
-        for _, row in new_alerts.iterrows():
+    if config.notify_discord and not new_notifications.empty:
+        for _, row in new_notifications.iterrows():
             discord_send(format_alert_message(row))
 
     alert_rows = []
-    new_alert_rows = new_alerts.iterrows() if not new_alerts.empty else []
+    new_alert_rows = new_notifications.iterrows() if not new_notifications.empty else []
     for _, row in new_alert_rows:
         payload = row.to_dict()
         payload["alert_key"] = f"{payload.get('episode_key')}|{payload.get('research_tier')}|{payload.get('research_score')}"
@@ -447,7 +447,7 @@ def run(config: ScanConfig) -> None:
                 "eligible_purchases": len(eligible),
                 "monitor_candidates": len(latest_candidates),
                 "monitor_episodes": len(latest_episodes),
-                "new_alerts": len(appended_alerts),
+                "new_notifications": len(appended_alerts),
             }
         ],
         "run_key",
@@ -465,7 +465,7 @@ def run(config: ScanConfig) -> None:
         f"- Monitor episodes: {len(latest_episodes)}",
         f"- ALERT-tier episodes: {(latest_episodes.get('research_tier', pd.Series(dtype=str)) == 'ALERT').sum() if not latest_episodes.empty else 0}",
         f"- WATCH-tier episodes: {(latest_episodes.get('research_tier', pd.Series(dtype=str)) == 'WATCH').sum() if not latest_episodes.empty else 0}",
-        f"- New alert candidates: {len(new_alerts)}",
+        f"- New ALERT/WATCH notifications: {len(new_notifications)}",
         f"- Historical eligible purchases: {len(history)}",
         f"- Historical candidates: {len(candidate_history)}",
         f"- Historical candidate episodes: {len(episode_history)}",
