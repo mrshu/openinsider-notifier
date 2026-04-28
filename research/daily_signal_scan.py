@@ -10,7 +10,7 @@ from dataclasses import dataclass
 from datetime import UTC, datetime, timedelta
 from pathlib import Path
 from typing import Any
-from urllib.parse import urlparse
+from urllib.parse import quote, urlparse
 from xml.etree import ElementTree
 
 import pandas as pd
@@ -342,7 +342,7 @@ def format_candidate_message(row: pd.Series) -> str:
             f"Value/ADV60: {float(row.get('signal_value_to_adv60', 0)) * 100:.1f}%",
             f"Price premium to insider VWAP: {float(row.get('current_price_premium_to_insider_vwap', 0)) * 100:.1f}%",
             f"Accession: {row.get('accession')}",
-            f"https://www.sec.gov/Archives/edgar/data/{int(row.get('cik'))}/{str(row.get('accession')).replace('-', '')}/",
+            f"https://www.openinsider.com/{quote(str(row.get('ticker')).strip().upper())}",
             f"https://finance.yahoo.com/quote/{row.get('ticker')}",
         ]
     )

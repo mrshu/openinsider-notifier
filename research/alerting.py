@@ -3,6 +3,7 @@ from __future__ import annotations
 import json
 from dataclasses import dataclass
 from typing import Iterable
+from urllib.parse import quote
 
 import pandas as pd
 
@@ -134,7 +135,7 @@ def format_alert_message(row: pd.Series) -> str:
         [
             "",
             "Links:",
-            sec_archive_url(row),
+            openinsider_url(row),
             f"https://finance.yahoo.com/quote/{ticker}",
             f"https://finviz.com/quote.ashx?t={ticker}",
         ]
@@ -190,16 +191,11 @@ def parse_json_list(value: object) -> list[str]:
     return [str(parsed)]
 
 
-def sec_archive_url(row: pd.Series) -> str:
-    cik = str(row.get("cik", "")).strip()
-    accession = str(row.get("accession", "")).strip()
-    if not cik or not accession:
-        return "SEC filing: n/a"
-    try:
-        cik_path = str(int(float(cik)))
-    except ValueError:
-        cik_path = cik.lstrip("0") or cik
-    return f"https://www.sec.gov/Archives/edgar/data/{cik_path}/{accession.replace('-', '')}/"
+def openinsider_url(row: pd.Series) -> str:
+    ticker = str(row.get("ticker", "")).strip().upper()
+    if not ticker or ticker.lower() == "nan":
+        return "OpenInsider: n/a"
+    return f"https://www.openinsider.com/{quote(ticker)}"
 
 
 def number(value: object, default: float = float("nan")) -> float:
