@@ -1,3 +1,5 @@
 episode_key,ticker,issuer_name,filing_datetime,research_score,research_tier,entry_date,entry_price,benchmark_entry_price,return_30d,benchmark_return_30d,excess_return_30d,return_90d,benchmark_return_90d,excess_return_90d,return_180d,benchmark_return_180d,excess_return_180d,return_366d,benchmark_return_366d,excess_return_366d
 16d39ddfe7159d1775a41a985761d5ab55f04163976066f893dc0e46a9f41000,TORO,TORO CORP.,2026-04-24 22:34:43,8,ALERT,2026-04-24,6.900000095367432,713.9400024414062,,,,,,,,,,,,
+716aa5e9dd1e0edb7551fdbfee704a9ff92a89358f45cda26427bf701e86da21,KREF,KKR Real Estate Finance Trust Inc.,2026-04-27 20:30:42,6,WATCH,2026-04-27,5.880000114440918,715.1699829101562,,,,,,,,,,,,
+2dfcd129bc4c17c24dd014d3c12fd7a701b31af0435c99291f903d9a9264afcf,KREF,KKR Real Estate Finance Trust Inc.,2026-04-27 20:30:41,6,WATCH,2026-04-27,5.880000114440918,715.1699829101562,,,,,,,,,,,,
 85bcdac85c00f9ebb009b5b8a45688d0824fe2c5c49b35eeb3b6e96f5c2cf1e6,CRESY,CRESUD INC,2026-04-25 00:10:09,4,WATCH,2026-04-27,11.220000267028809,715.1699829101562,,,,,,,,,,,,
