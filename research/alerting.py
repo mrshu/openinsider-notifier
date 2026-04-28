@@ -195,7 +195,7 @@ def openinsider_url(row: pd.Series) -> str:
     ticker = str(row.get("ticker", "")).strip().upper()
     if not ticker or ticker.lower() == "nan":
         return "OpenInsider: n/a"
-    return f"https://www.openinsider.com/{quote(ticker)}"
+    return f"http://www.openinsider.com/{quote(ticker)}"
 
 
 def number(value: object, default: float = float("nan")) -> float:

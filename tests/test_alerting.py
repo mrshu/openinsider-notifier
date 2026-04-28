@@ -81,7 +81,7 @@ def test_format_alert_message_contains_decision_context() -> None:
     assert "Purchase / ADV60" in message
     assert "SEC filing" not in message
     assert "https://www.sec.gov/Archives" not in message
-    assert "https://www.openinsider.com/AAA" in message
+    assert "http://www.openinsider.com/AAA" in message
 
 
 def test_format_daily_digest_summarizes_tiers() -> None:
