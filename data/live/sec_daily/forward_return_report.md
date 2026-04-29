@@ -1,6 +1,6 @@
 # Forward Return Audit
 
-Created at: `2026-04-28T00:12:47.210833+00:00`
+Created at: `2026-04-29T00:14:39.736718+00:00`
 
 Returns use free Yahoo adjusted closes and are for monitoring, not production-grade attribution.
 
