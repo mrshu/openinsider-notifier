@@ -1,6 +1,6 @@
 # Forward Return Audit
 
-Created at: `2026-04-30T00:14:45.823616+00:00`
+Created at: `2026-05-01T00:13:40.292110+00:00`
 
 Returns use free Yahoo adjusted closes and are for monitoring, not production-grade attribution.
 
@@ -9,6 +9,7 @@ Returns use free Yahoo adjusted closes and are for monitoring, not production-gr
 | ZBIO | ALERT | 9 | $17.55 | n/a | n/a | n/a | n/a |
 | TORO | ALERT | 8 | $6.90 | n/a | n/a | n/a | n/a |
 | CXIIU | ALERT | 7 | $10.10 | n/a | n/a | n/a | n/a |
+| ANIK | WATCH | 6 | $12.45 | n/a | n/a | n/a | n/a |
 | KREF | WATCH | 6 | $5.88 | n/a | n/a | n/a | n/a |
 | KREF | WATCH | 6 | $5.88 | n/a | n/a | n/a | n/a |
 | CRESY | WATCH | 4 | $11.22 | n/a | n/a | n/a | n/a |
