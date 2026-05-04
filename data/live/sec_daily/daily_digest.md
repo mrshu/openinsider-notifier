@@ -1,8 +1,8 @@
 # Daily Insider Signal Digest
 
 - Lookback hours: 96
-- Form 4/4-A filings discovered: 254
-- Raw P/A transactions parsed: 9
+- Form 4/4-A filings discovered: 234
+- Raw P/A transactions parsed: 8
 - Alert candidates: 0
 - Watch candidates: 0
 
