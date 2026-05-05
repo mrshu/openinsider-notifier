@@ -1,6 +1,6 @@
 # Forward Return Audit
 
-Created at: `2026-05-04T00:10:05.185115+00:00`
+Created at: `2026-05-05T00:14:43.069783+00:00`
 
 Returns use free Yahoo adjusted closes and are for monitoring, not production-grade attribution.
 
@@ -12,4 +12,5 @@ Returns use free Yahoo adjusted closes and are for monitoring, not production-gr
 | ANIK | WATCH | 6 | $12.45 | n/a | n/a | n/a | n/a |
 | KREF | WATCH | 6 | $5.88 | n/a | n/a | n/a | n/a |
 | KREF | WATCH | 6 | $5.88 | n/a | n/a | n/a | n/a |
+| TMUS | WATCH | 5 | $194.42 | n/a | n/a | n/a | n/a |
 | CRESY | WATCH | 4 | $11.22 | n/a | n/a | n/a | n/a |
