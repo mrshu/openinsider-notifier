@@ -1,6 +1,6 @@
 episode_key,ticker,issuer_name,filing_datetime,research_score,research_tier,entry_date,entry_price,benchmark_entry_price,return_30d,benchmark_return_30d,excess_return_30d,return_90d,benchmark_return_90d,excess_return_90d,return_180d,benchmark_return_180d,excess_return_180d,return_366d,benchmark_return_366d,excess_return_366d
 be0f5d8d975e7b68b93a9f0382604cfe2081761600ed795ba5f83c8a1c4fffc1,ZBIO,"Zenas BioPharma, Inc.",2026-04-29 23:21:02,9,ALERT,2026-04-29,17.549999237060547,711.5800170898438,,,,,,,,,,,,
-16d39ddfe7159d1775a41a985761d5ab55f04163976066f893dc0e46a9f41000,TORO,TORO CORP.,2026-04-24 22:34:43,8,ALERT,2026-04-24,6.900000095367432,713.9400024414062,,,,,,,,,,,,
+16d39ddfe7159d1775a41a985761d5ab55f04163976066f893dc0e46a9f41000,TORO,TORO CORP.,2026-04-24 22:34:43,8,ALERT,2026-04-24,6.091406345367432,713.9400024414062,,,,,,,,,,,,
 c6162bbc984873d1543402f4b7f63d4eaf0b89b9bdd471474fe3ac7dbbfbe439,CXIIU,Churchill Capital Corp XII,2026-04-29 20:50:07,7,ALERT,2026-04-29,10.100000381469727,711.5800170898438,,,,,,,,,,,,
 e7024ede8dfa231cc257d8e555cd7d28f6bb8407f4d6906ba10bad1c1fee7074,ANIK,"Anika Therapeutics, Inc.",2026-04-30 21:22:40,6,WATCH,2026-04-30,12.449999809265137,718.6599731445312,,,,,,,,,,,,
 716aa5e9dd1e0edb7551fdbfee704a9ff92a89358f45cda26427bf701e86da21,KREF,KKR Real Estate Finance Trust Inc.,2026-04-27 20:30:42,6,WATCH,2026-04-27,5.880000114440918,715.1699829101562,,,,,,,,,,,,
