@@ -1,11 +1,13 @@
 # Forward Return Audit
 
-Created at: `2026-05-06T00:12:28.111368+00:00`
+Created at: `2026-05-07T00:11:06.815542+00:00`
 
 Returns use free Yahoo adjusted closes and are for monitoring, not production-grade attribution.
 
 | Ticker | Tier | Score | Entry | 30d Excess | 90d Excess | 180d Excess | 366d Excess |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: |
+| NSP | ALERT | 10 | $28.75 | n/a | n/a | n/a | n/a |
+| COAG | ALERT | 9 | $25.01 | n/a | n/a | n/a | n/a |
 | ZBIO | ALERT | 9 | $17.55 | n/a | n/a | n/a | n/a |
 | TORO | ALERT | 8 | $6.09 | n/a | n/a | n/a | n/a |
 | CXIIU | ALERT | 7 | $10.10 | n/a | n/a | n/a | n/a |
