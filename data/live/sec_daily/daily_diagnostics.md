@@ -1,17 +1,17 @@
 # Daily SEC Insider Signal Scan
 
-Created at: `2026-05-11T00:13:15.664951+00:00`
+Created at: `2026-05-12T01:16:44.894214+00:00`
 - Lookback hours: 96
-- Form 4/4-A filings discovered: 225
-- Raw P/A transactions parsed: 2
-- Eligible purchases >= $100,000: 0
-- Monitor candidates: 0
-- Monitor episodes: 0
-- ALERT-tier episodes: 0
-- WATCH-tier episodes: 0
-- New ALERT/WATCH notifications: 0
-- Historical eligible purchases: 48
-- Historical candidates: 16
-- Historical candidate episodes: 10
+- Form 4/4-A filings discovered: 234
+- Raw P/A transactions parsed: 35
+- Eligible purchases >= $100,000: 17
+- Monitor candidates: 9
+- Monitor episodes: 7
+- ALERT-tier episodes: 3
+- WATCH-tier episodes: 4
+- New ALERT/WATCH notifications: 7
+- Historical eligible purchases: 65
+- Historical candidates: 25
+- Historical candidate episodes: 17
 
 Monitor rule: eligible Form 4 code-P acquisition by officer/director, value >= $100,000, current price no more than 15% above insider VWAP, and either value/ADV60 >= 2% or value >= $1,000,000.
