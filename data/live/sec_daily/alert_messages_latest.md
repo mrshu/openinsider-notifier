@@ -1,87 +1,20 @@
-[ALERT] TXO - TXO Partners, L.P.
-
-Insider signal:
-- Insider: SIMPSON BOB R
-- Filed: 2026-05-11 21:38:43
-- Purchase value: $9,456,496
-- Insider VWAP: $12.61
-- Latest price: $12.50
-- Premium to insider VWAP: -0.9%
-
-Why flagged:
-- purchase value >= $2m ($9,456,496)
-- purchase value / ADV60 >= 5% (352.4%)
-- current price below insider VWAP (-0.9%)
-- stock down at least 15% from 52w high (-20.2%)
-- multiple purchase rows in filing (3)
-
-Context:
-- Purchase / ADV60: 352.4%
-- 52w drawdown: -20.2%
-- Market cap: n/a
-- Purchase / market cap: n/a
-- Score: 9
-
-Caveats:
-- market cap unavailable
-
-Links:
-http://www.openinsider.com/TXO
-https://finance.yahoo.com/quote/TXO
-https://finviz.com/quote.ashx?t=TXO
-
----
-
-[ALERT] PLSE - PULSE BIOSCIENCES, INC.
-
-Insider signal:
-- Insider: DUGGAN ROBERT W
-- Filed: 2026-05-11 22:52:09
-- Purchase value: $12,999,988
-- Insider VWAP: $19.69
-- Latest price: $19.08
-- Premium to insider VWAP: -3.1%
-
-Why flagged:
-- purchase value >= $2m ($12,999,988)
-- purchase value / ADV60 >= 5% (207.0%)
-- current price below insider VWAP (-3.1%)
-- stock down at least 15% from 52w high (-25.1%)
-
-Context:
-- Purchase / ADV60: 207.0%
-- 52w drawdown: -25.1%
-- Market cap: n/a
-- Purchase / market cap: n/a
-- Score: 8
-
-Caveats:
-- market cap unavailable
-
-Links:
-http://www.openinsider.com/PLSE
-https://finance.yahoo.com/quote/PLSE
-https://finviz.com/quote.ashx?t=PLSE
-
----
-
 [ALERT] ODTX - Odyssey Therapeutics, Inc.
 
 Insider signal:
-- Insider: Li Nan (LN)
-- Filed: 2026-05-12 00:30:26
+- Insider: Dimension Capital II, L.P.
+- Filed: 2026-05-12 21:37:36
 - Purchase value: $19,999,998
 - Insider VWAP: $18.00
-- Latest price: $17.45
-- Premium to insider VWAP: -3.1%
+- Latest price: $17.90
+- Premium to insider VWAP: -0.6%
 
 Why flagged:
 - purchase value >= $2m ($19,999,998)
-- purchase value / ADV60 >= 5% (67.2%)
-- current price below insider VWAP (-3.1%)
+- purchase value / ADV60 >= 5% (95.9%)
+- current price below insider VWAP (-0.6%)
 
 Context:
-- Purchase / ADV60: 67.2%
+- Purchase / ADV60: 95.9%
 - 52w drawdown: 0.0%
 - Market cap: n/a
 - Purchase / market cap: n/a
@@ -97,25 +30,57 @@ https://finviz.com/quote.ashx?t=ODTX
 
 ---
 
-[WATCH] LZ - LEGALZOOM.COM, INC.
+[ALERT] FCNCA - FIRST CITIZENS BANCSHARES INC /DE/
 
 Insider signal:
-- Insider: Stibel Jeffrey M
-- Filed: 2026-05-12 00:30:14
-- Purchase value: $768,988
-- Insider VWAP: $6.15
-- Latest price: $6.10
-- Premium to insider VWAP: -0.8%
+- Insider: HOLDING FRANK B JR
+- Filed: 2026-05-13 00:32:36
+- Purchase value: $10,257,311
+- Insider VWAP: $1,727
+- Latest price: $1,919
+- Premium to insider VWAP: 11.1%
 
 Why flagged:
-- purchase value >= $100k ($768,988)
-- purchase value / ADV60 >= 2% (4.3%)
-- current price below insider VWAP (-0.8%)
-- stock down at least 30% from 52w high (-45.4%)
+- purchase value >= $2m ($10,257,311)
+- purchase value / ADV60 >= 5% (5.9%)
+- current price within 15% of insider VWAP (11.1%)
 
 Context:
-- Purchase / ADV60: 4.3%
-- 52w drawdown: -45.4%
+- Purchase / ADV60: 5.9%
+- 52w drawdown: -12.8%
+- Market cap: n/a
+- Purchase / market cap: n/a
+- Score: 7
+
+Caveats:
+- market cap unavailable
+
+Links:
+http://www.openinsider.com/FCNCA
+https://finance.yahoo.com/quote/FCNCA
+https://finviz.com/quote.ashx?t=FCNCA
+
+---
+
+[WATCH] MKTW - MARKETWISE, INC.
+
+Insider signal:
+- Insider: Stansberry Frank Porter
+- Filed: 2026-05-12 21:31:50
+- Purchase value: $974,582
+- Insider VWAP: $18.97
+- Latest price: $18.06
+- Premium to insider VWAP: -4.8%
+
+Why flagged:
+- purchase value >= $100k ($974,582)
+- purchase value / ADV60 >= 5% (222.8%)
+- current price below insider VWAP (-4.8%)
+- multiple purchase rows in filing (4)
+
+Context:
+- Purchase / ADV60: 222.8%
+- 52w drawdown: -12.7%
 - Market cap: n/a
 - Purchase / market cap: n/a
 - Score: 6
@@ -124,105 +89,136 @@ Caveats:
 - market cap unavailable
 
 Links:
-http://www.openinsider.com/LZ
-https://finance.yahoo.com/quote/LZ
-https://finviz.com/quote.ashx?t=LZ
+http://www.openinsider.com/MKTW
+https://finance.yahoo.com/quote/MKTW
+https://finviz.com/quote.ashx?t=MKTW
 
 ---
 
-[WATCH] PLSE - PULSE BIOSCIENCES, INC.
+[WATCH] LILA - Liberty Latin America Ltd.
 
 Insider signal:
-- Insider: LAVIOLETTE PAUL A
-- Filed: 2026-05-11 22:53:24
-- Purchase value: $295,350
-- Insider VWAP: $19.69
-- Latest price: $19.08
-- Premium to insider VWAP: -3.1%
+- Insider: Nair Balan
+- Filed: 2026-05-12 21:29:20
+- Purchase value: $161,490
+- Insider VWAP: $8.07
+- Latest price: $7.41
+- Premium to insider VWAP: -8.2%
 
 Why flagged:
-- purchase value >= $100k ($295,350)
-- purchase value / ADV60 >= 2% (4.7%)
-- current price below insider VWAP (-3.1%)
-- stock down at least 15% from 52w high (-25.1%)
+- purchase value >= $100k ($161,490)
+- purchase value / ADV60 >= 5% (6.6%)
+- current price below insider VWAP (-8.2%)
+- stock down at least 15% from 52w high (-16.5%)
 
 Context:
-- Purchase / ADV60: 4.7%
-- 52w drawdown: -25.1%
+- Purchase / ADV60: 6.6%
+- 52w drawdown: -16.5%
 - Market cap: n/a
 - Purchase / market cap: n/a
-- Score: 5
+- Score: 6
 
 Caveats:
 - market cap unavailable
 
 Links:
-http://www.openinsider.com/PLSE
-https://finance.yahoo.com/quote/PLSE
-https://finviz.com/quote.ashx?t=PLSE
+http://www.openinsider.com/LILA
+https://finance.yahoo.com/quote/LILA
+https://finviz.com/quote.ashx?t=LILA
 
 ---
 
-[WATCH] PLSE - PULSE BIOSCIENCES, INC.
+[WATCH] PTLO - Portillo's Inc.
 
 Insider signal:
-- Insider: LAVIOLETTE PAUL A
-- Filed: 2026-05-12 00:52:41
-- Purchase value: $295,350
-- Insider VWAP: $19.69
-- Latest price: $19.08
-- Premium to insider VWAP: -3.1%
+- Insider: LEE EUGENE I JR
+- Filed: 2026-05-12 22:03:24
+- Purchase value: $300,306
+- Insider VWAP: $4.28
+- Latest price: $4.05
+- Premium to insider VWAP: -5.4%
 
 Why flagged:
-- purchase value >= $100k ($295,350)
-- purchase value / ADV60 >= 2% (4.7%)
-- current price below insider VWAP (-3.1%)
-- stock down at least 15% from 52w high (-25.1%)
+- purchase value >= $100k ($300,306)
+- purchase value / ADV60 >= 2% (3.5%)
+- current price below insider VWAP (-5.4%)
+- stock down at least 30% from 52w high (-69.7%)
 
 Context:
-- Purchase / ADV60: 4.7%
-- 52w drawdown: -25.1%
+- Purchase / ADV60: 3.5%
+- 52w drawdown: -69.7%
 - Market cap: n/a
 - Purchase / market cap: n/a
-- Score: 5
+- Score: 6
 
 Caveats:
 - market cap unavailable
 
 Links:
-http://www.openinsider.com/PLSE
-https://finance.yahoo.com/quote/PLSE
-https://finviz.com/quote.ashx?t=PLSE
+http://www.openinsider.com/PTLO
+https://finance.yahoo.com/quote/PTLO
+https://finviz.com/quote.ashx?t=PTLO
 
 ---
 
-[WATCH] TXO - TXO Partners, L.P.
+[WATCH] XRN - Chiron Real Estate Inc.
 
 Insider signal:
-- Insider: ADAMS WILLIAM H III
-- Filed: 2026-05-11 21:39:29
-- Purchase value: $124,117
-- Insider VWAP: $12.41
-- Latest price: $12.50
-- Premium to insider VWAP: 0.7%
+- Insider: Decker Mark Okey Jr
+- Filed: 2026-05-12 21:41:59
+- Purchase value: $135,960
+- Insider VWAP: $33.99
+- Latest price: $34.11
+- Premium to insider VWAP: 0.4%
 
 Why flagged:
-- purchase value >= $100k ($124,117)
-- purchase value / ADV60 >= 2% (4.6%)
-- current price within 15% of insider VWAP (0.7%)
-- stock down at least 15% from 52w high (-20.2%)
+- purchase value >= $100k ($135,960)
+- purchase value / ADV60 >= 2% (2.8%)
+- current price within 15% of insider VWAP (0.4%)
 
 Context:
-- Purchase / ADV60: 4.6%
-- 52w drawdown: -20.2%
+- Purchase / ADV60: 2.8%
+- 52w drawdown: -7.0%
 - Market cap: n/a
 - Purchase / market cap: n/a
-- Score: 5
+- Score: 4
 
 Caveats:
 - market cap unavailable
 
 Links:
-http://www.openinsider.com/TXO
-https://finance.yahoo.com/quote/TXO
-https://finviz.com/quote.ashx?t=TXO
+http://www.openinsider.com/XRN
+https://finance.yahoo.com/quote/XRN
+https://finviz.com/quote.ashx?t=XRN
+
+---
+
+[WATCH] XRN - Chiron Real Estate Inc.
+
+Insider signal:
+- Insider: KIERNAN ROBERT J
+- Filed: 2026-05-12 21:44:18
+- Purchase value: $100,470
+- Insider VWAP: $33.49
+- Latest price: $34.11
+- Premium to insider VWAP: 1.9%
+
+Why flagged:
+- purchase value >= $100k ($100,470)
+- purchase value / ADV60 >= 2% (2.1%)
+- current price within 15% of insider VWAP (1.9%)
+
+Context:
+- Purchase / ADV60: 2.1%
+- 52w drawdown: -7.0%
+- Market cap: n/a
+- Purchase / market cap: n/a
+- Score: 4
+
+Caveats:
+- market cap unavailable
+
+Links:
+http://www.openinsider.com/XRN
+https://finance.yahoo.com/quote/XRN
+https://finviz.com/quote.ashx?t=XRN

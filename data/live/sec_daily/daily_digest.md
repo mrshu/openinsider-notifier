@@ -1,20 +1,20 @@
 # Daily Insider Signal Digest
 
 - Lookback hours: 96
-- Form 4/4-A filings discovered: 234
-- Raw P/A transactions parsed: 35
-- Alert candidates: 3
-- Watch candidates: 4
+- Form 4/4-A filings discovered: 277
+- Raw P/A transactions parsed: 52
+- Alert candidates: 2
+- Watch candidates: 5
 - Archived candidates: 0
 
 ## Top Candidates
 
 | Tier | Ticker | Company | Score | Value | Value/ADV60 | Premium | Drawdown |
 | --- | --- | --- | ---: | ---: | ---: | ---: | ---: |
-| ALERT | TXO | TXO Partners, L.P. | 9 | $9,456,496 | 352.4% | -0.9% | -20.2% |
-| ALERT | PLSE | PULSE BIOSCIENCES, INC. | 8 | $12,999,988 | 207.0% | -3.1% | -25.1% |
-| ALERT | ODTX | Odyssey Therapeutics, Inc. | 7 | $19,999,998 | 67.2% | -3.1% | 0.0% |
-| WATCH | LZ | LEGALZOOM.COM, INC. | 6 | $768,988 | 4.3% | -0.8% | -45.4% |
-| WATCH | PLSE | PULSE BIOSCIENCES, INC. | 5 | $295,350 | 4.7% | -3.1% | -25.1% |
-| WATCH | PLSE | PULSE BIOSCIENCES, INC. | 5 | $295,350 | 4.7% | -3.1% | -25.1% |
-| WATCH | TXO | TXO Partners, L.P. | 5 | $124,117 | 4.6% | 0.7% | -20.2% |
+| ALERT | ODTX | Odyssey Therapeutics, Inc. | 7 | $19,999,998 | 95.9% | -0.6% | 0.0% |
+| ALERT | FCNCA | FIRST CITIZENS BANCSHARES INC /DE/ | 7 | $10,257,311 | 5.9% | 11.1% | -12.8% |
+| WATCH | MKTW | MARKETWISE, INC. | 6 | $974,582 | 222.8% | -4.8% | -12.7% |
+| WATCH | LILA | Liberty Latin America Ltd. | 6 | $161,490 | 6.6% | -8.2% | -16.5% |
+| WATCH | PTLO | Portillo's Inc. | 6 | $300,306 | 3.5% | -5.4% | -69.7% |
+| WATCH | XRN | Chiron Real Estate Inc. | 4 | $135,960 | 2.8% | 0.4% | -7.0% |
+| WATCH | XRN | Chiron Real Estate Inc. | 4 | $100,470 | 2.1% | 1.9% | -7.0% |
