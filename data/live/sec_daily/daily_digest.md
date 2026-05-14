@@ -1,20 +1,17 @@
 # Daily Insider Signal Digest
 
 - Lookback hours: 96
-- Form 4/4-A filings discovered: 277
-- Raw P/A transactions parsed: 52
-- Alert candidates: 2
-- Watch candidates: 5
+- Form 4/4-A filings discovered: 258
+- Raw P/A transactions parsed: 35
+- Alert candidates: 4
+- Watch candidates: 0
 - Archived candidates: 0
 
 ## Top Candidates
 
 | Tier | Ticker | Company | Score | Value | Value/ADV60 | Premium | Drawdown |
 | --- | --- | --- | ---: | ---: | ---: | ---: | ---: |
-| ALERT | ODTX | Odyssey Therapeutics, Inc. | 7 | $19,999,998 | 95.9% | -0.6% | 0.0% |
-| ALERT | FCNCA | FIRST CITIZENS BANCSHARES INC /DE/ | 7 | $10,257,311 | 5.9% | 11.1% | -12.8% |
-| WATCH | MKTW | MARKETWISE, INC. | 6 | $974,582 | 222.8% | -4.8% | -12.7% |
-| WATCH | LILA | Liberty Latin America Ltd. | 6 | $161,490 | 6.6% | -8.2% | -16.5% |
-| WATCH | PTLO | Portillo's Inc. | 6 | $300,306 | 3.5% | -5.4% | -69.7% |
-| WATCH | XRN | Chiron Real Estate Inc. | 4 | $135,960 | 2.8% | 0.4% | -7.0% |
-| WATCH | XRN | Chiron Real Estate Inc. | 4 | $100,470 | 2.1% | 1.9% | -7.0% |
+| ALERT | BLND | Blend Labs, Inc. | 10 | $2,789,590 | 45.9% | 2.1% | -66.6% |
+| ALERT | ARTV | Artiva Biotherapeutics, Inc. | 8 | $74,999,992 | 2298.6% | -8.9% | -21.6% |
+| ALERT | KINS | KINGSTONE COMPANIES, INC. | 7 | $440,457 | 22.5% | -1.9% | -23.8% |
+| ALERT | SMRT | SmartRent, Inc. | 7 | $117,850 | 8.4% | -5.8% | -47.6% |
