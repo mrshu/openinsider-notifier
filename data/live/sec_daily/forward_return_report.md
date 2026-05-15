@@ -1,12 +1,15 @@
 # Forward Return Audit
 
-Created at: `2026-05-14T01:26:11.206476+00:00`
+Created at: `2026-05-15T01:21:51.431619+00:00`
 
 Returns use free Yahoo adjusted closes and are for monitoring, not production-grade attribution.
 
 | Ticker | Tier | Score | Entry | 30d Excess | 90d Excess | 180d Excess | 366d Excess |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| BLND | ALERT | 10 | n/a | n/a | n/a | n/a | n/a |
+| ALKT | ALERT | 10 | n/a | n/a | n/a | n/a | n/a |
+| ALKT | ALERT | 10 | n/a | n/a | n/a | n/a | n/a |
+| BLND | ALERT | 10 | $1.39 | n/a | n/a | n/a | n/a |
+| BH | ALERT | 10 | $258.17 | n/a | n/a | n/a | n/a |
 | NSP | ALERT | 10 | $28.75 | n/a | n/a | n/a | n/a |
 | TXO | ALERT | 9 | $12.50 | n/a | n/a | n/a | n/a |
 | COAG | ALERT | 9 | $25.01 | n/a | n/a | n/a | n/a |
@@ -14,6 +17,7 @@ Returns use free Yahoo adjusted closes and are for monitoring, not production-gr
 | ARTV | ALERT | 8 | $10.50 | n/a | n/a | n/a | n/a |
 | TORO | ALERT | 8 | $6.09 | n/a | n/a | n/a | n/a |
 | PLSE | ALERT | 8 | $19.08 | n/a | n/a | n/a | n/a |
+| MKTW | ALERT | 7 | n/a | n/a | n/a | n/a | n/a |
 | ODTX | ALERT | 7 | $17.90 | n/a | n/a | n/a | n/a |
 | ODTX | ALERT | 7 | $17.90 | n/a | n/a | n/a | n/a |
 | KINS | ALERT | 7 | $14.16 | n/a | n/a | n/a | n/a |
@@ -31,6 +35,7 @@ Returns use free Yahoo adjusted closes and are for monitoring, not production-gr
 | PLSE | WATCH | 5 | $23.30 | n/a | n/a | n/a | n/a |
 | TXO | WATCH | 5 | $12.50 | n/a | n/a | n/a | n/a |
 | TMUS | WATCH | 5 | $194.42 | n/a | n/a | n/a | n/a |
+| STRZ | WATCH | 4 | $21.93 | n/a | n/a | n/a | n/a |
 | CRESY | WATCH | 4 | $11.22 | n/a | n/a | n/a | n/a |
 | XRN | WATCH | 4 | $34.11 | n/a | n/a | n/a | n/a |
 | XRN | WATCH | 4 | $34.11 | n/a | n/a | n/a | n/a |
