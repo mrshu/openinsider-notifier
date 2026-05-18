@@ -29,35 +29,3 @@ Links:
 http://www.openinsider.com/WGS
 https://finance.yahoo.com/quote/WGS
 https://finviz.com/quote.ashx?t=WGS
-
----
-
-[WATCH] WEST - Westrock Coffee Co
-
-Insider signal:
-- Insider: FORD JOE T
-- Filed: 2026-05-15 21:10:32
-- Purchase value: $127,500
-- Insider VWAP: $8.50
-- Latest price: $8.45
-- Premium to insider VWAP: -0.6%
-
-Why flagged:
-- purchase value >= $100k ($127,500)
-- purchase value / ADV60 >= 2% (3.7%)
-- current price below insider VWAP (-0.6%)
-
-Context:
-- Purchase / ADV60: 3.7%
-- 52w drawdown: -3.4%
-- Market cap: n/a
-- Purchase / market cap: n/a
-- Score: 4
-
-Caveats:
-- market cap unavailable
-
-Links:
-http://www.openinsider.com/WEST
-https://finance.yahoo.com/quote/WEST
-https://finviz.com/quote.ashx?t=WEST
