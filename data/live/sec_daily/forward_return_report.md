@@ -1,6 +1,6 @@
 # Forward Return Audit
 
-Created at: `2026-05-18T00:16:36.503653+00:00`
+Created at: `2026-05-19T01:30:04.340610+00:00`
 
 Returns use free Yahoo adjusted closes and are for monitoring, not production-grade attribution.
 
@@ -9,6 +9,7 @@ Returns use free Yahoo adjusted closes and are for monitoring, not production-gr
 | ALKT | ALERT | 10 | $16.61 | n/a | n/a | n/a | n/a |
 | ALKT | ALERT | 10 | $16.61 | n/a | n/a | n/a | n/a |
 | BLND | ALERT | 10 | $1.39 | n/a | n/a | n/a | n/a |
+| BKKT | ALERT | 10 | $8.72 | n/a | n/a | n/a | n/a |
 | BH | ALERT | 10 | $258.17 | n/a | n/a | n/a | n/a |
 | WGS | ALERT | 10 | $40.75 | n/a | n/a | n/a | n/a |
 | NSP | ALERT | 10 | $28.75 | n/a | n/a | n/a | n/a |
@@ -18,20 +19,25 @@ Returns use free Yahoo adjusted closes and are for monitoring, not production-gr
 | ARTV | ALERT | 8 | $10.50 | n/a | n/a | n/a | n/a |
 | TORO | ALERT | 8 | $6.09 | n/a | n/a | n/a | n/a |
 | PLSE | ALERT | 8 | $19.08 | n/a | n/a | n/a | n/a |
+| ZBIO | ALERT | 8 | n/a | n/a | n/a | n/a | n/a |
 | MKTW | ALERT | 7 | $16.77 | n/a | n/a | n/a | n/a |
 | ODTX | ALERT | 7 | $17.90 | n/a | n/a | n/a | n/a |
 | ODTX | ALERT | 7 | $17.90 | n/a | n/a | n/a | n/a |
+| VIDA | ALERT | 7 | n/a | n/a | n/a | n/a | n/a |
 | KINS | ALERT | 7 | $14.16 | n/a | n/a | n/a | n/a |
+| BLND | ALERT | 7 | n/a | n/a | n/a | n/a | n/a |
 | SMRT | ALERT | 7 | $1.11 | n/a | n/a | n/a | n/a |
 | CXIIU | ALERT | 7 | $10.10 | n/a | n/a | n/a | n/a |
 | FCNCA | ALERT | 7 | $1,909.53 | n/a | n/a | n/a | n/a |
 | MKTW | WATCH | 6 | $17.59 | n/a | n/a | n/a | n/a |
+| VIDA | WATCH | 6 | n/a | n/a | n/a | n/a | n/a |
 | ANIK | WATCH | 6 | $12.45 | n/a | n/a | n/a | n/a |
 | LILA | WATCH | 6 | $7.41 | n/a | n/a | n/a | n/a |
 | LZ | WATCH | 6 | $6.16 | n/a | n/a | n/a | n/a |
 | KREF | WATCH | 6 | $5.88 | n/a | n/a | n/a | n/a |
 | PTLO | WATCH | 6 | $4.05 | n/a | n/a | n/a | n/a |
 | KREF | WATCH | 6 | $5.88 | n/a | n/a | n/a | n/a |
+| VIDA | WATCH | 5 | n/a | n/a | n/a | n/a | n/a |
 | PLSE | WATCH | 5 | $19.08 | n/a | n/a | n/a | n/a |
 | PLSE | WATCH | 5 | $23.30 | n/a | n/a | n/a | n/a |
 | TXO | WATCH | 5 | $12.15 | n/a | n/a | n/a | n/a |
