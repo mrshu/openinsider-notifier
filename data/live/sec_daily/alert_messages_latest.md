@@ -1,56 +1,89 @@
-[ALERT] BLND - Blend Labs, Inc.
+[ALERT] KLRS - Kalaris Therapeutics, Inc.
 
 Insider signal:
-- Insider: Haveli Brooks Aggregator, L.P.; Haveli Investment Management LLC; Haveli Investments Software Fund I GP, LLC; Haveli Investments, L.P.; Haveli Software Management LLC; SHETH BRIAN NIRANJAN; Whanau Interests LLC
-- Filed: 2026-05-22 00:15:19
-- Purchase value: $1,145,964
-- Insider VWAP: $1.49
-- Latest price: $1.52
-- Premium to insider VWAP: 2.0%
+- Insider: AKKARAJU SRINIVAS; Samsara BioCapital GP, LLC; Samsara BioCapital, L.P.; Samsara Opportunity Fund GP, LLC; Samsara Opportunity Fund, L.P.
+- Filed: 2026-05-22 23:47:34
+- Purchase value: $1,179,969
+- Insider VWAP: $4.83
+- Latest price: $4.92
+- Premium to insider VWAP: 1.9%
 
 Why flagged:
-- purchase value >= $1m ($1,145,964)
-- purchase value / ADV60 >= 5% (17.1%)
-- current price within 15% of insider VWAP (2.0%)
-- stock down at least 30% from 52w high (-65.2%)
+- purchase value >= $1m ($1,179,969)
+- purchase value / ADV60 >= 5% (243.0%)
+- current price within 15% of insider VWAP (1.9%)
+- stock down at least 30% from 52w high (-55.2%)
+
+Context:
+- Purchase / ADV60: 243.0%
+- 52w drawdown: -55.2%
+- Market cap: n/a
+- Purchase / market cap: n/a
+- Score: 8
+
+Caveats:
+- market cap unavailable
+
+Links:
+http://www.openinsider.com/KLRS
+https://finance.yahoo.com/quote/KLRS
+https://finviz.com/quote.ashx?t=KLRS
+
+---
+
+[ALERT] TWFG - TWFG, Inc.
+
+Insider signal:
+- Insider: DOAK MICHAEL
+- Filed: 2026-05-22 22:06:09
+- Purchase value: $620,652
+- Insider VWAP: $18.65
+- Latest price: $18.86
+- Premium to insider VWAP: 1.1%
+
+Why flagged:
+- purchase value >= $100k ($620,652)
+- purchase value / ADV60 >= 5% (11.7%)
+- current price within 15% of insider VWAP (1.1%)
+- stock down at least 30% from 52w high (-47.7%)
 - multiple purchase rows in filing (2)
 
 Context:
-- Purchase / ADV60: 17.1%
-- 52w drawdown: -65.2%
+- Purchase / ADV60: 11.7%
+- 52w drawdown: -47.7%
 - Market cap: n/a
 - Purchase / market cap: n/a
-- Score: 9
+- Score: 8
 
 Caveats:
 - market cap unavailable
 
 Links:
-http://www.openinsider.com/BLND
-https://finance.yahoo.com/quote/BLND
-https://finviz.com/quote.ashx?t=BLND
+http://www.openinsider.com/TWFG
+https://finance.yahoo.com/quote/TWFG
+https://finviz.com/quote.ashx?t=TWFG
 
 ---
 
-[ALERT] LOGC - ContextLogic Holdings Inc.
+[ALERT] PNBK - PATRIOT NATIONAL BANCORP INC
 
 Insider signal:
-- Insider: Bobbili Raja
-- Filed: 2026-05-22 00:38:05
-- Purchase value: $1,310,960
-- Insider VWAP: $8.74
-- Latest price: $8.55
-- Premium to insider VWAP: -2.2%
+- Insider: De Tomasi Mario
+- Filed: 2026-05-22 22:03:39
+- Purchase value: $100,877
+- Insider VWAP: $1.15
+- Latest price: $1.07
+- Premium to insider VWAP: -7.0%
 
 Why flagged:
-- purchase value >= $1m ($1,310,960)
-- purchase value / ADV60 >= 5% (133.6%)
-- current price below insider VWAP (-2.2%)
-- multiple purchase rows in filing (3)
+- purchase value >= $100k ($100,877)
+- purchase value / ADV60 >= 5% (21.7%)
+- current price below insider VWAP (-7.0%)
+- stock down at least 30% from 52w high (-80.2%)
 
 Context:
-- Purchase / ADV60: 133.6%
-- 52w drawdown: -2.8%
+- Purchase / ADV60: 21.7%
+- 52w drawdown: -80.2%
 - Market cap: n/a
 - Purchase / market cap: n/a
 - Score: 7
@@ -59,72 +92,38 @@ Caveats:
 - market cap unavailable
 
 Links:
-http://www.openinsider.com/LOGC
-https://finance.yahoo.com/quote/LOGC
-https://finviz.com/quote.ashx?t=LOGC
+http://www.openinsider.com/PNBK
+https://finance.yahoo.com/quote/PNBK
+https://finviz.com/quote.ashx?t=PNBK
 
 ---
 
-[ALERT] ANVS - Annovis Bio, Inc.
+[WATCH] MKTW - MARKETWISE, INC.
 
 Insider signal:
-- Insider: Hoffman Michael B
-- Filed: 2026-05-22 00:11:23
-- Purchase value: $104,367
-- Insider VWAP: $1.90
-- Latest price: $2.15
-- Premium to insider VWAP: 13.2%
+- Insider: Stansberry Frank Porter
+- Filed: 2026-05-23 01:04:24
+- Purchase value: $345,921
+- Insider VWAP: $17.21
+- Latest price: $17.99
+- Premium to insider VWAP: 4.5%
 
 Why flagged:
-- purchase value >= $100k ($104,367)
-- purchase value / ADV60 >= 5% (5.5%)
-- current price within 15% of insider VWAP (13.2%)
-- stock down at least 30% from 52w high (-57.8%)
+- purchase value >= $100k ($345,921)
+- purchase value / ADV60 >= 5% (70.1%)
+- current price within 15% of insider VWAP (4.5%)
 
 Context:
-- Purchase / ADV60: 5.5%
-- 52w drawdown: -57.8%
+- Purchase / ADV60: 70.1%
+- 52w drawdown: -10.7%
 - Market cap: n/a
 - Purchase / market cap: n/a
-- Score: 7
+- Score: 5
 
 Caveats:
 - market cap unavailable
 
 Links:
-http://www.openinsider.com/ANVS
-https://finance.yahoo.com/quote/ANVS
-https://finviz.com/quote.ashx?t=ANVS
-
----
-
-[WATCH] BETR - Better Home & Finance Holding Co
-
-Insider signal:
-- Insider: Garg Vishal
-- Filed: 2026-05-21 23:55:56
-- Purchase value: $388,328
-- Insider VWAP: $24.89
-- Latest price: $25.03
-- Premium to insider VWAP: 0.6%
-
-Why flagged:
-- purchase value >= $100k ($388,328)
-- purchase value / ADV60 >= 2% (2.0%)
-- current price within 15% of insider VWAP (0.6%)
-- stock down at least 30% from 52w high (-70.9%)
-
-Context:
-- Purchase / ADV60: 2.0%
-- 52w drawdown: -70.9%
-- Market cap: n/a
-- Purchase / market cap: n/a
-- Score: 6
-
-Caveats:
-- market cap unavailable
-
-Links:
-http://www.openinsider.com/BETR
-https://finance.yahoo.com/quote/BETR
-https://finviz.com/quote.ashx?t=BETR
+http://www.openinsider.com/MKTW
+https://finance.yahoo.com/quote/MKTW
+https://finviz.com/quote.ashx?t=MKTW
