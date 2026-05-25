@@ -65,36 +65,36 @@ https://finviz.com/quote.ashx?t=TWFG
 
 ---
 
-[ALERT] PNBK - PATRIOT NATIONAL BANCORP INC
+[WATCH] BRCB - Black Rock Coffee Bar, Inc.
 
 Insider signal:
-- Insider: De Tomasi Mario
-- Filed: 2026-05-22 22:03:39
-- Purchase value: $100,877
-- Insider VWAP: $1.15
-- Latest price: $1.07
-- Premium to insider VWAP: -7.0%
+- Insider: Geyer Clay Howard
+- Filed: 2026-05-23 01:42:02
+- Purchase value: $293,471
+- Insider VWAP: $6.51
+- Latest price: $6.81
+- Premium to insider VWAP: 4.6%
 
 Why flagged:
-- purchase value >= $100k ($100,877)
-- purchase value / ADV60 >= 5% (21.7%)
-- current price below insider VWAP (-7.0%)
-- stock down at least 30% from 52w high (-80.2%)
+- purchase value >= $100k ($293,471)
+- purchase value / ADV60 >= 2% (4.1%)
+- current price within 15% of insider VWAP (4.6%)
+- stock down at least 30% from 52w high (-75.5%)
 
 Context:
-- Purchase / ADV60: 21.7%
-- 52w drawdown: -80.2%
+- Purchase / ADV60: 4.1%
+- 52w drawdown: -75.5%
 - Market cap: n/a
 - Purchase / market cap: n/a
-- Score: 7
+- Score: 6
 
 Caveats:
 - market cap unavailable
 
 Links:
-http://www.openinsider.com/PNBK
-https://finance.yahoo.com/quote/PNBK
-https://finviz.com/quote.ashx?t=PNBK
+http://www.openinsider.com/BRCB
+https://finance.yahoo.com/quote/BRCB
+https://finviz.com/quote.ashx?t=BRCB
 
 ---
 
@@ -110,11 +110,11 @@ Insider signal:
 
 Why flagged:
 - purchase value >= $100k ($345,921)
-- purchase value / ADV60 >= 5% (70.1%)
+- purchase value / ADV60 >= 5% (70.0%)
 - current price within 15% of insider VWAP (4.5%)
 
 Context:
-- Purchase / ADV60: 70.1%
+- Purchase / ADV60: 70.0%
 - 52w drawdown: -10.7%
 - Market cap: n/a
 - Purchase / market cap: n/a
@@ -127,3 +127,35 @@ Links:
 http://www.openinsider.com/MKTW
 https://finance.yahoo.com/quote/MKTW
 https://finviz.com/quote.ashx?t=MKTW
+
+---
+
+[WATCH] NXDT - NEXPOINT DIVERSIFIED REAL ESTATE TRUST
+
+Insider signal:
+- Insider: NORRIS DUSTIN DAVID
+- Filed: 2026-05-23 01:47:40
+- Purchase value: $262,949
+- Insider VWAP: $4.90
+- Latest price: $4.62
+- Premium to insider VWAP: -5.7%
+
+Why flagged:
+- purchase value >= $100k ($262,949)
+- purchase value / ADV60 >= 5% (40.5%)
+- current price below insider VWAP (-5.7%)
+
+Context:
+- Purchase / ADV60: 40.5%
+- 52w drawdown: -12.1%
+- Market cap: n/a
+- Purchase / market cap: n/a
+- Score: 5
+
+Caveats:
+- market cap unavailable
+
+Links:
+http://www.openinsider.com/NXDT
+https://finance.yahoo.com/quote/NXDT
+https://finviz.com/quote.ashx?t=NXDT
