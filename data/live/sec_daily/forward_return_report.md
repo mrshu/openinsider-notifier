@@ -1,6 +1,6 @@
 # Forward Return Audit
 
-Created at: `2026-05-26T01:25:43.007723+00:00`
+Created at: `2026-05-27T01:33:44.231256+00:00`
 
 Returns use free Yahoo adjusted closes and are for monitoring, not production-grade attribution.
 
@@ -20,7 +20,7 @@ Returns use free Yahoo adjusted closes and are for monitoring, not production-gr
 | COAG | ALERT | 9 | $25.01 | n/a | n/a | n/a | n/a |
 | ZBIO | ALERT | 9 | $17.55 | n/a | n/a | n/a | n/a |
 | ARTV | ALERT | 8 | $10.50 | n/a | n/a | n/a | n/a |
-| TORO | ALERT | 8 | $6.09 | n/a | n/a | n/a | n/a |
+| TORO | ALERT | 8 | $6.09 | -19.9% | n/a | n/a | n/a |
 | KLRS | ALERT | 8 | $4.92 | n/a | n/a | n/a | n/a |
 | PLSE | ALERT | 8 | $19.08 | n/a | n/a | n/a | n/a |
 | TWFG | ALERT | 8 | $18.86 | n/a | n/a | n/a | n/a |
@@ -40,16 +40,18 @@ Returns use free Yahoo adjusted closes and are for monitoring, not production-gr
 | ANVS | ALERT | 7 | $2.23 | n/a | n/a | n/a | n/a |
 | MKTW | WATCH | 6 | $17.59 | n/a | n/a | n/a | n/a |
 | VIDA | WATCH | 6 | $2.29 | n/a | n/a | n/a | n/a |
+| WHF | WATCH | 6 | n/a | n/a | n/a | n/a | n/a |
 | ANIK | WATCH | 6 | $12.45 | n/a | n/a | n/a | n/a |
 | LILA | WATCH | 6 | $7.41 | n/a | n/a | n/a | n/a |
 | LZ | WATCH | 6 | $6.16 | n/a | n/a | n/a | n/a |
-| BRCB | WATCH | 6 | n/a | n/a | n/a | n/a | n/a |
+| BRCB | WATCH | 6 | $7.43 | n/a | n/a | n/a | n/a |
 | KREF | WATCH | 6 | $5.88 | n/a | n/a | n/a | n/a |
 | PTLO | WATCH | 6 | $4.05 | n/a | n/a | n/a | n/a |
 | KREF | WATCH | 6 | $5.88 | n/a | n/a | n/a | n/a |
 | BETR | WATCH | 6 | $25.03 | n/a | n/a | n/a | n/a |
-| MKTW | WATCH | 5 | n/a | n/a | n/a | n/a | n/a |
-| NXDT | WATCH | 5 | n/a | n/a | n/a | n/a | n/a |
+| MKTW | WATCH | 5 | $17.23 | n/a | n/a | n/a | n/a |
+| NXDT | WATCH | 5 | $5.09 | n/a | n/a | n/a | n/a |
+| MKTW | WATCH | 5 | $17.23 | n/a | n/a | n/a | n/a |
 | VIDA | WATCH | 5 | $2.29 | n/a | n/a | n/a | n/a |
 | PLSE | WATCH | 5 | $19.08 | n/a | n/a | n/a | n/a |
 | PLSE | WATCH | 5 | $23.30 | n/a | n/a | n/a | n/a |
@@ -57,6 +59,6 @@ Returns use free Yahoo adjusted closes and are for monitoring, not production-gr
 | TMUS | WATCH | 5 | $194.42 | n/a | n/a | n/a | n/a |
 | WEST | WATCH | 4 | $8.45 | n/a | n/a | n/a | n/a |
 | STRZ | WATCH | 4 | $21.93 | n/a | n/a | n/a | n/a |
-| CRESY | WATCH | 4 | $11.22 | n/a | n/a | n/a | n/a |
+| CRESY | WATCH | 4 | $11.22 | -3.9% | n/a | n/a | n/a |
 | XRN | WATCH | 4 | $33.86 | n/a | n/a | n/a | n/a |
 | XRN | WATCH | 4 | $33.86 | n/a | n/a | n/a | n/a |
