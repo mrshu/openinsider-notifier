@@ -1,6 +1,6 @@
 # Forward Return Audit
 
-Created at: `2026-05-28T01:22:56.426826+00:00`
+Created at: `2026-05-29T01:32:29.852746+00:00`
 
 Returns use free Yahoo adjusted closes and are for monitoring, not production-grade attribution.
 
@@ -29,6 +29,7 @@ Returns use free Yahoo adjusted closes and are for monitoring, not production-gr
 | ZBIO | ALERT | 8 | $17.84 | n/a | n/a | n/a | n/a |
 | LOGC | ALERT | 7 | $8.55 | n/a | n/a | n/a | n/a |
 | MKTW | ALERT | 7 | $16.77 | n/a | n/a | n/a | n/a |
+| LOGC | ALERT | 7 | n/a | n/a | n/a | n/a | n/a |
 | ODTX | ALERT | 7 | $17.90 | n/a | n/a | n/a | n/a |
 | TXO | ALERT | 7 | $13.23 | n/a | n/a | n/a | n/a |
 | ODTX | ALERT | 7 | $17.90 | n/a | n/a | n/a | n/a |
@@ -36,9 +37,12 @@ Returns use free Yahoo adjusted closes and are for monitoring, not production-gr
 | BOC | ALERT | 7 | $12.59 | n/a | n/a | n/a | n/a |
 | KINS | ALERT | 7 | $14.16 | n/a | n/a | n/a | n/a |
 | PNBK | ALERT | 7 | $1.07 | n/a | n/a | n/a | n/a |
+| NAKA | ALERT | 7 | $5.60 | n/a | n/a | n/a | n/a |
+| CDZI | ALERT | 7 | $4.38 | n/a | n/a | n/a | n/a |
 | BLND | ALERT | 7 | $1.48 | n/a | n/a | n/a | n/a |
 | SMRT | ALERT | 7 | $1.11 | n/a | n/a | n/a | n/a |
 | CXIIU | ALERT | 7 | $10.10 | n/a | n/a | n/a | n/a |
+| PLYX | ALERT | 7 | n/a | n/a | n/a | n/a | n/a |
 | FCNCA | ALERT | 7 | $1,909.53 | n/a | n/a | n/a | n/a |
 | ANVS | ALERT | 7 | $2.23 | n/a | n/a | n/a | n/a |
 | MKTW | WATCH | 6 | $17.59 | n/a | n/a | n/a | n/a |
