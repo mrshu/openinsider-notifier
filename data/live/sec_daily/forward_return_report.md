@@ -1,6 +1,6 @@
 # Forward Return Audit
 
-Created at: `2026-05-30T01:27:56.026357+00:00`
+Created at: `2026-06-01T01:38:52.641780+00:00`
 
 Returns use free Yahoo adjusted closes and are for monitoring, not production-grade attribution.
 
@@ -31,7 +31,7 @@ Returns use free Yahoo adjusted closes and are for monitoring, not production-gr
 | ZBIO | ALERT | 8 | $17.84 | n/a | n/a | n/a | n/a |
 | LOGC | ALERT | 7 | $8.55 | n/a | n/a | n/a | n/a |
 | MKTW | ALERT | 7 | $16.77 | n/a | n/a | n/a | n/a |
-| LOGC | ALERT | 7 | $8.97 | n/a | n/a | n/a | n/a |
+| LOGC | ALERT | 7 | $8.98 | n/a | n/a | n/a | n/a |
 | ODTX | ALERT | 7 | $17.90 | n/a | n/a | n/a | n/a |
 | TXO | ALERT | 7 | $13.23 | n/a | n/a | n/a | n/a |
 | ODTX | ALERT | 7 | $17.90 | n/a | n/a | n/a | n/a |
@@ -51,7 +51,7 @@ Returns use free Yahoo adjusted closes and are for monitoring, not production-gr
 | VIDA | WATCH | 6 | $2.29 | n/a | n/a | n/a | n/a |
 | WHF | WATCH | 6 | $6.80 | n/a | n/a | n/a | n/a |
 | ANIK | WATCH | 6 | $12.45 | n/a | n/a | n/a | n/a |
-| LILA | WATCH | 6 | $7.41 | n/a | n/a | n/a | n/a |
+| LILA | WATCH | 6 | $6.74 | n/a | n/a | n/a | n/a |
 | LZ | WATCH | 6 | $6.16 | n/a | n/a | n/a | n/a |
 | BRCB | WATCH | 6 | $7.43 | n/a | n/a | n/a | n/a |
 | KREF | WATCH | 6 | $5.88 | 8.3% | n/a | n/a | n/a |
