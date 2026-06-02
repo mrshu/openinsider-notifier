@@ -1,30 +1,63 @@
-[ALERT] ANNX - Annexon, Inc.
+[ALERT] AUNA - AUNA S.A.
 
 Insider signal:
-- Insider: Satter Muneer A
-- Filed: 2026-05-29 21:21:02
-- Purchase value: $3,319,019
-- Insider VWAP: $5.41
-- Latest price: $5.42
-- Premium to insider VWAP: 0.2%
+- Insider: Zamora Leon Jesus
+- Filed: 2026-06-02 00:48:06
+- Purchase value: $131,700
+- Insider VWAP: $4.39
+- Latest price: $4.54
+- Premium to insider VWAP: 3.4%
 
 Why flagged:
-- purchase value >= $2m ($3,319,019)
-- purchase value / ADV60 >= 5% (24.0%)
-- current price within 15% of insider VWAP (0.2%)
-- stock down at least 15% from 52w high (-22.1%)
+- purchase value >= $100k ($131,700)
+- purchase value / ADV60 >= 5% (6.4%)
+- current price within 15% of insider VWAP (3.4%)
+- stock down at least 30% from 52w high (-32.9%)
 
 Context:
-- Purchase / ADV60: 24.0%
-- 52w drawdown: -22.1%
+- Purchase / ADV60: 6.4%
+- 52w drawdown: -32.9%
 - Market cap: n/a
 - Purchase / market cap: n/a
-- Score: 8
+- Score: 7
 
 Caveats:
 - market cap unavailable
 
 Links:
-http://www.openinsider.com/ANNX
-https://finance.yahoo.com/quote/ANNX
-https://finviz.com/quote.ashx?t=ANNX
+http://www.openinsider.com/AUNA
+https://finance.yahoo.com/quote/AUNA
+https://finviz.com/quote.ashx?t=AUNA
+
+---
+
+[WATCH] BOC - BOSTON OMAHA Corp
+
+Insider signal:
+- Insider: Kenan Frank H. II
+- Filed: 2026-06-02 00:19:58
+- Purchase value: $593,485
+- Insider VWAP: $13.27
+- Latest price: $13.09
+- Premium to insider VWAP: -1.4%
+
+Why flagged:
+- purchase value >= $100k ($593,485)
+- purchase value / ADV60 >= 5% (25.6%)
+- current price below insider VWAP (-1.4%)
+- multiple purchase rows in filing (2)
+
+Context:
+- Purchase / ADV60: 25.6%
+- 52w drawdown: -9.4%
+- Market cap: n/a
+- Purchase / market cap: n/a
+- Score: 6
+
+Caveats:
+- market cap unavailable
+
+Links:
+http://www.openinsider.com/BOC
+https://finance.yahoo.com/quote/BOC
+https://finviz.com/quote.ashx?t=BOC
