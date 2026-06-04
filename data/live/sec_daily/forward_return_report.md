@@ -1,6 +1,6 @@
 # Forward Return Audit
 
-Created at: `2026-06-03T02:06:41.312158+00:00`
+Created at: `2026-06-04T02:04:51.276430+00:00`
 
 Returns use free Yahoo adjusted closes and are for monitoring, not production-grade attribution.
 
@@ -22,9 +22,10 @@ Returns use free Yahoo adjusted closes and are for monitoring, not production-gr
 | ZBIO | ALERT | 9 | $17.55 | -1.5% | n/a | n/a | n/a |
 | ARTV | ALERT | 8 | $10.50 | n/a | n/a | n/a | n/a |
 | TORO | ALERT | 8 | $6.09 | -19.9% | n/a | n/a | n/a |
+| TXO | ALERT | 8 | n/a | n/a | n/a | n/a | n/a |
 | KLRS | ALERT | 8 | $4.92 | n/a | n/a | n/a | n/a |
 | PLSE | ALERT | 8 | $19.08 | n/a | n/a | n/a | n/a |
-| AUPH | ALERT | 8 | n/a | n/a | n/a | n/a | n/a |
+| AUPH | ALERT | 8 | $15.67 | n/a | n/a | n/a | n/a |
 | ANNX | ALERT | 8 | $5.42 | n/a | n/a | n/a | n/a |
 | TWFG | ALERT | 8 | $18.57 | n/a | n/a | n/a | n/a |
 | TWFG | ALERT | 8 | $18.86 | n/a | n/a | n/a | n/a |
@@ -69,7 +70,8 @@ Returns use free Yahoo adjusted closes and are for monitoring, not production-gr
 | PLSE | WATCH | 5 | $19.08 | n/a | n/a | n/a | n/a |
 | PLSE | WATCH | 5 | $23.30 | n/a | n/a | n/a | n/a |
 | TXO | WATCH | 5 | $12.15 | n/a | n/a | n/a | n/a |
-| TMUS | WATCH | 5 | $193.37 | n/a | n/a | n/a | n/a |
+| CECO | WATCH | 5 | $79.47 | n/a | n/a | n/a | n/a |
+| TMUS | WATCH | 5 | $193.37 | -11.2% | n/a | n/a | n/a |
 | WEST | WATCH | 4 | $8.45 | n/a | n/a | n/a | n/a |
 | STRZ | WATCH | 4 | $21.93 | n/a | n/a | n/a | n/a |
 | CRESY | WATCH | 4 | $11.22 | -3.9% | n/a | n/a | n/a |

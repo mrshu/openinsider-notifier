@@ -1,22 +1,22 @@
-[ALERT] AUPH - Aurinia Pharmaceuticals Inc.
+[ALERT] TXO - TXO Partners, L.P.
 
 Insider signal:
-- Insider: TANG CAPITAL MANAGEMENT LLC; TANG KEVIN
-- Filed: 2026-06-03 01:54:36
-- Purchase value: $12,418,419
-- Insider VWAP: $15.29
-- Latest price: $15.39
-- Premium to insider VWAP: 0.7%
+- Insider: SIMPSON BOB R
+- Filed: 2026-06-04 01:22:45
+- Purchase value: $8,231,772
+- Insider VWAP: $13.72
+- Latest price: $13.44
+- Premium to insider VWAP: -2.0%
 
 Why flagged:
-- purchase value >= $2m ($12,418,419)
-- purchase value / ADV60 >= 5% (69.2%)
-- current price within 15% of insider VWAP (0.7%)
-- multiple purchase rows in filing (3)
+- purchase value >= $2m ($8,231,772)
+- purchase value / ADV60 >= 5% (285.1%)
+- current price below insider VWAP (-2.0%)
+- multiple purchase rows in filing (2)
 
 Context:
-- Purchase / ADV60: 69.2%
-- 52w drawdown: -6.3%
+- Purchase / ADV60: 285.1%
+- 52w drawdown: -5.8%
 - Market cap: n/a
 - Purchase / market cap: n/a
 - Score: 8
@@ -25,39 +25,38 @@ Caveats:
 - market cap unavailable
 
 Links:
-http://www.openinsider.com/AUPH
-https://finance.yahoo.com/quote/AUPH
-https://finviz.com/quote.ashx?t=AUPH
+http://www.openinsider.com/TXO
+https://finance.yahoo.com/quote/TXO
+https://finviz.com/quote.ashx?t=TXO
 
 ---
 
-[WATCH] MBC - MasterBrand, Inc.
+[WATCH] CECO - CECO ENVIRONMENTAL CORP
 
 Insider signal:
-- Insider: Banyard R David
-- Filed: 2026-06-02 23:10:19
-- Purchase value: $505,800
-- Insider VWAP: $8.43
-- Latest price: $8.48
-- Premium to insider VWAP: 0.6%
+- Insider: WALLMAN RICHARD F
+- Filed: 2026-06-03 23:35:08
+- Purchase value: $1,536,938
+- Insider VWAP: $76.85
+- Latest price: $79.47
+- Premium to insider VWAP: 3.4%
 
 Why flagged:
-- purchase value >= $100k ($505,800)
-- purchase value / ADV60 >= 2% (2.1%)
-- current price within 15% of insider VWAP (0.6%)
-- stock down at least 30% from 52w high (-38.6%)
+- purchase value >= $1m ($1,536,938)
+- purchase value / ADV60 >= 2% (2.9%)
+- current price within 15% of insider VWAP (3.4%)
 
 Context:
-- Purchase / ADV60: 2.1%
-- 52w drawdown: -38.6%
+- Purchase / ADV60: 2.9%
+- 52w drawdown: -11.6%
 - Market cap: n/a
 - Purchase / market cap: n/a
-- Score: 6
+- Score: 5
 
 Caveats:
 - market cap unavailable
 
 Links:
-http://www.openinsider.com/MBC
-https://finance.yahoo.com/quote/MBC
-https://finviz.com/quote.ashx?t=MBC
+http://www.openinsider.com/CECO
+https://finance.yahoo.com/quote/CECO
+https://finviz.com/quote.ashx?t=CECO

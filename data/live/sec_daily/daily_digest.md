@@ -1,8 +1,8 @@
 # Daily Insider Signal Digest
 
 - Lookback hours: 96
-- Form 4/4-A filings discovered: 249
-- Raw P/A transactions parsed: 20
+- Form 4/4-A filings discovered: 214
+- Raw P/A transactions parsed: 11
 - Alert candidates: 1
 - Watch candidates: 1
 - Archived candidates: 0
@@ -11,5 +11,5 @@
 
 | Tier | Ticker | Company | Score | Value | Value/ADV60 | Premium | Drawdown |
 | --- | --- | --- | ---: | ---: | ---: | ---: | ---: |
-| ALERT | AUPH | Aurinia Pharmaceuticals Inc. | 8 | $12,418,419 | 69.2% | 0.7% | -6.3% |
-| WATCH | MBC | MasterBrand, Inc. | 6 | $505,800 | 2.1% | 0.6% | -38.6% |
+| ALERT | TXO | TXO Partners, L.P. | 8 | $8,231,772 | 285.1% | -2.0% | -5.8% |
+| WATCH | CECO | CECO ENVIRONMENTAL CORP | 5 | $1,536,938 | 2.9% | 3.4% | -11.6% |
