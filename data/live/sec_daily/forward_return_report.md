@@ -1,6 +1,6 @@
 # Forward Return Audit
 
-Created at: `2026-06-04T02:04:51.276430+00:00`
+Created at: `2026-06-05T01:37:21.541295+00:00`
 
 Returns use free Yahoo adjusted closes and are for monitoring, not production-grade attribution.
 
@@ -12,6 +12,7 @@ Returns use free Yahoo adjusted closes and are for monitoring, not production-gr
 | BKKT | ALERT | 10 | $8.72 | n/a | n/a | n/a | n/a |
 | BH | ALERT | 10 | $258.17 | n/a | n/a | n/a | n/a |
 | WGS | ALERT | 10 | $44.73 | n/a | n/a | n/a | n/a |
+| DNUT | ALERT | 10 | n/a | n/a | n/a | n/a | n/a |
 | WGS | ALERT | 10 | $40.75 | n/a | n/a | n/a | n/a |
 | NSP | ALERT | 10 | $28.75 | n/a | n/a | n/a | n/a |
 | TXO | ALERT | 9 | $12.15 | n/a | n/a | n/a | n/a |
@@ -22,12 +23,13 @@ Returns use free Yahoo adjusted closes and are for monitoring, not production-gr
 | ZBIO | ALERT | 9 | $17.55 | -1.5% | n/a | n/a | n/a |
 | ARTV | ALERT | 8 | $10.50 | n/a | n/a | n/a | n/a |
 | TORO | ALERT | 8 | $6.09 | -19.9% | n/a | n/a | n/a |
-| TXO | ALERT | 8 | n/a | n/a | n/a | n/a | n/a |
+| TXO | ALERT | 8 | $13.78 | n/a | n/a | n/a | n/a |
 | KLRS | ALERT | 8 | $4.92 | n/a | n/a | n/a | n/a |
 | PLSE | ALERT | 8 | $19.08 | n/a | n/a | n/a | n/a |
 | AUPH | ALERT | 8 | $15.67 | n/a | n/a | n/a | n/a |
 | ANNX | ALERT | 8 | $5.42 | n/a | n/a | n/a | n/a |
 | TWFG | ALERT | 8 | $18.57 | n/a | n/a | n/a | n/a |
+| TWFG | ALERT | 8 | $18.95 | n/a | n/a | n/a | n/a |
 | TWFG | ALERT | 8 | $18.86 | n/a | n/a | n/a | n/a |
 | TWFG | ALERT | 8 | $18.77 | n/a | n/a | n/a | n/a |
 | ZBIO | ALERT | 8 | $17.84 | n/a | n/a | n/a | n/a |
@@ -41,6 +43,7 @@ Returns use free Yahoo adjusted closes and are for monitoring, not production-gr
 | BOC | ALERT | 7 | $12.59 | n/a | n/a | n/a | n/a |
 | KINS | ALERT | 7 | $14.16 | n/a | n/a | n/a | n/a |
 | PNBK | ALERT | 7 | $1.07 | n/a | n/a | n/a | n/a |
+| OPAD | ALERT | 7 | $0.74 | n/a | n/a | n/a | n/a |
 | NAKA | ALERT | 7 | $5.60 | n/a | n/a | n/a | n/a |
 | CDZI | ALERT | 7 | $4.38 | n/a | n/a | n/a | n/a |
 | BLND | ALERT | 7 | $1.48 | n/a | n/a | n/a | n/a |
@@ -71,6 +74,7 @@ Returns use free Yahoo adjusted closes and are for monitoring, not production-gr
 | PLSE | WATCH | 5 | $23.30 | n/a | n/a | n/a | n/a |
 | TXO | WATCH | 5 | $12.15 | n/a | n/a | n/a | n/a |
 | CECO | WATCH | 5 | $79.47 | n/a | n/a | n/a | n/a |
+| SMMT | WATCH | 5 | $14.84 | n/a | n/a | n/a | n/a |
 | TMUS | WATCH | 5 | $193.37 | -11.2% | n/a | n/a | n/a |
 | WEST | WATCH | 4 | $8.45 | n/a | n/a | n/a | n/a |
 | STRZ | WATCH | 4 | $21.93 | n/a | n/a | n/a | n/a |
