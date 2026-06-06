@@ -1,6 +1,6 @@
 # Forward Return Audit
 
-Created at: `2026-06-05T01:37:21.541295+00:00`
+Created at: `2026-06-06T01:28:14.856633+00:00`
 
 Returns use free Yahoo adjusted closes and are for monitoring, not production-grade attribution.
 
@@ -12,14 +12,14 @@ Returns use free Yahoo adjusted closes and are for monitoring, not production-gr
 | BKKT | ALERT | 10 | $8.72 | n/a | n/a | n/a | n/a |
 | BH | ALERT | 10 | $258.17 | n/a | n/a | n/a | n/a |
 | WGS | ALERT | 10 | $44.73 | n/a | n/a | n/a | n/a |
-| DNUT | ALERT | 10 | n/a | n/a | n/a | n/a | n/a |
+| DNUT | ALERT | 10 | $3.51 | n/a | n/a | n/a | n/a |
 | WGS | ALERT | 10 | $40.75 | n/a | n/a | n/a | n/a |
-| NSP | ALERT | 10 | $28.75 | n/a | n/a | n/a | n/a |
+| NSP | ALERT | 10 | $28.24 | 24.8% | n/a | n/a | n/a |
 | TXO | ALERT | 9 | $12.15 | n/a | n/a | n/a | n/a |
 | BLND | ALERT | 9 | $1.56 | n/a | n/a | n/a | n/a |
 | BLND | ALERT | 9 | $1.47 | n/a | n/a | n/a | n/a |
 | FBIN | ALERT | 9 | $36.05 | n/a | n/a | n/a | n/a |
-| COAG | ALERT | 9 | $25.01 | n/a | n/a | n/a | n/a |
+| COAG | ALERT | 9 | $25.01 | 0.7% | n/a | n/a | n/a |
 | ZBIO | ALERT | 9 | $17.55 | -1.5% | n/a | n/a | n/a |
 | ARTV | ALERT | 8 | $10.50 | n/a | n/a | n/a | n/a |
 | TORO | ALERT | 8 | $6.09 | -19.9% | n/a | n/a | n/a |
@@ -31,6 +31,7 @@ Returns use free Yahoo adjusted closes and are for monitoring, not production-gr
 | TWFG | ALERT | 8 | $18.57 | n/a | n/a | n/a | n/a |
 | TWFG | ALERT | 8 | $18.95 | n/a | n/a | n/a | n/a |
 | TWFG | ALERT | 8 | $18.86 | n/a | n/a | n/a | n/a |
+| PAX | ALERT | 8 | n/a | n/a | n/a | n/a | n/a |
 | TWFG | ALERT | 8 | $18.77 | n/a | n/a | n/a | n/a |
 | ZBIO | ALERT | 8 | $17.84 | n/a | n/a | n/a | n/a |
 | LOGC | ALERT | 7 | $8.55 | n/a | n/a | n/a | n/a |
@@ -52,6 +53,7 @@ Returns use free Yahoo adjusted closes and are for monitoring, not production-gr
 | PLYX | ALERT | 7 | $3.27 | n/a | n/a | n/a | n/a |
 | AUNA | ALERT | 7 | $4.50 | n/a | n/a | n/a | n/a |
 | FCNCA | ALERT | 7 | $1,907.53 | n/a | n/a | n/a | n/a |
+| BLND | ALERT | 7 | $1.62 | n/a | n/a | n/a | n/a |
 | ANVS | ALERT | 7 | $2.23 | n/a | n/a | n/a | n/a |
 | MKTW | WATCH | 6 | $17.59 | n/a | n/a | n/a | n/a |
 | VIDA | WATCH | 6 | $2.29 | n/a | n/a | n/a | n/a |
