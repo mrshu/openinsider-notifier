@@ -2,7 +2,7 @@
 
 - Lookback hours: 96
 - Form 4/4-A filings discovered: 234
-- Raw P/A transactions parsed: 10
+- Raw P/A transactions parsed: 14
 - Alert candidates: 2
 - Watch candidates: 0
 - Archived candidates: 0
