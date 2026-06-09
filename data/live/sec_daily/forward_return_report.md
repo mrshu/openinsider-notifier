@@ -1,6 +1,6 @@
 # Forward Return Audit
 
-Created at: `2026-06-08T01:39:18.064174+00:00`
+Created at: `2026-06-09T01:28:03.741813+00:00`
 
 Returns use free Yahoo adjusted closes and are for monitoring, not production-grade attribution.
 
@@ -31,7 +31,7 @@ Returns use free Yahoo adjusted closes and are for monitoring, not production-gr
 | TWFG | ALERT | 8 | $18.57 | n/a | n/a | n/a | n/a |
 | TWFG | ALERT | 8 | $18.95 | n/a | n/a | n/a | n/a |
 | TWFG | ALERT | 8 | $18.86 | n/a | n/a | n/a | n/a |
-| PAX | ALERT | 8 | n/a | n/a | n/a | n/a | n/a |
+| PAX | ALERT | 8 | $11.40 | n/a | n/a | n/a | n/a |
 | TWFG | ALERT | 8 | $18.77 | n/a | n/a | n/a | n/a |
 | ZBIO | ALERT | 8 | $17.84 | n/a | n/a | n/a | n/a |
 | LOGC | ALERT | 7 | $8.55 | n/a | n/a | n/a | n/a |
@@ -44,10 +44,12 @@ Returns use free Yahoo adjusted closes and are for monitoring, not production-gr
 | BOC | ALERT | 7 | $12.59 | n/a | n/a | n/a | n/a |
 | KINS | ALERT | 7 | $14.16 | n/a | n/a | n/a | n/a |
 | PNBK | ALERT | 7 | $1.07 | n/a | n/a | n/a | n/a |
-| OPAD | ALERT | 7 | $0.74 | n/a | n/a | n/a | n/a |
+| OPAD | ALERT | 7 | $7.40 | n/a | n/a | n/a | n/a |
 | NAKA | ALERT | 7 | $5.60 | n/a | n/a | n/a | n/a |
 | CDZI | ALERT | 7 | $4.38 | n/a | n/a | n/a | n/a |
+| CING | ALERT | 7 | $4.53 | n/a | n/a | n/a | n/a |
 | BLND | ALERT | 7 | $1.48 | n/a | n/a | n/a | n/a |
+| INR | ALERT | 7 | $13.58 | n/a | n/a | n/a | n/a |
 | SMRT | ALERT | 7 | $1.11 | n/a | n/a | n/a | n/a |
 | CXIIU | ALERT | 7 | $10.10 | -5.6% | n/a | n/a | n/a |
 | PLYX | ALERT | 7 | $3.27 | n/a | n/a | n/a | n/a |
@@ -65,6 +67,7 @@ Returns use free Yahoo adjusted closes and are for monitoring, not production-gr
 | BRCB | WATCH | 6 | $7.43 | n/a | n/a | n/a | n/a |
 | KREF | WATCH | 6 | $5.88 | 8.3% | n/a | n/a | n/a |
 | PTLO | WATCH | 6 | $4.05 | n/a | n/a | n/a | n/a |
+| TWFG | WATCH | 6 | $19.89 | n/a | n/a | n/a | n/a |
 | KREF | WATCH | 6 | $5.88 | 8.3% | n/a | n/a | n/a |
 | MBC | WATCH | 6 | $8.48 | n/a | n/a | n/a | n/a |
 | BETR | WATCH | 6 | $25.03 | n/a | n/a | n/a | n/a |
@@ -82,4 +85,5 @@ Returns use free Yahoo adjusted closes and are for monitoring, not production-gr
 | STRZ | WATCH | 4 | $21.93 | n/a | n/a | n/a | n/a |
 | CRESY | WATCH | 4 | $11.22 | -3.9% | n/a | n/a | n/a |
 | XRN | WATCH | 4 | $33.86 | n/a | n/a | n/a | n/a |
+| SSMR | WATCH | 4 | $14.79 | n/a | n/a | n/a | n/a |
 | XRN | WATCH | 4 | $33.86 | n/a | n/a | n/a | n/a |
