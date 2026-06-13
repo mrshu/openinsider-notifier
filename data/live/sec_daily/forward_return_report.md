@@ -1,6 +1,6 @@
 # Forward Return Audit
 
-Created at: `2026-06-12T01:44:13.358752+00:00`
+Created at: `2026-06-13T01:38:05.153851+00:00`
 
 Returns use free Yahoo adjusted closes and are for monitoring, not production-grade attribution.
 
@@ -24,7 +24,7 @@ Returns use free Yahoo adjusted closes and are for monitoring, not production-gr
 | STEP | ALERT | 9 | $42.52 | n/a | n/a | n/a | n/a |
 | COAG | ALERT | 9 | $25.01 | 0.7% | n/a | n/a | n/a |
 | ZBIO | ALERT | 9 | $17.55 | -1.5% | n/a | n/a | n/a |
-| ARTV | ALERT | 8 | $10.50 | n/a | n/a | n/a | n/a |
+| ARTV | ALERT | 8 | $10.50 | -18.6% | n/a | n/a | n/a |
 | TORO | ALERT | 8 | $6.09 | -19.9% | n/a | n/a | n/a |
 | TXO | ALERT | 8 | $13.78 | n/a | n/a | n/a | n/a |
 | KLRS | ALERT | 8 | $4.92 | n/a | n/a | n/a | n/a |
@@ -48,7 +48,7 @@ Returns use free Yahoo adjusted closes and are for monitoring, not production-gr
 | LFTO | ALERT | 7 | $24.72 | n/a | n/a | n/a | n/a |
 | LFTO | ALERT | 7 | $24.72 | n/a | n/a | n/a | n/a |
 | BOC | ALERT | 7 | $12.59 | n/a | n/a | n/a | n/a |
-| KINS | ALERT | 7 | $14.16 | n/a | n/a | n/a | n/a |
+| KINS | ALERT | 7 | $14.16 | 14.7% | n/a | n/a | n/a |
 | PNBK | ALERT | 7 | $1.07 | n/a | n/a | n/a | n/a |
 | OPAD | ALERT | 7 | $0.74 | n/a | n/a | n/a | n/a |
 | NAKA | ALERT | 7 | $5.60 | n/a | n/a | n/a | n/a |
@@ -56,11 +56,11 @@ Returns use free Yahoo adjusted closes and are for monitoring, not production-gr
 | CING | ALERT | 7 | $4.53 | n/a | n/a | n/a | n/a |
 | BLND | ALERT | 7 | $1.48 | n/a | n/a | n/a | n/a |
 | INR | ALERT | 7 | $13.58 | n/a | n/a | n/a | n/a |
-| SMRT | ALERT | 7 | $1.11 | n/a | n/a | n/a | n/a |
+| SMRT | ALERT | 7 | $1.11 | 2.8% | n/a | n/a | n/a |
 | CXIIU | ALERT | 7 | $10.10 | -5.6% | n/a | n/a | n/a |
 | PLYX | ALERT | 7 | $3.27 | n/a | n/a | n/a | n/a |
 | AUNA | ALERT | 7 | $4.50 | n/a | n/a | n/a | n/a |
-| FCNCA | ALERT | 7 | $1,907.53 | n/a | n/a | n/a | n/a |
+| FCNCA | ALERT | 7 | $1,907.53 | 10.6% | n/a | n/a | n/a |
 | BLND | ALERT | 7 | $1.62 | n/a | n/a | n/a | n/a |
 | ANVS | ALERT | 7 | $2.23 | n/a | n/a | n/a | n/a |
 | MKTW | WATCH | 6 | $17.59 | -3.2% | n/a | n/a | n/a |
