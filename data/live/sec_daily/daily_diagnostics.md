@@ -1,6 +1,6 @@
 # Daily SEC Insider Signal Scan
 
-Created at: `2026-06-13T01:37:52.369134+00:00`
+Created at: `2026-06-15T01:44:47.036586+00:00`
 - Lookback hours: 96
 - Form 4/4-A filings discovered: 237
 - Raw P/A transactions parsed: 2
