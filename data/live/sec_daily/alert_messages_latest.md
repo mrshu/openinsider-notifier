@@ -1,31 +1,30 @@
-[ALERT] FBRT - Franklin BSP Realty Trust, Inc.
+[ALERT] HMMR - HAMMER TECHNOLOGY HOLDINGS CORP.
 
 Insider signal:
-- Insider: ORTALE BUFORD H
-- Filed: 2026-06-18 01:45:11
-- Purchase value: $418,596
-- Insider VWAP: $11.66
-- Latest price: $8.20
-- Premium to insider VWAP: -29.7%
+- Insider: SEVELL MICHAEL
+- Filed: 2026-06-18 22:20:08
+- Purchase value: $2,680,799
+- Insider VWAP: $0.26
+- Latest price: $0.11
+- Premium to insider VWAP: -58.7%
 
 Why flagged:
-- purchase value >= $100k ($418,596)
-- purchase value / ADV60 >= 5% (5.5%)
-- current price below insider VWAP (-29.7%)
-- stock down at least 15% from 52w high (-23.1%)
-- multiple purchase rows in filing (2)
+- purchase value >= $2m ($2,680,799)
+- purchase value / ADV60 >= 5% (98631.5%)
+- current price below insider VWAP (-58.7%)
+- stock down at least 30% from 52w high (-59.6%)
 
 Context:
-- Purchase / ADV60: 5.5%
-- 52w drawdown: -23.1%
+- Purchase / ADV60: 98631.5%
+- 52w drawdown: -59.6%
 - Market cap: n/a
 - Purchase / market cap: n/a
-- Score: 7
+- Score: 9
 
 Caveats:
 - market cap unavailable
 
 Links:
-http://www.openinsider.com/FBRT
-https://finance.yahoo.com/quote/FBRT
-https://finviz.com/quote.ashx?t=FBRT
+http://www.openinsider.com/HMMR
+https://finance.yahoo.com/quote/HMMR
+https://finviz.com/quote.ashx?t=HMMR
