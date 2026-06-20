@@ -1,6 +1,6 @@
 # Forward Return Audit
 
-Created at: `2026-06-19T02:14:43.314193+00:00`
+Created at: `2026-06-20T01:35:50.760703+00:00`
 
 Returns use free Yahoo adjusted closes and are for monitoring, not production-grade attribution.
 
@@ -16,7 +16,7 @@ Returns use free Yahoo adjusted closes and are for monitoring, not production-gr
 | DNUT | ALERT | 10 | $3.51 | n/a | n/a | n/a | n/a |
 | WGS | ALERT | 10 | $40.75 | 48.4% | n/a | n/a | n/a |
 | NSP | ALERT | 10 | $28.24 | 24.8% | n/a | n/a | n/a |
-| HMMR | ALERT | 9 | n/a | n/a | n/a | n/a | n/a |
+| HMMR | ALERT | 9 | $0.11 | n/a | n/a | n/a | n/a |
 | TXO | ALERT | 9 | $12.15 | 13.1% | n/a | n/a | n/a |
 | ARTV | ALERT | 9 | $8.00 | n/a | n/a | n/a | n/a |
 | BLND | ALERT | 9 | $1.66 | n/a | n/a | n/a | n/a |

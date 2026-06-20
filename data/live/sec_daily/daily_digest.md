@@ -11,4 +11,4 @@
 
 | Tier | Ticker | Company | Score | Value | Value/ADV60 | Premium | Drawdown |
 | --- | --- | --- | ---: | ---: | ---: | ---: | ---: |
-| ALERT | HMMR | HAMMER TECHNOLOGY HOLDINGS CORP. | 9 | $2,680,799 | 98631.5% | -58.7% | -59.6% |
+| ALERT | HMMR | HAMMER TECHNOLOGY HOLDINGS CORP. | 9 | $2,680,799 | 98618.2% | -58.3% | -59.3% |
