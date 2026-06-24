@@ -1,6 +1,6 @@
 # Forward Return Audit
 
-Created at: `2026-06-23T01:30:26.919404+00:00`
+Created at: `2026-06-24T01:24:52.013448+00:00`
 
 Returns use free Yahoo adjusted closes and are for monitoring, not production-grade attribution.
 
@@ -91,6 +91,7 @@ Returns use free Yahoo adjusted closes and are for monitoring, not production-gr
 | KREF | WATCH | 6 | $5.88 | 8.3% | n/a | n/a | n/a |
 | AMR | WATCH | 6 | $193.37 | n/a | n/a | n/a | n/a |
 | MBC | WATCH | 6 | $8.48 | n/a | n/a | n/a | n/a |
+| PWRL | WATCH | 6 | $14.20 | n/a | n/a | n/a | n/a |
 | BETR | WATCH | 6 | $25.03 | 4.9% | n/a | n/a | n/a |
 | MKTW | WATCH | 5 | $17.23 | -4.7% | n/a | n/a | n/a |
 | NXDT | WATCH | 5 | $5.09 | -12.8% | n/a | n/a | n/a |
@@ -110,7 +111,7 @@ Returns use free Yahoo adjusted closes and are for monitoring, not production-gr
 | STRZ | WATCH | 4 | $21.93 | 27.4% | n/a | n/a | n/a |
 | FCBM | WATCH | 4 | $12.58 | n/a | n/a | n/a | n/a |
 | CRESY | WATCH | 4 | $11.22 | -3.9% | n/a | n/a | n/a |
-| XRN | WATCH | 4 | $33.86 | 9.9% | n/a | n/a | n/a |
+| XRN | WATCH | 4 | $33.71 | 9.9% | n/a | n/a | n/a |
 | SSMR | WATCH | 4 | $14.79 | n/a | n/a | n/a | n/a |
-| XRN | WATCH | 4 | $33.86 | 9.9% | n/a | n/a | n/a |
+| XRN | WATCH | 4 | $33.71 | 9.9% | n/a | n/a | n/a |
 | FCBM | WATCH | 4 | $12.58 | n/a | n/a | n/a | n/a |
