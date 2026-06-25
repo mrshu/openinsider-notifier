@@ -1,6 +1,6 @@
 # Forward Return Audit
 
-Created at: `2026-06-24T01:24:52.013448+00:00`
+Created at: `2026-06-25T01:32:35.554353+00:00`
 
 Returns use free Yahoo adjusted closes and are for monitoring, not production-grade attribution.
 
@@ -53,6 +53,7 @@ Returns use free Yahoo adjusted closes and are for monitoring, not production-gr
 | TXO | ALERT | 7 | $13.23 | -5.4% | n/a | n/a | n/a |
 | ODTX | ALERT | 7 | $17.90 | -6.0% | n/a | n/a | n/a |
 | VIDA | ALERT | 7 | $2.29 | 82.7% | n/a | n/a | n/a |
+| TXO | ALERT | 7 | $12.34 | n/a | n/a | n/a | n/a |
 | LFTO | ALERT | 7 | $24.72 | n/a | n/a | n/a | n/a |
 | LFTO | ALERT | 7 | $24.72 | n/a | n/a | n/a | n/a |
 | BOC | ALERT | 7 | $12.59 | n/a | n/a | n/a | n/a |
@@ -62,6 +63,7 @@ Returns use free Yahoo adjusted closes and are for monitoring, not production-gr
 | OPAD | ALERT | 7 | $0.74 | n/a | n/a | n/a | n/a |
 | NAKA | ALERT | 7 | $5.60 | n/a | n/a | n/a | n/a |
 | CDZI | ALERT | 7 | $4.38 | n/a | n/a | n/a | n/a |
+| FTH | ALERT | 7 | $24.54 | n/a | n/a | n/a | n/a |
 | CING | ALERT | 7 | $4.53 | n/a | n/a | n/a | n/a |
 | BLND | ALERT | 7 | $1.48 | 9.5% | n/a | n/a | n/a |
 | INR | ALERT | 7 | $13.58 | n/a | n/a | n/a | n/a |
