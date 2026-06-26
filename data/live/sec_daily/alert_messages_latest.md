@@ -1,63 +1,63 @@
-[ALERT] TXO - TXO Partners, L.P.
+[ALERT] PSEC - PROSPECT CAPITAL CORP
 
 Insider signal:
-- Insider: SIMPSON BOB R
-- Filed: 2026-06-24 21:49:03
-- Purchase value: $1,261,082
-- Insider VWAP: $12.61
-- Latest price: $12.34
-- Premium to insider VWAP: -2.1%
+- Insider: Barry John F
+- Filed: 2026-06-25 20:59:44
+- Purchase value: $2,274,500
+- Insider VWAP: $2.27
+- Latest price: $2.27
+- Premium to insider VWAP: -0.2%
 
 Why flagged:
-- purchase value >= $1m ($1,261,082)
-- purchase value / ADV60 >= 5% (47.7%)
-- current price below insider VWAP (-2.1%)
-- multiple purchase rows in filing (2)
+- purchase value >= $2m ($2,274,500)
+- purchase value / ADV60 >= 5% (16.6%)
+- current price below insider VWAP (-0.2%)
+- stock down at least 15% from 52w high (-21.8%)
 
 Context:
-- Purchase / ADV60: 47.7%
-- 52w drawdown: -10.8%
+- Purchase / ADV60: 16.6%
+- 52w drawdown: -21.8%
 - Market cap: n/a
 - Purchase / market cap: n/a
-- Score: 7
+- Score: 8
 
 Caveats:
 - market cap unavailable
 
 Links:
-http://www.openinsider.com/TXO
-https://finance.yahoo.com/quote/TXO
-https://finviz.com/quote.ashx?t=TXO
+http://www.openinsider.com/PSEC
+https://finance.yahoo.com/quote/PSEC
+https://finviz.com/quote.ashx?t=PSEC
 
 ---
 
-[ALERT] FTH - Faeth Therapeutics, Inc.
+[WATCH] LILA - Liberty Latin America Ltd.
 
 Insider signal:
-- Insider: STEPHENSON BRIAN C
-- Filed: 2026-06-24 22:58:08
-- Purchase value: $164,884
-- Insider VWAP: $24.12
-- Latest price: $24.54
-- Premium to insider VWAP: 1.7%
+- Insider: BRACKEN CHARLES H R
+- Filed: 2026-06-25 22:18:09
+- Purchase value: $200,900
+- Insider VWAP: $20.50
+- Latest price: $7.00
+- Premium to insider VWAP: -65.9%
 
 Why flagged:
-- purchase value >= $100k ($164,884)
-- purchase value / ADV60 >= 5% (14.4%)
-- current price within 15% of insider VWAP (1.7%)
-- stock down at least 30% from 52w high (-30.0%)
+- purchase value >= $100k ($200,900)
+- purchase value / ADV60 >= 5% (5.3%)
+- current price below insider VWAP (-65.9%)
+- multiple purchase rows in filing (2)
 
 Context:
-- Purchase / ADV60: 14.4%
-- 52w drawdown: -30.0%
+- Purchase / ADV60: 5.3%
+- 52w drawdown: 0.0%
 - Market cap: n/a
 - Purchase / market cap: n/a
-- Score: 7
+- Score: 6
 
 Caveats:
 - market cap unavailable
 
 Links:
-http://www.openinsider.com/FTH
-https://finance.yahoo.com/quote/FTH
-https://finviz.com/quote.ashx?t=FTH
+http://www.openinsider.com/LILA
+https://finance.yahoo.com/quote/LILA
+https://finviz.com/quote.ashx?t=LILA
