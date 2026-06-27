@@ -1,8 +1,8 @@
 # Daily Insider Signal Digest
 
 - Lookback hours: 96
-- Form 4/4-A filings discovered: 267
-- Raw P/A transactions parsed: 16
+- Form 4/4-A filings discovered: 269
+- Raw P/A transactions parsed: 18
 - Alert candidates: 1
 - Watch candidates: 1
 - Archived candidates: 0
@@ -11,5 +11,5 @@
 
 | Tier | Ticker | Company | Score | Value | Value/ADV60 | Premium | Drawdown |
 | --- | --- | --- | ---: | ---: | ---: | ---: | ---: |
-| ALERT | PSEC | PROSPECT CAPITAL CORP | 8 | $2,274,500 | 16.6% | -0.2% | -21.8% |
-| WATCH | LILA | Liberty Latin America Ltd. | 6 | $200,900 | 5.3% | -65.9% | 0.0% |
+| ALERT | FTH | Faeth Therapeutics, Inc. | 7 | $104,879 | 9.1% | -8.2% | -34.8% |
+| WATCH | ADBE | ADOBE INC. | 5 | $1,945,130 | 0.1% | 4.2% | -48.3% |

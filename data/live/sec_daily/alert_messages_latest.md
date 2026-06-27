@@ -1,63 +1,62 @@
-[ALERT] PSEC - PROSPECT CAPITAL CORP
+[ALERT] FTH - Faeth Therapeutics, Inc.
 
 Insider signal:
-- Insider: Barry John F
-- Filed: 2026-06-25 20:59:44
-- Purchase value: $2,274,500
-- Insider VWAP: $2.27
-- Latest price: $2.27
-- Premium to insider VWAP: -0.2%
+- Insider: STEPHENSON BRIAN C
+- Filed: 2026-06-26 23:40:29
+- Purchase value: $104,879
+- Insider VWAP: $24.90
+- Latest price: $22.87
+- Premium to insider VWAP: -8.2%
 
 Why flagged:
-- purchase value >= $2m ($2,274,500)
-- purchase value / ADV60 >= 5% (16.6%)
-- current price below insider VWAP (-0.2%)
-- stock down at least 15% from 52w high (-21.8%)
+- purchase value >= $100k ($104,879)
+- purchase value / ADV60 >= 5% (9.1%)
+- current price below insider VWAP (-8.2%)
+- stock down at least 30% from 52w high (-34.8%)
 
 Context:
-- Purchase / ADV60: 16.6%
-- 52w drawdown: -21.8%
+- Purchase / ADV60: 9.1%
+- 52w drawdown: -34.8%
 - Market cap: n/a
 - Purchase / market cap: n/a
-- Score: 8
+- Score: 7
 
 Caveats:
 - market cap unavailable
 
 Links:
-http://www.openinsider.com/PSEC
-https://finance.yahoo.com/quote/PSEC
-https://finviz.com/quote.ashx?t=PSEC
+http://www.openinsider.com/FTH
+https://finance.yahoo.com/quote/FTH
+https://finviz.com/quote.ashx?t=FTH
 
 ---
 
-[WATCH] LILA - Liberty Latin America Ltd.
+[WATCH] ADBE - ADOBE INC.
 
 Insider signal:
-- Insider: BRACKEN CHARLES H R
-- Filed: 2026-06-25 22:18:09
-- Purchase value: $200,900
-- Insider VWAP: $20.50
-- Latest price: $7.00
-- Premium to insider VWAP: -65.9%
+- Insider: Ricks David A
+- Filed: 2026-06-26 20:20:09
+- Purchase value: $1,945,130
+- Insider VWAP: $194.51
+- Latest price: $202.73
+- Premium to insider VWAP: 4.2%
 
 Why flagged:
-- purchase value >= $100k ($200,900)
-- purchase value / ADV60 >= 5% (5.3%)
-- current price below insider VWAP (-65.9%)
-- multiple purchase rows in filing (2)
+- purchase value >= $1m ($1,945,130)
+- current price within 15% of insider VWAP (4.2%)
+- stock down at least 30% from 52w high (-48.3%)
 
 Context:
-- Purchase / ADV60: 5.3%
-- 52w drawdown: 0.0%
+- Purchase / ADV60: 0.1%
+- 52w drawdown: -48.3%
 - Market cap: n/a
 - Purchase / market cap: n/a
-- Score: 6
+- Score: 5
 
 Caveats:
 - market cap unavailable
 
 Links:
-http://www.openinsider.com/LILA
-https://finance.yahoo.com/quote/LILA
-https://finviz.com/quote.ashx?t=LILA
+http://www.openinsider.com/ADBE
+https://finance.yahoo.com/quote/ADBE
+https://finviz.com/quote.ashx?t=ADBE
