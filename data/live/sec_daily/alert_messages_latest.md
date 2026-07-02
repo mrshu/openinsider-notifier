@@ -1,30 +1,31 @@
-[WATCH] FUND - SPROTT FOCUS TRUST INC.
+[ALERT] FTH - Faeth Therapeutics, Inc.
 
 Insider signal:
-- Insider: GEORGE W WHITNEY
-- Filed: 2026-06-30 21:30:03
-- Purchase value: $738,111
-- Insider VWAP: $9.63
-- Latest price: $9.48
-- Premium to insider VWAP: -1.6%
+- Insider: STEPHENSON BRIAN C
+- Filed: 2026-07-02 00:09:53
+- Purchase value: $209,250
+- Insider VWAP: $24.18
+- Latest price: $23.66
+- Premium to insider VWAP: -2.1%
 
 Why flagged:
-- purchase value >= $100k ($738,111)
-- purchase value / ADV60 >= 5% (268.4%)
-- current price below insider VWAP (-1.6%)
-- multiple purchase rows in filing (3)
+- purchase value >= $100k ($209,250)
+- purchase value / ADV60 >= 5% (17.7%)
+- current price below insider VWAP (-2.1%)
+- stock down at least 30% from 52w high (-32.5%)
+- multiple purchase rows in filing (2)
 
 Context:
-- Purchase / ADV60: 268.4%
-- 52w drawdown: -8.2%
+- Purchase / ADV60: 17.7%
+- 52w drawdown: -32.5%
 - Market cap: n/a
 - Purchase / market cap: n/a
-- Score: 6
+- Score: 8
 
 Caveats:
 - market cap unavailable
 
 Links:
-http://www.openinsider.com/FUND
-https://finance.yahoo.com/quote/FUND
-https://finviz.com/quote.ashx?t=FUND
+http://www.openinsider.com/FTH
+https://finance.yahoo.com/quote/FTH
+https://finviz.com/quote.ashx?t=FTH

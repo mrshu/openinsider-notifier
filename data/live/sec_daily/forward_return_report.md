@@ -1,6 +1,6 @@
 # Forward Return Audit
 
-Created at: `2026-07-01T01:38:51.638151+00:00`
+Created at: `2026-07-02T01:31:25.738809+00:00`
 
 Returns use free Yahoo adjusted closes and are for monitoring, not production-grade attribution.
 
@@ -36,6 +36,7 @@ Returns use free Yahoo adjusted closes and are for monitoring, not production-gr
 | AUPH | ALERT | 8 | $15.67 | n/a | n/a | n/a | n/a |
 | SKIL | ALERT | 8 | $6.11 | n/a | n/a | n/a | n/a |
 | ANNX | ALERT | 8 | $5.42 | 4.6% | n/a | n/a | n/a |
+| FTH | ALERT | 8 | n/a | n/a | n/a | n/a | n/a |
 | TWFG | ALERT | 8 | $18.57 | 30.1% | n/a | n/a | n/a |
 | PSEC | ALERT | 8 | $2.23 | n/a | n/a | n/a | n/a |
 | TWFG | ALERT | 8 | $18.95 | n/a | n/a | n/a | n/a |
