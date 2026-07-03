@@ -1,6 +1,6 @@
 # Forward Return Audit
 
-Created at: `2026-07-02T01:31:25.738809+00:00`
+Created at: `2026-07-03T01:09:37.433158+00:00`
 
 Returns use free Yahoo adjusted closes and are for monitoring, not production-grade attribution.
 
@@ -36,7 +36,7 @@ Returns use free Yahoo adjusted closes and are for monitoring, not production-gr
 | AUPH | ALERT | 8 | $15.67 | n/a | n/a | n/a | n/a |
 | SKIL | ALERT | 8 | $6.11 | n/a | n/a | n/a | n/a |
 | ANNX | ALERT | 8 | $5.42 | 4.6% | n/a | n/a | n/a |
-| FTH | ALERT | 8 | n/a | n/a | n/a | n/a | n/a |
+| FTH | ALERT | 8 | $22.92 | n/a | n/a | n/a | n/a |
 | TWFG | ALERT | 8 | $18.57 | 30.1% | n/a | n/a | n/a |
 | PSEC | ALERT | 8 | $2.23 | n/a | n/a | n/a | n/a |
 | TWFG | ALERT | 8 | $18.95 | n/a | n/a | n/a | n/a |
@@ -74,7 +74,7 @@ Returns use free Yahoo adjusted closes and are for monitoring, not production-gr
 | SMRT | ALERT | 7 | $1.11 | 2.8% | n/a | n/a | n/a |
 | CXIIU | ALERT | 7 | $10.10 | -5.6% | n/a | n/a | n/a |
 | PLYX | ALERT | 7 | $3.27 | -20.8% | n/a | n/a | n/a |
-| AUNA | ALERT | 7 | $4.50 | n/a | n/a | n/a | n/a |
+| AUNA | ALERT | 7 | $4.50 | 18.8% | n/a | n/a | n/a |
 | FCNCA | ALERT | 7 | $1,907.53 | 10.6% | n/a | n/a | n/a |
 | BLND | ALERT | 7 | $1.62 | n/a | n/a | n/a | n/a |
 | FBRT | ALERT | 7 | $8.22 | n/a | n/a | n/a | n/a |
@@ -84,7 +84,7 @@ Returns use free Yahoo adjusted closes and are for monitoring, not production-gr
 | MKTW | WATCH | 6 | $17.59 | -3.2% | n/a | n/a | n/a |
 | LEEEF | WATCH | 6 | $0.17 | n/a | n/a | n/a | n/a |
 | VIDA | WATCH | 6 | $2.29 | 82.7% | n/a | n/a | n/a |
-| BOC | WATCH | 6 | $13.64 | n/a | n/a | n/a | n/a |
+| BOC | WATCH | 6 | $13.64 | 12.3% | n/a | n/a | n/a |
 | WHF | WATCH | 6 | $6.80 | -0.5% | n/a | n/a | n/a |
 | VRA | WATCH | 6 | $3.77 | n/a | n/a | n/a | n/a |
 | ANIK | WATCH | 6 | $12.45 | 12.0% | n/a | n/a | n/a |
@@ -98,7 +98,7 @@ Returns use free Yahoo adjusted closes and are for monitoring, not production-gr
 | TWFG | WATCH | 6 | $19.89 | n/a | n/a | n/a | n/a |
 | KREF | WATCH | 6 | $5.80 | 8.3% | n/a | n/a | n/a |
 | AMR | WATCH | 6 | $193.37 | n/a | n/a | n/a | n/a |
-| MBC | WATCH | 6 | $8.48 | n/a | n/a | n/a | n/a |
+| MBC | WATCH | 6 | $8.48 | 18.2% | n/a | n/a | n/a |
 | PWRL | WATCH | 6 | $14.20 | n/a | n/a | n/a | n/a |
 | BETR | WATCH | 6 | $25.03 | 4.9% | n/a | n/a | n/a |
 | MKTW | WATCH | 5 | $17.23 | -4.7% | n/a | n/a | n/a |
