@@ -1,6 +1,6 @@
 # Forward Return Audit
 
-Created at: `2026-07-07T01:15:31.596047+00:00`
+Created at: `2026-07-08T00:58:57.967211+00:00`
 
 Returns use free Yahoo adjusted closes and are for monitoring, not production-grade attribution.
 
@@ -44,6 +44,7 @@ Returns use free Yahoo adjusted closes and are for monitoring, not production-gr
 | PAX | ALERT | 8 | $11.40 | -4.1% | n/a | n/a | n/a |
 | TWFG | ALERT | 8 | $18.77 | 30.2% | n/a | n/a | n/a |
 | ZBIO | ALERT | 8 | $17.84 | 8.8% | n/a | n/a | n/a |
+| VFLEX | ALERT | 7 | n/a | n/a | n/a | n/a | n/a |
 | KNOP | ALERT | 7 | $10.37 | n/a | n/a | n/a | n/a |
 | HWH | ALERT | 7 | $1.23 | n/a | n/a | n/a | n/a |
 | LOGC | ALERT | 7 | $8.55 | 5.4% | n/a | n/a | n/a |
@@ -79,6 +80,7 @@ Returns use free Yahoo adjusted closes and are for monitoring, not production-gr
 | BLND | ALERT | 7 | $1.62 | 10.8% | n/a | n/a | n/a |
 | FBRT | ALERT | 7 | $8.22 | n/a | n/a | n/a | n/a |
 | ANVS | ALERT | 7 | $2.23 | -20.7% | n/a | n/a | n/a |
+| VFLEX | WATCH | 6 | n/a | n/a | n/a | n/a | n/a |
 | FUND | WATCH | 6 | $9.48 | n/a | n/a | n/a | n/a |
 | TVA | WATCH | 6 | $10.48 | n/a | n/a | n/a | n/a |
 | MKTW | WATCH | 6 | $17.59 | -3.2% | n/a | n/a | n/a |
