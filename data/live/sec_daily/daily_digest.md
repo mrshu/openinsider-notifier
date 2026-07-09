@@ -1,15 +1,17 @@
 # Daily Insider Signal Digest
 
 - Lookback hours: 96
-- Form 4/4-A filings discovered: 255
-- Raw P/A transactions parsed: 8
-- Alert candidates: 1
-- Watch candidates: 1
+- Form 4/4-A filings discovered: 253
+- Raw P/A transactions parsed: 35
+- Alert candidates: 0
+- Watch candidates: 4
 - Archived candidates: 0
 
 ## Top Candidates
 
 | Tier | Ticker | Company | Score | Value | Value/ADV60 | Premium | Drawdown |
 | --- | --- | --- | ---: | ---: | ---: | ---: | ---: |
-| ALERT | VFLEX | FIRST TRUST ALTERNATIVE OPPORTUNITIES FUND | 7 | $4,999,988 | inf% | 0.0% | -0.7% |
-| WATCH | VFLEX | FIRST TRUST ALTERNATIVE OPPORTUNITIES FUND | 6 | $1,500,002 | inf% | 0.0% | -0.7% |
+| WATCH | EWSB | EWSB Bancorp, Inc. /MD/ | 6 | $479,000 | 31118.3% | -0.5% | -2.8% |
+| WATCH | LRMR | Larimar Therapeutics, Inc. | 6 | $166,890 | 2.1% | 8.2% | -39.3% |
+| WATCH | EWSB | EWSB Bancorp, Inc. /MD/ | 5 | $591,410 | 38421.0% | -0.5% | -2.8% |
+| WATCH | EWSB | EWSB Bancorp, Inc. /MD/ | 5 | $399,500 | 25953.6% | -0.5% | -2.8% |
