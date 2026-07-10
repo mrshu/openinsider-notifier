@@ -1,6 +1,6 @@
 # Forward Return Audit
 
-Created at: `2026-07-09T01:09:34.421062+00:00`
+Created at: `2026-07-10T01:08:03.176887+00:00`
 
 Returns use free Yahoo adjusted closes and are for monitoring, not production-grade attribution.
 
@@ -46,7 +46,7 @@ Returns use free Yahoo adjusted closes and are for monitoring, not production-gr
 | ZBIO | ALERT | 8 | $17.84 | 8.8% | n/a | n/a | n/a |
 | VFLEX | ALERT | 7 | $27.64 | n/a | n/a | n/a | n/a |
 | KNOP | ALERT | 7 | $10.37 | n/a | n/a | n/a | n/a |
-| HWH | ALERT | 7 | $1.23 | n/a | n/a | n/a | n/a |
+| HWH | ALERT | 7 | $1.23 | 1.4% | n/a | n/a | n/a |
 | LOGC | ALERT | 7 | $8.55 | 5.4% | n/a | n/a | n/a |
 | MKTW | ALERT | 7 | $16.77 | -1.1% | n/a | n/a | n/a |
 | LOGC | ALERT | 7 | $8.98 | 1.0% | n/a | n/a | n/a |
@@ -81,6 +81,7 @@ Returns use free Yahoo adjusted closes and are for monitoring, not production-gr
 | FBRT | ALERT | 7 | $8.22 | n/a | n/a | n/a | n/a |
 | ANVS | ALERT | 7 | $2.23 | -20.7% | n/a | n/a | n/a |
 | VFLEX | WATCH | 6 | $27.64 | n/a | n/a | n/a | n/a |
+| EWSB | WATCH | 6 | $9.95 | n/a | n/a | n/a | n/a |
 | EWSB | WATCH | 6 | n/a | n/a | n/a | n/a | n/a |
 | FUND | WATCH | 6 | $9.48 | n/a | n/a | n/a | n/a |
 | TVA | WATCH | 6 | $10.48 | n/a | n/a | n/a | n/a |
@@ -105,7 +106,10 @@ Returns use free Yahoo adjusted closes and are for monitoring, not production-gr
 | MBC | WATCH | 6 | $8.48 | 18.2% | n/a | n/a | n/a |
 | PWRL | WATCH | 6 | $14.20 | n/a | n/a | n/a | n/a |
 | BETR | WATCH | 6 | $25.03 | 4.9% | n/a | n/a | n/a |
+| CCLFX | WATCH | 5 | n/a | n/a | n/a | n/a | n/a |
+| EWSB | WATCH | 5 | $9.95 | n/a | n/a | n/a | n/a |
 | EWSB | WATCH | 5 | n/a | n/a | n/a | n/a | n/a |
+| EWSB | WATCH | 5 | $9.95 | n/a | n/a | n/a | n/a |
 | EWSB | WATCH | 5 | n/a | n/a | n/a | n/a | n/a |
 | MKTW | WATCH | 5 | $17.23 | -4.7% | n/a | n/a | n/a |
 | NXDT | WATCH | 5 | $5.09 | -12.8% | n/a | n/a | n/a |
