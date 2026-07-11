@@ -1,6 +1,6 @@
 # Forward Return Audit
 
-Created at: `2026-07-10T01:08:03.176887+00:00`
+Created at: `2026-07-11T00:56:13.274655+00:00`
 
 Returns use free Yahoo adjusted closes and are for monitoring, not production-grade attribution.
 
@@ -17,13 +17,15 @@ Returns use free Yahoo adjusted closes and are for monitoring, not production-gr
 | WGS | ALERT | 10 | $44.73 | 23.2% | n/a | n/a | n/a |
 | DNUT | ALERT | 10 | $3.51 | -3.0% | n/a | n/a | n/a |
 | WGS | ALERT | 10 | $40.75 | 48.4% | n/a | n/a | n/a |
-| NSP | ALERT | 10 | $28.75 | 22.6% | n/a | n/a | n/a |
+| NSP | ALERT | 10 | $28.24 | 24.8% | n/a | n/a | n/a |
 | HMMR | ALERT | 9 | $0.11 | n/a | n/a | n/a | n/a |
+| GLOO | ALERT | 9 | $2.95 | n/a | n/a | n/a | n/a |
 | TXO | ALERT | 9 | $12.15 | 13.1% | n/a | n/a | n/a |
 | ARTV | ALERT | 9 | $8.00 | n/a | n/a | n/a | n/a |
-| BLND | ALERT | 9 | $1.66 | n/a | n/a | n/a | n/a |
+| BLND | ALERT | 9 | $1.66 | -1.9% | n/a | n/a | n/a |
 | BLND | ALERT | 9 | $1.56 | 13.5% | n/a | n/a | n/a |
 | BLND | ALERT | 9 | $1.47 | 14.2% | n/a | n/a | n/a |
+| NTSK | ALERT | 9 | $12.32 | n/a | n/a | n/a | n/a |
 | FBIN | ALERT | 9 | $36.05 | 14.1% | n/a | n/a | n/a |
 | STEP | ALERT | 9 | $41.72 | n/a | n/a | n/a | n/a |
 | COAG | ALERT | 9 | $25.01 | 0.7% | n/a | n/a | n/a |
@@ -32,6 +34,7 @@ Returns use free Yahoo adjusted closes and are for monitoring, not production-gr
 | TORO | ALERT | 8 | $6.09 | -19.9% | n/a | n/a | n/a |
 | TXO | ALERT | 8 | $13.78 | -9.4% | n/a | n/a | n/a |
 | KLRS | ALERT | 8 | $4.92 | -10.7% | n/a | n/a | n/a |
+| GLOO | ALERT | 8 | $2.95 | n/a | n/a | n/a | n/a |
 | PLSE | ALERT | 8 | $19.08 | 32.9% | n/a | n/a | n/a |
 | AUPH | ALERT | 8 | $15.67 | -1.0% | n/a | n/a | n/a |
 | SKIL | ALERT | 8 | $6.11 | n/a | n/a | n/a | n/a |
@@ -55,11 +58,12 @@ Returns use free Yahoo adjusted closes and are for monitoring, not production-gr
 | VRM | ALERT | 7 | $10.70 | n/a | n/a | n/a | n/a |
 | TXO | ALERT | 7 | $13.23 | -5.4% | n/a | n/a | n/a |
 | ODTX | ALERT | 7 | $17.90 | -6.0% | n/a | n/a | n/a |
+| GLOO | ALERT | 7 | $2.95 | n/a | n/a | n/a | n/a |
 | VIDA | ALERT | 7 | $2.29 | 82.7% | n/a | n/a | n/a |
 | TXO | ALERT | 7 | $12.34 | n/a | n/a | n/a | n/a |
 | CGON | ALERT | 7 | $73.73 | n/a | n/a | n/a | n/a |
-| LFTO | ALERT | 7 | $24.72 | n/a | n/a | n/a | n/a |
-| LFTO | ALERT | 7 | $24.72 | n/a | n/a | n/a | n/a |
+| LFTO | ALERT | 7 | $24.72 | -3.9% | n/a | n/a | n/a |
+| LFTO | ALERT | 7 | $24.72 | -3.9% | n/a | n/a | n/a |
 | BOC | ALERT | 7 | $12.59 | 10.4% | n/a | n/a | n/a |
 | KINS | ALERT | 7 | $14.16 | 14.7% | n/a | n/a | n/a |
 | PNBK | ALERT | 7 | $1.07 | -0.1% | n/a | n/a | n/a |
@@ -82,7 +86,7 @@ Returns use free Yahoo adjusted closes and are for monitoring, not production-gr
 | ANVS | ALERT | 7 | $2.23 | -20.7% | n/a | n/a | n/a |
 | VFLEX | WATCH | 6 | $27.64 | n/a | n/a | n/a | n/a |
 | EWSB | WATCH | 6 | $9.95 | n/a | n/a | n/a | n/a |
-| EWSB | WATCH | 6 | n/a | n/a | n/a | n/a | n/a |
+| EWSB | WATCH | 6 | $10.95 | n/a | n/a | n/a | n/a |
 | FUND | WATCH | 6 | $9.48 | n/a | n/a | n/a | n/a |
 | TVA | WATCH | 6 | $10.48 | n/a | n/a | n/a | n/a |
 | MKTW | WATCH | 6 | $17.59 | -3.2% | n/a | n/a | n/a |
@@ -106,15 +110,15 @@ Returns use free Yahoo adjusted closes and are for monitoring, not production-gr
 | MBC | WATCH | 6 | $8.48 | 18.2% | n/a | n/a | n/a |
 | PWRL | WATCH | 6 | $14.20 | n/a | n/a | n/a | n/a |
 | BETR | WATCH | 6 | $25.03 | 4.9% | n/a | n/a | n/a |
-| CCLFX | WATCH | 5 | n/a | n/a | n/a | n/a | n/a |
+| CCLFX | WATCH | 5 | $10.26 | n/a | n/a | n/a | n/a |
 | EWSB | WATCH | 5 | $9.95 | n/a | n/a | n/a | n/a |
-| EWSB | WATCH | 5 | n/a | n/a | n/a | n/a | n/a |
+| EWSB | WATCH | 5 | $10.95 | n/a | n/a | n/a | n/a |
 | EWSB | WATCH | 5 | $9.95 | n/a | n/a | n/a | n/a |
-| EWSB | WATCH | 5 | n/a | n/a | n/a | n/a | n/a |
+| EWSB | WATCH | 5 | $10.95 | n/a | n/a | n/a | n/a |
 | MKTW | WATCH | 5 | $17.23 | -4.7% | n/a | n/a | n/a |
 | NXDT | WATCH | 5 | $5.09 | -12.8% | n/a | n/a | n/a |
 | MKTW | WATCH | 5 | $17.23 | 0.8% | n/a | n/a | n/a |
-| LOGC | WATCH | 5 | $9.66 | n/a | n/a | n/a | n/a |
+| LOGC | WATCH | 5 | $9.66 | -10.7% | n/a | n/a | n/a |
 | VIDA | WATCH | 5 | $2.29 | 82.7% | n/a | n/a | n/a |
 | PLSE | WATCH | 5 | $19.08 | 32.9% | n/a | n/a | n/a |
 | PLSE | WATCH | 5 | $23.30 | 15.5% | n/a | n/a | n/a |

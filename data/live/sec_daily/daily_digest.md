@@ -1,17 +1,17 @@
 # Daily Insider Signal Digest
 
 - Lookback hours: 96
-- Form 4/4-A filings discovered: 228
-- Raw P/A transactions parsed: 45
-- Alert candidates: 0
-- Watch candidates: 4
+- Form 4/4-A filings discovered: 235
+- Raw P/A transactions parsed: 30
+- Alert candidates: 4
+- Watch candidates: 0
 - Archived candidates: 0
 
 ## Top Candidates
 
 | Tier | Ticker | Company | Score | Value | Value/ADV60 | Premium | Drawdown |
 | --- | --- | --- | ---: | ---: | ---: | ---: | ---: |
-| WATCH | EWSB | EWSB Bancorp, Inc. /MD/ | 6 | $479,000 | 31118.3% | -0.5% | -2.8% |
-| WATCH | CCLFX | Cliffwater Corporate Lending Fund | 5 | $415,000 | inf% | 0.0% | -2.1% |
-| WATCH | EWSB | EWSB Bancorp, Inc. /MD/ | 5 | $591,410 | 38421.0% | -0.5% | -2.8% |
-| WATCH | EWSB | EWSB Bancorp, Inc. /MD/ | 5 | $399,500 | 25953.6% | -0.5% | -2.8% |
+| ALERT | GLOO | Gloo Holdings, Inc. | 9 | $3,500,000 | 391.0% | -9.2% | -68.9% |
+| ALERT | NTSK | Netskope Inc | 9 | $7,216,081 | 12.5% | 4.2% | -52.2% |
+| ALERT | GLOO | Gloo Holdings, Inc. | 8 | $1,999,998 | 223.4% | -9.2% | -68.9% |
+| ALERT | GLOO | Gloo Holdings, Inc. | 7 | $500,000 | 55.9% | -9.2% | -68.9% |
