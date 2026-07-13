@@ -10,12 +10,12 @@ Insider signal:
 
 Why flagged:
 - purchase value >= $2m ($3,500,000)
-- purchase value / ADV60 >= 5% (391.0%)
+- purchase value / ADV60 >= 5% (389.4%)
 - current price below insider VWAP (-9.2%)
 - stock down at least 30% from 52w high (-68.9%)
 
 Context:
-- Purchase / ADV60: 391.0%
+- Purchase / ADV60: 389.4%
 - 52w drawdown: -68.9%
 - Market cap: n/a
 - Purchase / market cap: n/a
@@ -76,12 +76,12 @@ Insider signal:
 
 Why flagged:
 - purchase value >= $1m ($1,999,998)
-- purchase value / ADV60 >= 5% (223.4%)
+- purchase value / ADV60 >= 5% (222.5%)
 - current price below insider VWAP (-9.2%)
 - stock down at least 30% from 52w high (-68.9%)
 
 Context:
-- Purchase / ADV60: 223.4%
+- Purchase / ADV60: 222.5%
 - 52w drawdown: -68.9%
 - Market cap: n/a
 - Purchase / market cap: n/a
@@ -109,12 +109,12 @@ Insider signal:
 
 Why flagged:
 - purchase value >= $100k ($500,000)
-- purchase value / ADV60 >= 5% (55.9%)
+- purchase value / ADV60 >= 5% (55.6%)
 - current price below insider VWAP (-9.2%)
 - stock down at least 30% from 52w high (-68.9%)
 
 Context:
-- Purchase / ADV60: 55.9%
+- Purchase / ADV60: 55.6%
 - 52w drawdown: -68.9%
 - Market cap: n/a
 - Purchase / market cap: n/a
