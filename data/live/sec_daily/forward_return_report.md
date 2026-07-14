@@ -1,6 +1,6 @@
 # Forward Return Audit
 
-Created at: `2026-07-13T00:16:24.893968+00:00`
+Created at: `2026-07-14T00:14:40.110549+00:00`
 
 Returns use free Yahoo adjusted closes and are for monitoring, not production-grade attribution.
 
@@ -21,13 +21,13 @@ Returns use free Yahoo adjusted closes and are for monitoring, not production-gr
 | HMMR | ALERT | 9 | $0.11 | n/a | n/a | n/a | n/a |
 | GLOO | ALERT | 9 | $2.95 | n/a | n/a | n/a | n/a |
 | TXO | ALERT | 9 | $12.15 | 13.1% | n/a | n/a | n/a |
-| ARTV | ALERT | 9 | $8.00 | n/a | n/a | n/a | n/a |
+| ARTV | ALERT | 9 | $8.00 | 9.8% | n/a | n/a | n/a |
 | BLND | ALERT | 9 | $1.66 | -1.9% | n/a | n/a | n/a |
 | BLND | ALERT | 9 | $1.56 | 13.5% | n/a | n/a | n/a |
 | BLND | ALERT | 9 | $1.47 | 14.2% | n/a | n/a | n/a |
 | NTSK | ALERT | 9 | $12.32 | n/a | n/a | n/a | n/a |
 | FBIN | ALERT | 9 | $36.05 | 14.1% | n/a | n/a | n/a |
-| STEP | ALERT | 9 | $41.72 | n/a | n/a | n/a | n/a |
+| STEP | ALERT | 9 | $41.72 | 0.8% | n/a | n/a | n/a |
 | COAG | ALERT | 9 | $25.01 | 0.7% | n/a | n/a | n/a |
 | ZBIO | ALERT | 9 | $17.55 | -1.5% | n/a | n/a | n/a |
 | ARTV | ALERT | 8 | $10.50 | -18.6% | n/a | n/a | n/a |
@@ -101,7 +101,7 @@ Returns use free Yahoo adjusted closes and are for monitoring, not production-gr
 | LZ | WATCH | 6 | $6.16 | -4.0% | n/a | n/a | n/a |
 | BRCB | WATCH | 6 | $7.43 | -4.5% | n/a | n/a | n/a |
 | KREF | WATCH | 6 | $5.80 | 8.3% | n/a | n/a | n/a |
-| VIA | WATCH | 6 | $14.76 | n/a | n/a | n/a | n/a |
+| VIA | WATCH | 6 | $14.76 | 22.2% | n/a | n/a | n/a |
 | PTLO | WATCH | 6 | $4.05 | 10.4% | n/a | n/a | n/a |
 | TWFG | WATCH | 6 | $19.89 | 30.1% | n/a | n/a | n/a |
 | KREF | WATCH | 6 | $5.80 | 8.3% | n/a | n/a | n/a |
