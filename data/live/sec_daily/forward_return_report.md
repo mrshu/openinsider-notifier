@@ -1,6 +1,6 @@
 # Forward Return Audit
 
-Created at: `2026-07-14T00:14:40.110549+00:00`
+Created at: `2026-07-15T00:13:47.107020+00:00`
 
 Returns use free Yahoo adjusted closes and are for monitoring, not production-grade attribution.
 
@@ -91,6 +91,7 @@ Returns use free Yahoo adjusted closes and are for monitoring, not production-gr
 | TVA | WATCH | 6 | $10.48 | n/a | n/a | n/a | n/a |
 | MKTW | WATCH | 6 | $17.59 | -3.2% | n/a | n/a | n/a |
 | LEEEF | WATCH | 6 | $0.17 | n/a | n/a | n/a | n/a |
+| GLBS | WATCH | 6 | $2.73 | n/a | n/a | n/a | n/a |
 | VIDA | WATCH | 6 | $2.29 | 82.7% | n/a | n/a | n/a |
 | BOC | WATCH | 6 | $13.64 | 12.3% | n/a | n/a | n/a |
 | WHF | WATCH | 6 | $6.80 | -0.5% | n/a | n/a | n/a |
@@ -105,6 +106,7 @@ Returns use free Yahoo adjusted closes and are for monitoring, not production-gr
 | PTLO | WATCH | 6 | $4.05 | 10.4% | n/a | n/a | n/a |
 | TWFG | WATCH | 6 | $19.89 | 30.1% | n/a | n/a | n/a |
 | KREF | WATCH | 6 | $5.80 | 8.3% | n/a | n/a | n/a |
+| ARTV | WATCH | 6 | $9.35 | n/a | n/a | n/a | n/a |
 | AMR | WATCH | 6 | $193.37 | n/a | n/a | n/a | n/a |
 | LRMR | WATCH | 6 | $3.61 | n/a | n/a | n/a | n/a |
 | MBC | WATCH | 6 | $8.48 | 18.2% | n/a | n/a | n/a |
