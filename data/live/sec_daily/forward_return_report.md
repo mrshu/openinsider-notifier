@@ -1,6 +1,6 @@
 # Forward Return Audit
 
-Created at: `2026-07-15T00:13:47.107020+00:00`
+Created at: `2026-07-16T00:55:58.869617+00:00`
 
 Returns use free Yahoo adjusted closes and are for monitoring, not production-grade attribution.
 
@@ -37,6 +37,7 @@ Returns use free Yahoo adjusted closes and are for monitoring, not production-gr
 | GLOO | ALERT | 8 | $2.95 | n/a | n/a | n/a | n/a |
 | PLSE | ALERT | 8 | $19.08 | 32.9% | n/a | n/a | n/a |
 | AUPH | ALERT | 8 | $15.67 | -1.0% | n/a | n/a | n/a |
+| BOT | ALERT | 8 | $31.59 | n/a | n/a | n/a | n/a |
 | SKIL | ALERT | 8 | $6.11 | n/a | n/a | n/a | n/a |
 | ANNX | ALERT | 8 | $5.42 | 4.6% | n/a | n/a | n/a |
 | FTH | ALERT | 8 | $22.92 | n/a | n/a | n/a | n/a |
@@ -67,7 +68,7 @@ Returns use free Yahoo adjusted closes and are for monitoring, not production-gr
 | BOC | ALERT | 7 | $12.59 | 10.4% | n/a | n/a | n/a |
 | KINS | ALERT | 7 | $14.16 | 14.7% | n/a | n/a | n/a |
 | PNBK | ALERT | 7 | $1.07 | -0.1% | n/a | n/a | n/a |
-| LODE | ALERT | 7 | $4.08 | n/a | n/a | n/a | n/a |
+| LODE | ALERT | 7 | $4.08 | 1.7% | n/a | n/a | n/a |
 | OPAD | ALERT | 7 | $0.74 | 666.7% | n/a | n/a | n/a |
 | NAKA | ALERT | 7 | $5.60 | -23.5% | n/a | n/a | n/a |
 | CDZI | ALERT | 7 | $4.38 | -9.9% | n/a | n/a | n/a |
