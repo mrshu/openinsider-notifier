@@ -1,6 +1,6 @@
 # Forward Return Audit
 
-Created at: `2026-07-16T00:55:58.869617+00:00`
+Created at: `2026-07-17T00:58:53.390861+00:00`
 
 Returns use free Yahoo adjusted closes and are for monitoring, not production-grade attribution.
 
@@ -10,7 +10,7 @@ Returns use free Yahoo adjusted closes and are for monitoring, not production-gr
 | CNTM | ALERT | 10 | $8.50 | n/a | n/a | n/a | n/a |
 | ALKT | ALERT | 10 | $16.61 | -9.9% | n/a | n/a | n/a |
 | ALKT | ALERT | 10 | $16.61 | -9.9% | n/a | n/a | n/a |
-| ARTV | ALERT | 10 | $8.91 | n/a | n/a | n/a | n/a |
+| ARTV | ALERT | 10 | $8.91 | 1.1% | n/a | n/a | n/a |
 | BLND | ALERT | 10 | $1.39 | 20.0% | n/a | n/a | n/a |
 | BKKT | ALERT | 10 | $8.72 | 3.0% | n/a | n/a | n/a |
 | BH | ALERT | 10 | $258.17 | 32.3% | n/a | n/a | n/a |
@@ -38,7 +38,7 @@ Returns use free Yahoo adjusted closes and are for monitoring, not production-gr
 | PLSE | ALERT | 8 | $19.08 | 32.9% | n/a | n/a | n/a |
 | AUPH | ALERT | 8 | $15.67 | -1.0% | n/a | n/a | n/a |
 | BOT | ALERT | 8 | $31.59 | n/a | n/a | n/a | n/a |
-| SKIL | ALERT | 8 | $6.11 | n/a | n/a | n/a | n/a |
+| SKIL | ALERT | 8 | $6.11 | 7.5% | n/a | n/a | n/a |
 | ANNX | ALERT | 8 | $5.42 | 4.6% | n/a | n/a | n/a |
 | FTH | ALERT | 8 | $22.92 | n/a | n/a | n/a | n/a |
 | TWFG | ALERT | 8 | $18.57 | 30.1% | n/a | n/a | n/a |
@@ -49,7 +49,7 @@ Returns use free Yahoo adjusted closes and are for monitoring, not production-gr
 | TWFG | ALERT | 8 | $18.77 | 30.2% | n/a | n/a | n/a |
 | ZBIO | ALERT | 8 | $17.84 | 8.8% | n/a | n/a | n/a |
 | VFLEX | ALERT | 7 | $27.64 | n/a | n/a | n/a | n/a |
-| KNOP | ALERT | 7 | $10.37 | n/a | n/a | n/a | n/a |
+| KNOP | ALERT | 7 | $10.37 | 1.3% | n/a | n/a | n/a |
 | HWH | ALERT | 7 | $1.23 | 1.4% | n/a | n/a | n/a |
 | LOGC | ALERT | 7 | $8.55 | 5.4% | n/a | n/a | n/a |
 | MKTW | ALERT | 7 | $16.77 | -1.1% | n/a | n/a | n/a |
@@ -91,7 +91,7 @@ Returns use free Yahoo adjusted closes and are for monitoring, not production-gr
 | FUND | WATCH | 6 | $9.48 | n/a | n/a | n/a | n/a |
 | TVA | WATCH | 6 | $10.48 | n/a | n/a | n/a | n/a |
 | MKTW | WATCH | 6 | $17.59 | -3.2% | n/a | n/a | n/a |
-| LEEEF | WATCH | 6 | $0.17 | n/a | n/a | n/a | n/a |
+| LEEEF | WATCH | 6 | $0.17 | 18.0% | n/a | n/a | n/a |
 | GLBS | WATCH | 6 | $2.73 | n/a | n/a | n/a | n/a |
 | VIDA | WATCH | 6 | $2.29 | 82.7% | n/a | n/a | n/a |
 | BOC | WATCH | 6 | $13.64 | 12.3% | n/a | n/a | n/a |
