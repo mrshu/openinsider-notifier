@@ -1,6 +1,6 @@
 # Forward Return Audit
 
-Created at: `2026-07-17T00:58:53.390861+00:00`
+Created at: `2026-07-18T00:53:50.085738+00:00`
 
 Returns use free Yahoo adjusted closes and are for monitoring, not production-grade attribution.
 
@@ -55,8 +55,8 @@ Returns use free Yahoo adjusted closes and are for monitoring, not production-gr
 | MKTW | ALERT | 7 | $16.77 | -1.1% | n/a | n/a | n/a |
 | LOGC | ALERT | 7 | $8.98 | 1.0% | n/a | n/a | n/a |
 | ODTX | ALERT | 7 | $17.90 | -6.0% | n/a | n/a | n/a |
-| VRM | ALERT | 7 | $10.70 | n/a | n/a | n/a | n/a |
-| VRM | ALERT | 7 | $10.70 | n/a | n/a | n/a | n/a |
+| VRM | ALERT | 7 | $10.70 | -33.9% | n/a | n/a | n/a |
+| VRM | ALERT | 7 | $10.70 | -33.9% | n/a | n/a | n/a |
 | TXO | ALERT | 7 | $13.23 | -5.4% | n/a | n/a | n/a |
 | ODTX | ALERT | 7 | $17.90 | -6.0% | n/a | n/a | n/a |
 | GLOO | ALERT | 7 | $2.95 | n/a | n/a | n/a | n/a |
@@ -95,8 +95,9 @@ Returns use free Yahoo adjusted closes and are for monitoring, not production-gr
 | GLBS | WATCH | 6 | $2.73 | n/a | n/a | n/a | n/a |
 | VIDA | WATCH | 6 | $2.29 | 82.7% | n/a | n/a | n/a |
 | BOC | WATCH | 6 | $13.64 | 12.3% | n/a | n/a | n/a |
+| LILA | WATCH | 6 | n/a | n/a | n/a | n/a | n/a |
 | WHF | WATCH | 6 | $6.80 | -0.5% | n/a | n/a | n/a |
-| VRA | WATCH | 6 | $3.77 | n/a | n/a | n/a | n/a |
+| VRA | WATCH | 6 | $3.77 | -1.1% | n/a | n/a | n/a |
 | ANIK | WATCH | 6 | $12.45 | 12.0% | n/a | n/a | n/a |
 | LILA | WATCH | 6 | $5.03 | 6.7% | n/a | n/a | n/a |
 | LILA | WATCH | 6 | $7.00 | n/a | n/a | n/a | n/a |
@@ -108,7 +109,7 @@ Returns use free Yahoo adjusted closes and are for monitoring, not production-gr
 | TWFG | WATCH | 6 | $19.89 | 30.1% | n/a | n/a | n/a |
 | KREF | WATCH | 6 | $5.80 | 8.3% | n/a | n/a | n/a |
 | ARTV | WATCH | 6 | $9.35 | n/a | n/a | n/a | n/a |
-| AMR | WATCH | 6 | $193.37 | n/a | n/a | n/a | n/a |
+| AMR | WATCH | 6 | $193.37 | -26.2% | n/a | n/a | n/a |
 | LRMR | WATCH | 6 | $3.61 | n/a | n/a | n/a | n/a |
 | MBC | WATCH | 6 | $8.48 | 18.2% | n/a | n/a | n/a |
 | PWRL | WATCH | 6 | $14.20 | n/a | n/a | n/a | n/a |
