@@ -1,14 +1,15 @@
 # Daily Insider Signal Digest
 
 - Lookback hours: 96
-- Form 4/4-A filings discovered: 250
-- Raw P/A transactions parsed: 8
-- Alert candidates: 0
-- Watch candidates: 1
+- Form 4/4-A filings discovered: 245
+- Raw P/A transactions parsed: 19
+- Alert candidates: 2
+- Watch candidates: 0
 - Archived candidates: 0
 
 ## Top Candidates
 
 | Tier | Ticker | Company | Score | Value | Value/ADV60 | Premium | Drawdown |
 | --- | --- | --- | ---: | ---: | ---: | ---: | ---: |
-| WATCH | LILA | Liberty Latin America Ltd. | 6 | $1,006,711 | 21.4% | -64.0% | -7.3% |
+| ALERT | CBIO | CRESCENT BIOPHARMA, INC. | 9 | $12,375,025 | 193.9% | 3.8% | -44.2% |
+| ALERT | ARTV | Artiva Biotherapeutics, Inc. | 8 | $1,361,575 | 24.7% | 2.5% | -31.7% |

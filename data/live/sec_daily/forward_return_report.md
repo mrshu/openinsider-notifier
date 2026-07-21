@@ -1,6 +1,6 @@
 # Forward Return Audit
 
-Created at: `2026-07-20T01:00:56.514602+00:00`
+Created at: `2026-07-21T00:58:19.807557+00:00`
 
 Returns use free Yahoo adjusted closes and are for monitoring, not production-grade attribution.
 
@@ -21,6 +21,7 @@ Returns use free Yahoo adjusted closes and are for monitoring, not production-gr
 | HMMR | ALERT | 9 | $0.11 | n/a | n/a | n/a | n/a |
 | GLOO | ALERT | 9 | $2.95 | n/a | n/a | n/a | n/a |
 | TXO | ALERT | 9 | $12.15 | 13.1% | n/a | n/a | n/a |
+| CBIO | ALERT | 9 | $15.05 | n/a | n/a | n/a | n/a |
 | ARTV | ALERT | 9 | $8.00 | 9.8% | n/a | n/a | n/a |
 | BLND | ALERT | 9 | $1.66 | -1.9% | n/a | n/a | n/a |
 | BLND | ALERT | 9 | $1.56 | 13.5% | n/a | n/a | n/a |
@@ -39,6 +40,7 @@ Returns use free Yahoo adjusted closes and are for monitoring, not production-gr
 | AUPH | ALERT | 8 | $15.67 | -1.0% | n/a | n/a | n/a |
 | BOT | ALERT | 8 | $31.59 | n/a | n/a | n/a | n/a |
 | SKIL | ALERT | 8 | $6.11 | 7.5% | n/a | n/a | n/a |
+| ARTV | ALERT | 8 | $9.15 | n/a | n/a | n/a | n/a |
 | ANNX | ALERT | 8 | $5.42 | 4.6% | n/a | n/a | n/a |
 | FTH | ALERT | 8 | $22.92 | n/a | n/a | n/a | n/a |
 | TWFG | ALERT | 8 | $18.57 | 30.1% | n/a | n/a | n/a |
@@ -83,7 +85,7 @@ Returns use free Yahoo adjusted closes and are for monitoring, not production-gr
 | AUNA | ALERT | 7 | $4.50 | 18.8% | n/a | n/a | n/a |
 | FCNCA | ALERT | 7 | $1,907.53 | 10.6% | n/a | n/a | n/a |
 | BLND | ALERT | 7 | $1.62 | 10.8% | n/a | n/a | n/a |
-| FBRT | ALERT | 7 | $8.22 | n/a | n/a | n/a | n/a |
+| FBRT | ALERT | 7 | $8.22 | -3.4% | n/a | n/a | n/a |
 | ANVS | ALERT | 7 | $2.23 | -20.7% | n/a | n/a | n/a |
 | VFLEX | WATCH | 6 | $27.64 | n/a | n/a | n/a | n/a |
 | EWSB | WATCH | 6 | $9.95 | n/a | n/a | n/a | n/a |
@@ -95,7 +97,7 @@ Returns use free Yahoo adjusted closes and are for monitoring, not production-gr
 | GLBS | WATCH | 6 | $2.73 | n/a | n/a | n/a | n/a |
 | VIDA | WATCH | 6 | $2.29 | 82.7% | n/a | n/a | n/a |
 | BOC | WATCH | 6 | $13.64 | 12.3% | n/a | n/a | n/a |
-| LILA | WATCH | 6 | n/a | n/a | n/a | n/a | n/a |
+| LILA | WATCH | 6 | $7.35 | n/a | n/a | n/a | n/a |
 | WHF | WATCH | 6 | $6.80 | -0.5% | n/a | n/a | n/a |
 | VRA | WATCH | 6 | $3.77 | -1.1% | n/a | n/a | n/a |
 | ANIK | WATCH | 6 | $12.45 | 12.0% | n/a | n/a | n/a |
