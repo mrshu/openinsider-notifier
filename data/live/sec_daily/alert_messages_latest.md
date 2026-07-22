@@ -1,63 +1,30 @@
-[ALERT] CBIO - CRESCENT BIOPHARMA, INC.
+[ALERT] PRQR - ProQR Therapeutics N.V.
 
 Insider signal:
-- Insider: Fairmount Funds Management LLC; Fairmount Healthcare Fund II L.P.; Harwin Peter Evan; Kiselak Tomas
-- Filed: 2026-07-20 21:30:09
-- Purchase value: $12,375,025
-- Insider VWAP: $14.50
-- Latest price: $15.05
-- Premium to insider VWAP: 3.8%
+- Insider: Filius Bart
+- Filed: 2026-07-21 12:00:17
+- Purchase value: $257,925
+- Insider VWAP: $1.72
+- Latest price: $1.88
+- Premium to insider VWAP: 9.3%
 
 Why flagged:
-- purchase value >= $2m ($12,375,025)
-- purchase value / ADV60 >= 5% (193.9%)
-- current price within 15% of insider VWAP (3.8%)
-- stock down at least 30% from 52w high (-44.2%)
+- purchase value >= $100k ($257,925)
+- purchase value / ADV60 >= 5% (15.5%)
+- current price within 15% of insider VWAP (9.3%)
+- stock down at least 30% from 52w high (-38.4%)
 
 Context:
-- Purchase / ADV60: 193.9%
-- 52w drawdown: -44.2%
+- Purchase / ADV60: 15.5%
+- 52w drawdown: -38.4%
 - Market cap: n/a
 - Purchase / market cap: n/a
-- Score: 9
+- Score: 7
 
 Caveats:
 - market cap unavailable
 
 Links:
-http://www.openinsider.com/CBIO
-https://finance.yahoo.com/quote/CBIO
-https://finviz.com/quote.ashx?t=CBIO
-
----
-
-[ALERT] ARTV - Artiva Biotherapeutics, Inc.
-
-Insider signal:
-- Insider: Kolchinsky Peter; RA CAPITAL MANAGEMENT, L.P.; RA Capital Healthcare Fund LP; RA Capital Nexus Fund III, L.P.; RA Capital Nexus Fund, L.P.; Shah Rajeev M.
-- Filed: 2026-07-20 22:08:52
-- Purchase value: $1,361,575
-- Insider VWAP: $8.93
-- Latest price: $9.15
-- Premium to insider VWAP: 2.5%
-
-Why flagged:
-- purchase value >= $1m ($1,361,575)
-- purchase value / ADV60 >= 5% (24.7%)
-- current price within 15% of insider VWAP (2.5%)
-- stock down at least 30% from 52w high (-31.7%)
-
-Context:
-- Purchase / ADV60: 24.7%
-- 52w drawdown: -31.7%
-- Market cap: n/a
-- Purchase / market cap: n/a
-- Score: 8
-
-Caveats:
-- market cap unavailable
-
-Links:
-http://www.openinsider.com/ARTV
-https://finance.yahoo.com/quote/ARTV
-https://finviz.com/quote.ashx?t=ARTV
+http://www.openinsider.com/PRQR
+https://finance.yahoo.com/quote/PRQR
+https://finviz.com/quote.ashx?t=PRQR
