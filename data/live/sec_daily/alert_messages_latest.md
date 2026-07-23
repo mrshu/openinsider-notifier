@@ -1,30 +1,30 @@
-[ALERT] PRQR - ProQR Therapeutics N.V.
+[ALERT] PBLS - Parabilis Medicines, Inc.
 
 Insider signal:
-- Insider: Filius Bart
-- Filed: 2026-07-21 12:00:17
-- Purchase value: $257,925
-- Insider VWAP: $1.72
-- Latest price: $1.88
-- Premium to insider VWAP: 9.3%
+- Insider: Kolchinsky Peter; RA CAPITAL MANAGEMENT, L.P.; RA Capital Healthcare Fund LP; RA Capital Nexus Fund III, L.P.; Shah Rajeev M.
+- Filed: 2026-07-22 20:55:48
+- Purchase value: $6,729,830
+- Insider VWAP: $28.27
+- Latest price: $30.81
+- Premium to insider VWAP: 9.0%
 
 Why flagged:
-- purchase value >= $100k ($257,925)
-- purchase value / ADV60 >= 5% (15.5%)
-- current price within 15% of insider VWAP (9.3%)
-- stock down at least 30% from 52w high (-38.4%)
+- purchase value >= $2m ($6,729,830)
+- purchase value / ADV60 >= 5% (24.9%)
+- current price within 15% of insider VWAP (9.0%)
+- multiple purchase rows in filing (5)
 
 Context:
-- Purchase / ADV60: 15.5%
-- 52w drawdown: -38.4%
+- Purchase / ADV60: 24.9%
+- 52w drawdown: -2.5%
 - Market cap: n/a
 - Purchase / market cap: n/a
-- Score: 7
+- Score: 8
 
 Caveats:
 - market cap unavailable
 
 Links:
-http://www.openinsider.com/PRQR
-https://finance.yahoo.com/quote/PRQR
-https://finviz.com/quote.ashx?t=PRQR
+http://www.openinsider.com/PBLS
+https://finance.yahoo.com/quote/PBLS
+https://finviz.com/quote.ashx?t=PBLS
