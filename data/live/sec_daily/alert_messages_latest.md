@@ -1,21 +1,55 @@
-[ALERT] BRTMU - B&R Technology Merger Corp.
+[ALERT] FSBC - FIVE STAR BANCORP
 
 Insider signal:
-- Insider: B&R Technology Sponsor LLC (Cayman); Fletcher Steven C.
-- Filed: 2026-07-23 23:47:48
-- Purchase value: $6,875,000
-- Insider VWAP: $10.00
-- Latest price: $9.95
-- Premium to insider VWAP: -0.5%
+- Insider: Allbaugh Larry Eugene
+- Filed: 2026-07-24 20:34:00
+- Purchase value: $4,250,004
+- Insider VWAP: $44.00
+- Latest price: $46.81
+- Premium to insider VWAP: 6.4%
 
 Why flagged:
-- purchase value >= $2m ($6,875,000)
-- purchase value / ADV60 >= 5% (14.5%)
-- current price below insider VWAP (-0.5%)
+- purchase value >= $2m ($4,250,004)
+- purchase value / ADV60 >= 5% (61.8%)
+- current price within 15% of insider VWAP (6.4%)
+- multiple purchase rows in filing (2)
 
 Context:
-- Purchase / ADV60: 14.5%
-- 52w drawdown: -0.2%
+- Purchase / ADV60: 61.8%
+- 52w drawdown: -5.8%
+- Market cap: n/a
+- Purchase / market cap: n/a
+- Score: 8
+
+Caveats:
+- market cap unavailable
+
+Links:
+http://www.openinsider.com/FSBC
+https://finance.yahoo.com/quote/FSBC
+https://finviz.com/quote.ashx?t=FSBC
+
+---
+
+[ALERT] CAPS - Capstone Holding Corp.
+
+Insider signal:
+- Insider: TOPOREK MICHAEL
+- Filed: 2026-07-24 20:27:59
+- Purchase value: $167,000
+- Insider VWAP: $4.00
+- Latest price: $0.23
+- Premium to insider VWAP: -94.2%
+
+Why flagged:
+- purchase value >= $100k ($167,000)
+- purchase value / ADV60 >= 5% (17.5%)
+- current price below insider VWAP (-94.2%)
+- stock down at least 30% from 52w high (-87.1%)
+
+Context:
+- Purchase / ADV60: 17.5%
+- 52w drawdown: -87.1%
 - Market cap: n/a
 - Purchase / market cap: n/a
 - Score: 7
@@ -24,31 +58,30 @@ Caveats:
 - market cap unavailable
 
 Links:
-http://www.openinsider.com/BRTMU
-https://finance.yahoo.com/quote/BRTMU
-https://finviz.com/quote.ashx?t=BRTMU
+http://www.openinsider.com/CAPS
+https://finance.yahoo.com/quote/CAPS
+https://finviz.com/quote.ashx?t=CAPS
 
 ---
 
-[WATCH] BYRN - Byrna Technologies Inc.
+[WATCH] FSBC - FIVE STAR BANCORP
 
 Insider signal:
-- Insider: Kennedy TJ
-- Filed: 2026-07-23 22:25:55
-- Purchase value: $102,286
-- Insider VWAP: $3.53
-- Latest price: $3.37
-- Premium to insider VWAP: -4.5%
+- Insider: Perry-Smith Robert Truxtun
+- Filed: 2026-07-24 20:33:37
+- Purchase value: $1,379,972
+- Insider VWAP: $44.00
+- Latest price: $46.81
+- Premium to insider VWAP: 6.4%
 
 Why flagged:
-- purchase value >= $100k ($102,286)
-- purchase value / ADV60 >= 2% (3.1%)
-- current price below insider VWAP (-4.5%)
-- stock down at least 30% from 52w high (-87.8%)
+- purchase value >= $1m ($1,379,972)
+- purchase value / ADV60 >= 5% (20.1%)
+- current price within 15% of insider VWAP (6.4%)
 
 Context:
-- Purchase / ADV60: 3.1%
-- 52w drawdown: -87.8%
+- Purchase / ADV60: 20.1%
+- 52w drawdown: -5.8%
 - Market cap: n/a
 - Purchase / market cap: n/a
 - Score: 6
@@ -57,102 +90,70 @@ Caveats:
 - market cap unavailable
 
 Links:
-http://www.openinsider.com/BYRN
-https://finance.yahoo.com/quote/BYRN
-https://finviz.com/quote.ashx?t=BYRN
+http://www.openinsider.com/FSBC
+https://finance.yahoo.com/quote/FSBC
+https://finviz.com/quote.ashx?t=FSBC
 
 ---
 
-[WATCH] RBKB - Rhinebeck Bancorp, Inc.
+[WATCH] FSBC - FIVE STAR BANCORP
 
 Insider signal:
-- Insider: Patzwahl Nancy Koskey
-- Filed: 2026-07-23 20:22:26
-- Purchase value: $298,500
-- Insider VWAP: $11.94
-- Latest price: $12.35
-- Premium to insider VWAP: 3.4%
+- Insider: Ramos Kevin Francis
+- Filed: 2026-07-24 20:31:02
+- Purchase value: $250,008
+- Insider VWAP: $44.00
+- Latest price: $46.81
+- Premium to insider VWAP: 6.4%
 
 Why flagged:
-- purchase value >= $100k ($298,500)
-- purchase value / ADV60 >= 5% (39.6%)
-- current price within 15% of insider VWAP (3.4%)
+- purchase value >= $100k ($250,008)
+- purchase value / ADV60 >= 2% (3.6%)
+- current price within 15% of insider VWAP (6.4%)
 
 Context:
-- Purchase / ADV60: 39.6%
-- 52w drawdown: -2.2%
+- Purchase / ADV60: 3.6%
+- 52w drawdown: -5.8%
 - Market cap: n/a
 - Purchase / market cap: n/a
-- Score: 5
+- Score: 4
 
 Caveats:
 - market cap unavailable
 
 Links:
-http://www.openinsider.com/RBKB
-https://finance.yahoo.com/quote/RBKB
-https://finviz.com/quote.ashx?t=RBKB
+http://www.openinsider.com/FSBC
+https://finance.yahoo.com/quote/FSBC
+https://finviz.com/quote.ashx?t=FSBC
 
 ---
 
-[WATCH] RBKB - Rhinebeck Bancorp, Inc.
+[WATCH] FSBC - FIVE STAR BANCORP
 
 Insider signal:
-- Insider: Loughlin Suzanne
-- Filed: 2026-07-23 20:24:22
-- Purchase value: $143,160
-- Insider VWAP: $11.93
-- Latest price: $12.35
-- Premium to insider VWAP: 3.5%
+- Insider: Deary-Bell Shannon
+- Filed: 2026-07-24 20:32:46
+- Purchase value: $250,008
+- Insider VWAP: $44.00
+- Latest price: $46.81
+- Premium to insider VWAP: 6.4%
 
 Why flagged:
-- purchase value >= $100k ($143,160)
-- purchase value / ADV60 >= 5% (19.0%)
-- current price within 15% of insider VWAP (3.5%)
+- purchase value >= $100k ($250,008)
+- purchase value / ADV60 >= 2% (3.6%)
+- current price within 15% of insider VWAP (6.4%)
 
 Context:
-- Purchase / ADV60: 19.0%
-- 52w drawdown: -2.2%
+- Purchase / ADV60: 3.6%
+- 52w drawdown: -5.8%
 - Market cap: n/a
 - Purchase / market cap: n/a
-- Score: 5
+- Score: 4
 
 Caveats:
 - market cap unavailable
 
 Links:
-http://www.openinsider.com/RBKB
-https://finance.yahoo.com/quote/RBKB
-https://finviz.com/quote.ashx?t=RBKB
-
----
-
-[WATCH] RBKB - Rhinebeck Bancorp, Inc.
-
-Insider signal:
-- Insider: Smith Matthew James
-- Filed: 2026-07-23 20:21:33
-- Purchase value: $121,500
-- Insider VWAP: $12.00
-- Latest price: $12.35
-- Premium to insider VWAP: 2.9%
-
-Why flagged:
-- purchase value >= $100k ($121,500)
-- purchase value / ADV60 >= 5% (16.1%)
-- current price within 15% of insider VWAP (2.9%)
-
-Context:
-- Purchase / ADV60: 16.1%
-- 52w drawdown: -2.2%
-- Market cap: n/a
-- Purchase / market cap: n/a
-- Score: 5
-
-Caveats:
-- market cap unavailable
-
-Links:
-http://www.openinsider.com/RBKB
-https://finance.yahoo.com/quote/RBKB
-https://finviz.com/quote.ashx?t=RBKB
+http://www.openinsider.com/FSBC
+https://finance.yahoo.com/quote/FSBC
+https://finviz.com/quote.ashx?t=FSBC
