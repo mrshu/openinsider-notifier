@@ -1,6 +1,6 @@
 # Forward Return Audit
 
-Created at: `2026-07-30T00:54:16.029731+00:00`
+Created at: `2026-07-31T01:02:51.868086+00:00`
 
 Returns use free Yahoo adjusted closes and are for monitoring, not production-grade attribution.
 
@@ -47,7 +47,7 @@ Returns use free Yahoo adjusted closes and are for monitoring, not production-gr
 | ANNX | ALERT | 8 | $5.42 | 4.6% | n/a | n/a | n/a |
 | FTH | ALERT | 8 | $22.92 | n/a | n/a | n/a | n/a |
 | TWFG | ALERT | 8 | $18.57 | 30.1% | n/a | n/a | n/a |
-| PSEC | ALERT | 8 | $2.23 | -0.9% | n/a | n/a | n/a |
+| PSEC | ALERT | 8 | $2.20 | -0.9% | n/a | n/a | n/a |
 | TWFG | ALERT | 8 | $18.95 | 33.1% | n/a | n/a | n/a |
 | TWFG | ALERT | 8 | $18.86 | 13.9% | n/a | n/a | n/a |
 | PAX | ALERT | 8 | $11.40 | -4.1% | n/a | n/a | n/a |
@@ -96,7 +96,7 @@ Returns use free Yahoo adjusted closes and are for monitoring, not production-gr
 | VFLEX | WATCH | 6 | $27.64 | n/a | n/a | n/a | n/a |
 | EWSB | WATCH | 6 | $9.95 | n/a | n/a | n/a | n/a |
 | EWSB | WATCH | 6 | $10.95 | n/a | n/a | n/a | n/a |
-| FUND | WATCH | 6 | $9.48 | n/a | n/a | n/a | n/a |
+| FUND | WATCH | 6 | $9.48 | 6.2% | n/a | n/a | n/a |
 | TVA | WATCH | 6 | $10.48 | 0.3% | n/a | n/a | n/a |
 | MKTW | WATCH | 6 | $17.59 | -3.2% | n/a | n/a | n/a |
 | LEEEF | WATCH | 6 | $0.17 | 18.0% | n/a | n/a | n/a |
