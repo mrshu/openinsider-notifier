@@ -1,6 +1,6 @@
 # Forward Return Audit
 
-Created at: `2026-07-31T01:02:51.868086+00:00`
+Created at: `2026-08-01T01:02:12.034979+00:00`
 
 Returns use free Yahoo adjusted closes and are for monitoring, not production-grade attribution.
 
@@ -56,6 +56,7 @@ Returns use free Yahoo adjusted closes and are for monitoring, not production-gr
 | VFLEX | ALERT | 7 | $27.64 | n/a | n/a | n/a | n/a |
 | KNOP | ALERT | 7 | $10.29 | 1.3% | n/a | n/a | n/a |
 | HWH | ALERT | 7 | $1.23 | 1.4% | n/a | n/a | n/a |
+| XAIR | ALERT | 7 | $5.28 | n/a | n/a | n/a | n/a |
 | LOGC | ALERT | 7 | $8.55 | 5.4% | n/a | n/a | n/a |
 | MKTW | ALERT | 7 | $16.77 | -1.1% | n/a | n/a | n/a |
 | LOGC | ALERT | 7 | $8.98 | 1.0% | n/a | n/a | n/a |
@@ -87,6 +88,7 @@ Returns use free Yahoo adjusted closes and are for monitoring, not production-gr
 | FTH | ALERT | 7 | $22.87 | 26.5% | n/a | n/a | n/a |
 | SMRT | ALERT | 7 | $1.11 | 2.8% | n/a | n/a | n/a |
 | CXIIU | ALERT | 7 | $10.10 | -5.6% | 3.5% | n/a | n/a |
+| ARTV | ALERT | 7 | $10.10 | n/a | n/a | n/a | n/a |
 | PLYX | ALERT | 7 | $3.27 | -20.8% | n/a | n/a | n/a |
 | AUNA | ALERT | 7 | $4.50 | 18.8% | n/a | n/a | n/a |
 | FCNCA | ALERT | 7 | $1,907.53 | 10.6% | n/a | n/a | n/a |
