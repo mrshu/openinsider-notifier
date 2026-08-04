@@ -1,6 +1,6 @@
 # Forward Return Audit
 
-Created at: `2026-08-03T01:04:37.956248+00:00`
+Created at: `2026-08-04T00:59:46.576154+00:00`
 
 Returns use free Yahoo adjusted closes and are for monitoring, not production-grade attribution.
 
@@ -45,7 +45,7 @@ Returns use free Yahoo adjusted closes and are for monitoring, not production-gr
 | PBLS | ALERT | 8 | $30.81 | n/a | n/a | n/a | n/a |
 | ARTV | ALERT | 8 | $9.15 | n/a | n/a | n/a | n/a |
 | ANNX | ALERT | 8 | $5.42 | 4.6% | n/a | n/a | n/a |
-| FTH | ALERT | 8 | $22.92 | n/a | n/a | n/a | n/a |
+| FTH | ALERT | 8 | $22.92 | 17.6% | n/a | n/a | n/a |
 | TWFG | ALERT | 8 | $18.57 | 30.1% | n/a | n/a | n/a |
 | PSEC | ALERT | 8 | $2.20 | -0.9% | n/a | n/a | n/a |
 | TWFG | ALERT | 8 | $18.95 | 33.1% | n/a | n/a | n/a |
@@ -138,16 +138,18 @@ Returns use free Yahoo adjusted closes and are for monitoring, not production-gr
 | RBKB | WATCH | 5 | $12.35 | n/a | n/a | n/a | n/a |
 | MKTW | WATCH | 5 | $17.23 | 0.8% | n/a | n/a | n/a |
 | RBKB | WATCH | 5 | $12.35 | n/a | n/a | n/a | n/a |
+| HNVR | WATCH | 5 | $26.41 | n/a | n/a | n/a | n/a |
 | RBKB | WATCH | 5 | $12.35 | n/a | n/a | n/a | n/a |
 | LOGC | WATCH | 5 | $9.66 | -10.7% | n/a | n/a | n/a |
 | VIDA | WATCH | 5 | $2.29 | 82.7% | n/a | n/a | n/a |
+| BCML | WATCH | 5 | $30.50 | n/a | n/a | n/a | n/a |
 | PLSE | WATCH | 5 | $19.08 | 32.9% | n/a | n/a | n/a |
 | PLSE | WATCH | 5 | $23.30 | 15.5% | n/a | n/a | n/a |
 | TXO | WATCH | 5 | $12.15 | 13.1% | n/a | n/a | n/a |
 | CECO | WATCH | 5 | $79.47 | 1.7% | n/a | n/a | n/a |
 | SMMT | WATCH | 5 | $14.84 | 7.9% | n/a | n/a | n/a |
 | ACI | WATCH | 5 | $11.58 | n/a | n/a | n/a | n/a |
-| TMUS | WATCH | 5 | $193.37 | -11.2% | n/a | n/a | n/a |
+| TMUS | WATCH | 5 | $193.37 | -11.2% | -14.2% | n/a | n/a |
 | ADBE | WATCH | 5 | $202.73 | 15.9% | n/a | n/a | n/a |
 | FCBM | WATCH | 4 | $12.58 | 1.0% | n/a | n/a | n/a |
 | FCBM | WATCH | 4 | $12.58 | 1.0% | n/a | n/a | n/a |
