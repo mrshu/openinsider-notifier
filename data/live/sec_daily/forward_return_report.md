@@ -1,6 +1,6 @@
 # Forward Return Audit
 
-Created at: `2026-08-06T00:51:38.497154+00:00`
+Created at: `2026-08-07T01:48:43.836948+00:00`
 
 Returns use free Yahoo adjusted closes and are for monitoring, not production-grade attribution.
 
@@ -18,6 +18,7 @@ Returns use free Yahoo adjusted closes and are for monitoring, not production-gr
 | DNUT | ALERT | 10 | $3.51 | -3.0% | n/a | n/a | n/a |
 | WGS | ALERT | 10 | $40.75 | 48.4% | n/a | n/a | n/a |
 | NSP | ALERT | 10 | $28.24 | 24.8% | 82.2% | n/a | n/a |
+| REBN | ALERT | 9 | $1.34 | n/a | n/a | n/a | n/a |
 | HMMR | ALERT | 9 | $0.11 | 0.6% | n/a | n/a | n/a |
 | GLOO | ALERT | 9 | $2.95 | n/a | n/a | n/a | n/a |
 | TXO | ALERT | 9 | $12.15 | 13.1% | n/a | n/a | n/a |
@@ -54,7 +55,7 @@ Returns use free Yahoo adjusted closes and are for monitoring, not production-gr
 | PAX | ALERT | 8 | $11.40 | -4.1% | n/a | n/a | n/a |
 | TWFG | ALERT | 8 | $18.77 | 30.2% | n/a | n/a | n/a |
 | ZBIO | ALERT | 8 | $17.84 | 8.8% | n/a | n/a | n/a |
-| VFLEX | ALERT | 7 | $27.64 | n/a | n/a | n/a | n/a |
+| VFLEX | ALERT | 7 | $27.64 | -3.0% | n/a | n/a | n/a |
 | KNOP | ALERT | 7 | $10.29 | 1.3% | n/a | n/a | n/a |
 | HWH | ALERT | 7 | $1.23 | 1.4% | n/a | n/a | n/a |
 | XAIR | ALERT | 7 | $5.28 | n/a | n/a | n/a | n/a |
@@ -87,6 +88,7 @@ Returns use free Yahoo adjusted closes and are for monitoring, not production-gr
 | FTH | ALERT | 7 | $24.54 | 14.5% | n/a | n/a | n/a |
 | CING | ALERT | 7 | $4.53 | 5.7% | n/a | n/a | n/a |
 | BLND | ALERT | 7 | $1.48 | 9.5% | n/a | n/a | n/a |
+| SAGT | ALERT | 7 | $0.72 | n/a | n/a | n/a | n/a |
 | INR | ALERT | 7 | $13.58 | -4.3% | n/a | n/a | n/a |
 | GBFH | ALERT | 7 | $20.39 | n/a | n/a | n/a | n/a |
 | FTH | ALERT | 7 | $22.87 | 26.5% | n/a | n/a | n/a |
@@ -100,7 +102,7 @@ Returns use free Yahoo adjusted closes and are for monitoring, not production-gr
 | BLND | ALERT | 7 | $1.62 | 10.8% | n/a | n/a | n/a |
 | FBRT | ALERT | 7 | $8.22 | -3.4% | n/a | n/a | n/a |
 | ANVS | ALERT | 7 | $2.23 | -20.7% | n/a | n/a | n/a |
-| VFLEX | WATCH | 6 | $27.64 | n/a | n/a | n/a | n/a |
+| VFLEX | WATCH | 6 | $27.64 | -3.0% | n/a | n/a | n/a |
 | EWSB | WATCH | 6 | $9.95 | n/a | n/a | n/a | n/a |
 | EWSB | WATCH | 6 | $10.95 | n/a | n/a | n/a | n/a |
 | FUND | WATCH | 6 | $9.48 | 6.2% | n/a | n/a | n/a |
@@ -108,6 +110,7 @@ Returns use free Yahoo adjusted closes and are for monitoring, not production-gr
 | MKTW | WATCH | 6 | $17.59 | -3.2% | n/a | n/a | n/a |
 | LEEEF | WATCH | 6 | $0.17 | 18.0% | n/a | n/a | n/a |
 | GLBS | WATCH | 6 | $2.73 | n/a | n/a | n/a | n/a |
+| DGAC | WATCH | 6 | $9.96 | n/a | n/a | n/a | n/a |
 | VIDA | WATCH | 6 | $2.29 | 82.7% | n/a | n/a | n/a |
 | BOC | WATCH | 6 | $13.64 | 12.3% | n/a | n/a | n/a |
 | LILA | WATCH | 6 | $7.35 | n/a | n/a | n/a | n/a |
@@ -139,12 +142,12 @@ Returns use free Yahoo adjusted closes and are for monitoring, not production-gr
 | EWSB | WATCH | 5 | $9.95 | n/a | n/a | n/a | n/a |
 | EWSB | WATCH | 5 | $10.95 | n/a | n/a | n/a | n/a |
 | MKTW | WATCH | 5 | $17.23 | -4.7% | n/a | n/a | n/a |
-| BWMX | WATCH | 5 | $16.98 | n/a | n/a | n/a | n/a |
+| BWMX | WATCH | 5 | $16.62 | n/a | n/a | n/a | n/a |
 | NXDT | WATCH | 5 | $5.09 | -12.8% | n/a | n/a | n/a |
 | RBKB | WATCH | 5 | $12.35 | n/a | n/a | n/a | n/a |
 | MKTW | WATCH | 5 | $17.23 | 0.8% | n/a | n/a | n/a |
 | RBKB | WATCH | 5 | $12.35 | n/a | n/a | n/a | n/a |
-| HNVR | WATCH | 5 | $26.41 | n/a | n/a | n/a | n/a |
+| HNVR | WATCH | 5 | $26.31 | n/a | n/a | n/a | n/a |
 | RBKB | WATCH | 5 | $12.35 | n/a | n/a | n/a | n/a |
 | LOGC | WATCH | 5 | $9.66 | -10.7% | n/a | n/a | n/a |
 | VIDA | WATCH | 5 | $2.29 | 82.7% | n/a | n/a | n/a |
@@ -153,6 +156,7 @@ Returns use free Yahoo adjusted closes and are for monitoring, not production-gr
 | PLSE | WATCH | 5 | $23.30 | 15.5% | n/a | n/a | n/a |
 | TXO | WATCH | 5 | $12.15 | 13.1% | n/a | n/a | n/a |
 | CECO | WATCH | 5 | $79.47 | 1.7% | n/a | n/a | n/a |
+| DMC | WATCH | 5 | $29.90 | n/a | n/a | n/a | n/a |
 | SMMT | WATCH | 5 | $14.84 | 7.9% | n/a | n/a | n/a |
 | ACI | WATCH | 5 | $11.58 | n/a | n/a | n/a | n/a |
 | TMUS | WATCH | 5 | $193.37 | -11.2% | -14.2% | n/a | n/a |
