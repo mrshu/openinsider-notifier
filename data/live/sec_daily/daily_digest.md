@@ -1,9 +1,9 @@
 # Daily Insider Signal Digest
 
 - Lookback hours: 96
-- Form 4/4-A filings discovered: 250
+- Form 4/4-A filings discovered: 255
 - Raw P/A transactions parsed: 20
-- Alert candidates: 2
+- Alert candidates: 1
 - Watch candidates: 2
 - Archived candidates: 0
 
@@ -11,7 +11,6 @@
 
 | Tier | Ticker | Company | Score | Value | Value/ADV60 | Premium | Drawdown |
 | --- | --- | --- | ---: | ---: | ---: | ---: | ---: |
-| ALERT | REBN | Reborn Coffee, Inc. | 9 | $23,649,660,000 | 28272766.2% | -100.0% | -57.7% |
-| ALERT | SAGT | SAGTEC GLOBAL Ltd | 7 | $231,000 | 10.6% | -6.4% | -73.1% |
-| WATCH | DGAC | DISCIPLINED GROWTH ACQUISITION Corp | 6 | $1,817,500 | 73.2% | -0.4% | 0.0% |
-| WATCH | DMC | DEL MONTE CORP | 5 | $358,705 | 2.3% | 0.0% | -29.4% |
+| ALERT | ONMD | OneMedNet Corp | 7 | $1,000,000 | 140.2% | -9.5% | -80.1% |
+| WATCH | CCB | COASTAL FINANCIAL CORP | 6 | $444,500 | 3.7% | 2.0% | -61.9% |
+| WATCH | CCB | COASTAL FINANCIAL CORP | 6 | $438,250 | 3.7% | 3.5% | -61.9% |

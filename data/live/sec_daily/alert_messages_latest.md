@@ -1,55 +1,22 @@
-[ALERT] REBN - Reborn Coffee, Inc.
+[ALERT] ONMD - OneMedNet Corp
 
 Insider signal:
-- Insider: Lim Jung Jae
-- Filed: 2026-08-06 23:42:26
-- Purchase value: $23,649,660,000
-- Insider VWAP: $180,000
-- Latest price: $1.34
-- Premium to insider VWAP: -100.0%
+- Insider: Kosasa Thomas
+- Filed: 2026-08-07 21:20:36
+- Purchase value: $1,000,000
+- Insider VWAP: $0.69
+- Latest price: $0.62
+- Premium to insider VWAP: -9.5%
 
 Why flagged:
-- purchase value >= $2m ($23,649,660,000)
-- purchase value / ADV60 >= 5% (28272766.2%)
-- current price below insider VWAP (-100.0%)
-- stock down at least 30% from 52w high (-57.7%)
+- purchase value >= $100k ($1,000,000)
+- purchase value / ADV60 >= 5% (140.2%)
+- current price below insider VWAP (-9.5%)
+- stock down at least 30% from 52w high (-80.1%)
 
 Context:
-- Purchase / ADV60: 28272766.2%
-- 52w drawdown: -57.7%
-- Market cap: n/a
-- Purchase / market cap: n/a
-- Score: 9
-
-Caveats:
-- market cap unavailable
-
-Links:
-http://www.openinsider.com/REBN
-https://finance.yahoo.com/quote/REBN
-https://finviz.com/quote.ashx?t=REBN
-
----
-
-[ALERT] SAGT - SAGTEC GLOBAL Ltd
-
-Insider signal:
-- Insider: Ng Chen Lok
-- Filed: 2026-08-06 21:30:46
-- Purchase value: $231,000
-- Insider VWAP: $0.77
-- Latest price: $0.72
-- Premium to insider VWAP: -6.4%
-
-Why flagged:
-- purchase value >= $100k ($231,000)
-- purchase value / ADV60 >= 5% (10.6%)
-- current price below insider VWAP (-6.4%)
-- stock down at least 30% from 52w high (-73.1%)
-
-Context:
-- Purchase / ADV60: 10.6%
-- 52w drawdown: -73.1%
+- Purchase / ADV60: 140.2%
+- 52w drawdown: -80.1%
 - Market cap: n/a
 - Purchase / market cap: n/a
 - Score: 7
@@ -58,30 +25,31 @@ Caveats:
 - market cap unavailable
 
 Links:
-http://www.openinsider.com/SAGT
-https://finance.yahoo.com/quote/SAGT
-https://finviz.com/quote.ashx?t=SAGT
+http://www.openinsider.com/ONMD
+https://finance.yahoo.com/quote/ONMD
+https://finviz.com/quote.ashx?t=ONMD
 
 ---
 
-[WATCH] DGAC - DISCIPLINED GROWTH ACQUISITION Corp
+[WATCH] CCB - COASTAL FINANCIAL CORP
 
 Insider signal:
-- Insider: Disciplined Growth Sponsor LLC; Wotczak Robert
-- Filed: 2026-08-06 23:45:00
-- Purchase value: $1,817,500
-- Insider VWAP: $10.00
-- Latest price: $9.96
-- Premium to insider VWAP: -0.4%
+- Insider: Sprink Eric M
+- Filed: 2026-08-07 23:35:35
+- Purchase value: $444,500
+- Insider VWAP: $44.45
+- Latest price: $45.34
+- Premium to insider VWAP: 2.0%
 
 Why flagged:
-- purchase value >= $1m ($1,817,500)
-- purchase value / ADV60 >= 5% (73.2%)
-- current price below insider VWAP (-0.4%)
+- purchase value >= $100k ($444,500)
+- purchase value / ADV60 >= 2% (3.7%)
+- current price within 15% of insider VWAP (2.0%)
+- stock down at least 30% from 52w high (-61.9%)
 
 Context:
-- Purchase / ADV60: 73.2%
-- 52w drawdown: 0.0%
+- Purchase / ADV60: 3.7%
+- 52w drawdown: -61.9%
 - Market cap: n/a
 - Purchase / market cap: n/a
 - Score: 6
@@ -90,39 +58,39 @@ Caveats:
 - market cap unavailable
 
 Links:
-http://www.openinsider.com/DGAC
-https://finance.yahoo.com/quote/DGAC
-https://finviz.com/quote.ashx?t=DGAC
+http://www.openinsider.com/CCB
+https://finance.yahoo.com/quote/CCB
+https://finviz.com/quote.ashx?t=CCB
 
 ---
 
-[WATCH] DMC - DEL MONTE CORP
+[WATCH] CCB - COASTAL FINANCIAL CORP
 
 Insider signal:
-- Insider: Abbas Mohammed
-- Filed: 2026-08-06 21:04:03
-- Purchase value: $358,705
-- Insider VWAP: $29.89
-- Latest price: $29.90
-- Premium to insider VWAP: 0.0%
+- Insider: HOVDE STEVEN D
+- Filed: 2026-08-07 23:36:40
+- Purchase value: $438,250
+- Insider VWAP: $43.83
+- Latest price: $45.34
+- Premium to insider VWAP: 3.5%
 
 Why flagged:
-- purchase value >= $100k ($358,705)
-- purchase value / ADV60 >= 2% (2.3%)
-- current price within 15% of insider VWAP (0.0%)
-- stock down at least 15% from 52w high (-29.4%)
+- purchase value >= $100k ($438,250)
+- purchase value / ADV60 >= 2% (3.7%)
+- current price within 15% of insider VWAP (3.5%)
+- stock down at least 30% from 52w high (-61.9%)
 
 Context:
-- Purchase / ADV60: 2.3%
-- 52w drawdown: -29.4%
+- Purchase / ADV60: 3.7%
+- 52w drawdown: -61.9%
 - Market cap: n/a
 - Purchase / market cap: n/a
-- Score: 5
+- Score: 6
 
 Caveats:
 - market cap unavailable
 
 Links:
-http://www.openinsider.com/DMC
-https://finance.yahoo.com/quote/DMC
-https://finviz.com/quote.ashx?t=DMC
+http://www.openinsider.com/CCB
+https://finance.yahoo.com/quote/CCB
+https://finviz.com/quote.ashx?t=CCB
