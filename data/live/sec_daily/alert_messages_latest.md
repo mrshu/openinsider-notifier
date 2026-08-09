@@ -6,16 +6,16 @@ Insider signal:
 - Purchase value: $1,000,000
 - Insider VWAP: $0.69
 - Latest price: $0.62
-- Premium to insider VWAP: -9.5%
+- Premium to insider VWAP: -9.4%
 
 Why flagged:
 - purchase value >= $100k ($1,000,000)
-- purchase value / ADV60 >= 5% (140.2%)
-- current price below insider VWAP (-9.5%)
+- purchase value / ADV60 >= 5% (136.7%)
+- current price below insider VWAP (-9.4%)
 - stock down at least 30% from 52w high (-80.1%)
 
 Context:
-- Purchase / ADV60: 140.2%
+- Purchase / ADV60: 136.7%
 - 52w drawdown: -80.1%
 - Market cap: n/a
 - Purchase / market cap: n/a
