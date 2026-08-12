@@ -1,56 +1,55 @@
-[ALERT] CLVT - CLARIVATE PLC
+[ALERT] TXO - TXO Partners, L.P.
 
 Insider signal:
-- Insider: Cornick Kenneth L.
-- Filed: 2026-08-10 20:45:39
-- Purchase value: $1,671,500
-- Insider VWAP: $1.86
-- Latest price: $1.89
-- Premium to insider VWAP: 1.8%
+- Insider: SIMPSON BOB R
+- Filed: 2026-08-11 21:08:30
+- Purchase value: $3,487,630
+- Insider VWAP: $13.95
+- Latest price: $14.37
+- Premium to insider VWAP: 3.0%
 
 Why flagged:
-- purchase value >= $1m ($1,671,500)
-- purchase value / ADV60 >= 5% (10.8%)
-- current price within 15% of insider VWAP (1.8%)
-- stock down at least 30% from 52w high (-58.0%)
-- multiple purchase rows in filing (2)
+- purchase value >= $2m ($3,487,630)
+- purchase value / ADV60 >= 5% (154.8%)
+- current price within 15% of insider VWAP (3.0%)
+- multiple purchase rows in filing (3)
 
 Context:
-- Purchase / ADV60: 10.8%
-- 52w drawdown: -58.0%
+- Purchase / ADV60: 154.8%
+- 52w drawdown: 0.0%
 - Market cap: n/a
 - Purchase / market cap: n/a
-- Score: 9
+- Score: 8
 
 Caveats:
 - market cap unavailable
 
 Links:
-http://www.openinsider.com/CLVT
-https://finance.yahoo.com/quote/CLVT
-https://finviz.com/quote.ashx?t=CLVT
+http://www.openinsider.com/TXO
+https://finance.yahoo.com/quote/TXO
+https://finviz.com/quote.ashx?t=TXO
 
 ---
 
-[ALERT] ONMD - OneMedNet Corp
+[ALERT] SMRT - SmartRent, Inc.
 
 Insider signal:
-- Insider: Kosasa Thomas
-- Filed: 2026-08-07 21:20:36
-- Purchase value: $1,000,000
-- Insider VWAP: $0.69
-- Latest price: $0.66
-- Premium to insider VWAP: -4.3%
+- Insider: Martell Frank
+- Filed: 2026-08-11 21:24:05
+- Purchase value: $142,260
+- Insider VWAP: $1.42
+- Latest price: $1.41
+- Premium to insider VWAP: -0.9%
 
 Why flagged:
-- purchase value >= $100k ($1,000,000)
-- purchase value / ADV60 >= 5% (135.4%)
-- current price below insider VWAP (-4.3%)
-- stock down at least 30% from 52w high (-79.0%)
+- purchase value >= $100k ($142,260)
+- purchase value / ADV60 >= 5% (6.0%)
+- current price below insider VWAP (-0.9%)
+- stock down at least 30% from 52w high (-33.5%)
 
 Context:
-- Purchase / ADV60: 135.4%
-- 52w drawdown: -79.0%
+- Purchase / ADV60: 6.0%
+- 52w drawdown: -33.5%
 - Market cap: n/a
 - Purchase / market cap: n/a
 - Score: 7
@@ -59,30 +58,31 @@ Caveats:
 - market cap unavailable
 
 Links:
-http://www.openinsider.com/ONMD
-https://finance.yahoo.com/quote/ONMD
-https://finviz.com/quote.ashx?t=ONMD
+http://www.openinsider.com/SMRT
+https://finance.yahoo.com/quote/SMRT
+https://finviz.com/quote.ashx?t=SMRT
 
 ---
 
-[ALERT] BLSM - BlossomHill Therapeutics, Inc.
+[ALERT] AMRC - Ameresco, Inc.
 
 Insider signal:
-- Insider: Chen Bihua; Cormorant Asset Management, LP; Cormorant Global Healthcare Master Fund, LP; Cormorant Private Healthcare Fund III LP; Cormorant Private Healthcare Fund V LP; Cormorant Private Healthcare Fund VI, LP
-- Filed: 2026-08-10 22:32:08
-- Purchase value: $5,000,000
-- Insider VWAP: $16.00
-- Latest price: $15.99
-- Premium to insider VWAP: -0.1%
+- Insider: Cox Brian C
+- Filed: 2026-08-11 23:22:37
+- Purchase value: $995,279
+- Insider VWAP: $25.07
+- Latest price: $25.89
+- Premium to insider VWAP: 3.3%
 
 Why flagged:
-- purchase value >= $2m ($5,000,000)
-- purchase value / ADV60 >= 5% (28.7%)
-- current price below insider VWAP (-0.1%)
+- purchase value >= $100k ($995,279)
+- purchase value / ADV60 >= 5% (5.6%)
+- current price within 15% of insider VWAP (3.3%)
+- stock down at least 30% from 52w high (-40.1%)
 
 Context:
-- Purchase / ADV60: 28.7%
-- 52w drawdown: -0.1%
+- Purchase / ADV60: 5.6%
+- 52w drawdown: -40.1%
 - Market cap: n/a
 - Purchase / market cap: n/a
 - Score: 7
@@ -91,38 +91,72 @@ Caveats:
 - market cap unavailable
 
 Links:
-http://www.openinsider.com/BLSM
-https://finance.yahoo.com/quote/BLSM
-https://finviz.com/quote.ashx?t=BLSM
+http://www.openinsider.com/AMRC
+https://finance.yahoo.com/quote/AMRC
+https://finviz.com/quote.ashx?t=AMRC
 
 ---
 
-[WATCH] BWMX - BETTERWARE DE MEXICO, S.A.P.I. DE C.V
+[WATCH] FRPH - FRP HOLDINGS, INC.
 
 Insider signal:
-- Insider: Campos Luis
-- Filed: 2026-08-10 22:41:05
-- Purchase value: $371,093
-- Insider VWAP: $17.00
-- Latest price: $16.13
-- Premium to insider VWAP: -5.1%
+- Insider: Baker John D. III
+- Filed: 2026-08-11 21:25:49
+- Purchase value: $148,988
+- Insider VWAP: $21.91
+- Latest price: $22.12
+- Premium to insider VWAP: 1.0%
 
 Why flagged:
-- purchase value >= $100k ($371,093)
-- purchase value / ADV60 >= 5% (29.1%)
-- current price below insider VWAP (-5.1%)
+- purchase value >= $100k ($148,988)
+- purchase value / ADV60 >= 5% (8.5%)
+- current price within 15% of insider VWAP (1.0%)
+- stock down at least 15% from 52w high (-17.1%)
 
 Context:
-- Purchase / ADV60: 29.1%
-- 52w drawdown: -12.6%
+- Purchase / ADV60: 8.5%
+- 52w drawdown: -17.1%
 - Market cap: n/a
 - Purchase / market cap: n/a
-- Score: 5
+- Score: 6
 
 Caveats:
 - market cap unavailable
 
 Links:
-http://www.openinsider.com/BWMX
-https://finance.yahoo.com/quote/BWMX
-https://finviz.com/quote.ashx?t=BWMX
+http://www.openinsider.com/FRPH
+https://finance.yahoo.com/quote/FRPH
+https://finviz.com/quote.ashx?t=FRPH
+
+---
+
+[WATCH] HPP - Hudson Pacific Properties, Inc.
+
+Insider signal:
+- Insider: BORTZ JON E
+- Filed: 2026-08-11 22:42:35
+- Purchase value: $335,000
+- Insider VWAP: $13.40
+- Latest price: $13.35
+- Premium to insider VWAP: -0.4%
+
+Why flagged:
+- purchase value >= $100k ($335,000)
+- purchase value / ADV60 >= 2% (2.4%)
+- current price below insider VWAP (-0.4%)
+- stock down at least 30% from 52w high (-37.9%)
+
+Context:
+- Purchase / ADV60: 2.4%
+- 52w drawdown: -37.9%
+- Market cap: n/a
+- Purchase / market cap: n/a
+- Score: 6
+
+Caveats:
+- market cap unavailable
+
+Links:
+http://www.openinsider.com/HPP
+https://finance.yahoo.com/quote/HPP
+https://finviz.com/quote.ashx?t=HPP
