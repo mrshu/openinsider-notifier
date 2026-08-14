@@ -1,23 +1,88 @@
-[ALERT] RM - Regional Management Corp.
+[ALERT] TXO - TXO Partners, L.P.
 
 Insider signal:
-- Insider: Lamba Lakhbir S.
-- Filed: 2026-08-13 20:30:03
-- Purchase value: $316,495
-- Insider VWAP: $31.65
-- Latest price: $32.68
-- Premium to insider VWAP: 3.3%
+- Insider: SIMPSON BOB R
+- Filed: 2026-08-14 00:21:50
+- Purchase value: $2,150,545
+- Insider VWAP: $14.34
+- Latest price: $13.81
+- Premium to insider VWAP: -3.7%
 
 Why flagged:
-- purchase value >= $100k ($316,495)
-- purchase value / ADV60 >= 5% (10.9%)
-- current price within 15% of insider VWAP (3.3%)
-- stock down at least 15% from 52w high (-26.4%)
+- purchase value >= $2m ($2,150,545)
+- purchase value / ADV60 >= 5% (89.3%)
+- current price below insider VWAP (-3.7%)
 - multiple purchase rows in filing (2)
 
 Context:
-- Purchase / ADV60: 10.9%
-- 52w drawdown: -26.4%
+- Purchase / ADV60: 89.3%
+- 52w drawdown: -4.4%
+- Market cap: n/a
+- Purchase / market cap: n/a
+- Score: 8
+
+Caveats:
+- market cap unavailable
+
+Links:
+http://www.openinsider.com/TXO
+https://finance.yahoo.com/quote/TXO
+https://finviz.com/quote.ashx?t=TXO
+
+---
+
+[ALERT] AAT - American Assets Trust, Inc.
+
+Insider signal:
+- Insider: RADY ERNEST S
+- Filed: 2026-08-14 20:20:28
+- Purchase value: $3,425,500
+- Insider VWAP: $22.84
+- Latest price: $22.77
+- Premium to insider VWAP: -0.3%
+
+Why flagged:
+- purchase value >= $2m ($3,425,500)
+- purchase value / ADV60 >= 5% (33.0%)
+- current price below insider VWAP (-0.3%)
+- multiple purchase rows in filing (2)
+
+Context:
+- Purchase / ADV60: 33.0%
+- 52w drawdown: -11.9%
+- Market cap: n/a
+- Purchase / market cap: n/a
+- Score: 8
+
+Caveats:
+- market cap unavailable
+
+Links:
+http://www.openinsider.com/AAT
+https://finance.yahoo.com/quote/AAT
+https://finviz.com/quote.ashx?t=AAT
+
+---
+
+[ALERT] ANGX - Angel Studios, Inc.
+
+Insider signal:
+- Insider: Sarowitz Steven I
+- Filed: 2026-08-14 22:05:59
+- Purchase value: $443,277
+- Insider VWAP: $4.12
+- Latest price: $4.37
+- Premium to insider VWAP: 6.1%
+
+Why flagged:
+- purchase value >= $100k ($443,277)
+- purchase value / ADV60 >= 5% (9.5%)
+- current price within 15% of insider VWAP (6.1%)
+- stock down at least 30% from 52w high (-72.7%)
+
+Context:
+- Purchase / ADV60: 9.5%
+- 52w drawdown: -72.7%
 - Market cap: n/a
 - Purchase / market cap: n/a
 - Score: 7
@@ -26,96 +91,128 @@ Caveats:
 - market cap unavailable
 
 Links:
-http://www.openinsider.com/RM
-https://finance.yahoo.com/quote/RM
-https://finviz.com/quote.ashx?t=RM
+http://www.openinsider.com/ANGX
+https://finance.yahoo.com/quote/ANGX
+https://finviz.com/quote.ashx?t=ANGX
 
 ---
 
-[ALERT] DFH - Dream Finders Homes, Inc.
+[ALERT] OPFI - OppFi Inc.
 
 Insider signal:
-- Insider: BECKWITT RICHARD
-- Filed: 2026-08-13 22:48:22
-- Purchase value: $976,500
-- Insider VWAP: $13.95
-- Latest price: $14.84
-- Premium to insider VWAP: 6.4%
-
-Why flagged:
-- purchase value >= $100k ($976,500)
-- purchase value / ADV60 >= 5% (9.4%)
-- current price within 15% of insider VWAP (6.4%)
-- stock down at least 30% from 52w high (-52.1%)
-
-Context:
-- Purchase / ADV60: 9.4%
-- 52w drawdown: -52.1%
-- Market cap: n/a
-- Purchase / market cap: n/a
-- Score: 7
-
-Caveats:
-- market cap unavailable
-
-Links:
-http://www.openinsider.com/DFH
-https://finance.yahoo.com/quote/DFH
-https://finviz.com/quote.ashx?t=DFH
-
----
-
-[WATCH] LILA - Liberty Latin America Ltd.
-
-Insider signal:
-- Insider: BRACKEN CHARLES H R
-- Filed: 2026-08-13 22:08:41
-- Purchase value: $364,695
-- Insider VWAP: $20.93
-- Latest price: $8.55
-- Premium to insider VWAP: -59.1%
-
-Why flagged:
-- purchase value >= $100k ($364,695)
-- purchase value / ADV60 >= 5% (6.6%)
-- current price below insider VWAP (-59.1%)
-
-Context:
-- Purchase / ADV60: 6.6%
-- 52w drawdown: -1.7%
-- Market cap: n/a
-- Purchase / market cap: n/a
-- Score: 5
-
-Caveats:
-- market cap unavailable
-
-Links:
-http://www.openinsider.com/LILA
-https://finance.yahoo.com/quote/LILA
-https://finviz.com/quote.ashx?t=LILA
-
----
-
-[WATCH] TNC - TENNANT CO
-
-Insider signal:
-- Insider: Mulligan Donal L
-- Filed: 2026-08-13 20:23:31
-- Purchase value: $538,720
-- Insider VWAP: $67.34
-- Latest price: $67.64
+- Insider: Schwartz Todd G.
+- Filed: 2026-08-14 01:09:56
+- Purchase value: $427,680
+- Insider VWAP: $7.13
+- Latest price: $7.16
 - Premium to insider VWAP: 0.4%
 
 Why flagged:
-- purchase value >= $100k ($538,720)
-- purchase value / ADV60 >= 2% (3.6%)
+- purchase value >= $100k ($427,680)
+- purchase value / ADV60 >= 5% (5.9%)
 - current price within 15% of insider VWAP (0.4%)
-- stock down at least 15% from 52w high (-25.8%)
+- stock down at least 30% from 52w high (-41.5%)
 
 Context:
-- Purchase / ADV60: 3.6%
-- 52w drawdown: -25.8%
+- Purchase / ADV60: 5.9%
+- 52w drawdown: -41.5%
+- Market cap: n/a
+- Purchase / market cap: n/a
+- Score: 7
+
+Caveats:
+- market cap unavailable
+
+Links:
+http://www.openinsider.com/OPFI
+https://finance.yahoo.com/quote/OPFI
+https://finviz.com/quote.ashx?t=OPFI
+
+---
+
+[WATCH] ATTO - Attovia Therapeutics, Inc.
+
+Insider signal:
+- Insider: WALSH COLIN
+- Filed: 2026-08-14 01:52:51
+- Purchase value: $1,785,000
+- Insider VWAP: $21.00
+- Latest price: $19.86
+- Premium to insider VWAP: -5.4%
+
+Why flagged:
+- purchase value >= $1m ($1,785,000)
+- purchase value / ADV60 >= 5% (9.1%)
+- current price below insider VWAP (-5.4%)
+
+Context:
+- Purchase / ADV60: 9.1%
+- 52w drawdown: -9.3%
+- Market cap: n/a
+- Purchase / market cap: n/a
+- Score: 6
+
+Caveats:
+- market cap unavailable
+
+Links:
+http://www.openinsider.com/ATTO
+https://finance.yahoo.com/quote/ATTO
+https://finviz.com/quote.ashx?t=ATTO
+
+---
+
+[WATCH] ANGX - Angel Studios, Inc.
+
+Insider signal:
+- Insider: Harmon Neal
+- Filed: 2026-08-14 20:18:20
+- Purchase value: $125,007
+- Insider VWAP: $4.31
+- Latest price: $4.37
+- Premium to insider VWAP: 1.5%
+
+Why flagged:
+- purchase value >= $100k ($125,007)
+- purchase value / ADV60 >= 2% (2.7%)
+- current price within 15% of insider VWAP (1.5%)
+- stock down at least 30% from 52w high (-72.7%)
+
+Context:
+- Purchase / ADV60: 2.7%
+- 52w drawdown: -72.7%
+- Market cap: n/a
+- Purchase / market cap: n/a
+- Score: 6
+
+Caveats:
+- market cap unavailable
+
+Links:
+http://www.openinsider.com/ANGX
+https://finance.yahoo.com/quote/ANGX
+https://finviz.com/quote.ashx?t=ANGX
+
+---
+
+[WATCH] XRN - Chiron Real Estate Inc.
+
+Insider signal:
+- Insider: Roseth Aaron Robert
+- Filed: 2026-08-14 00:14:55
+- Purchase value: $495,855
+- Insider VWAP: $36.73
+- Latest price: $37.11
+- Premium to insider VWAP: 1.0%
+
+Why flagged:
+- purchase value >= $100k ($495,855)
+- purchase value / ADV60 >= 5% (11.7%)
+- current price within 15% of insider VWAP (1.0%)
+
+Context:
+- Purchase / ADV60: 11.7%
+- 52w drawdown: -2.2%
 - Market cap: n/a
 - Purchase / market cap: n/a
 - Score: 5
@@ -124,6 +221,70 @@ Caveats:
 - market cap unavailable
 
 Links:
-http://www.openinsider.com/TNC
-https://finance.yahoo.com/quote/TNC
-https://finviz.com/quote.ashx?t=TNC
+http://www.openinsider.com/XRN
+https://finance.yahoo.com/quote/XRN
+https://finviz.com/quote.ashx?t=XRN
+
+---
+
+[WATCH] XRN - Chiron Real Estate Inc.
+
+Insider signal:
+- Insider: Decker Mark Okey Jr
+- Filed: 2026-08-14 00:16:01
+- Purchase value: $246,950
+- Insider VWAP: $35.92
+- Latest price: $37.11
+- Premium to insider VWAP: 3.3%
+
+Why flagged:
+- purchase value >= $100k ($246,950)
+- purchase value / ADV60 >= 5% (5.8%)
+- current price within 15% of insider VWAP (3.3%)
+
+Context:
+- Purchase / ADV60: 5.8%
+- 52w drawdown: -2.2%
+- Market cap: n/a
+- Purchase / market cap: n/a
+- Score: 5
+
+Caveats:
+- market cap unavailable
+
+Links:
+http://www.openinsider.com/XRN
+https://finance.yahoo.com/quote/XRN
+https://finviz.com/quote.ashx?t=XRN
+
+---
+
+[WATCH] INTC - INTEL CORP
+
+Insider signal:
+- Insider: TAN LIP BU
+- Filed: 2026-08-14 20:27:15
+- Purchase value: $9,999,985
+- Insider VWAP: $95.00
+- Latest price: $102.50
+- Premium to insider VWAP: 7.9%
+
+Why flagged:
+- purchase value >= $2m ($9,999,985)
+- current price within 15% of insider VWAP (7.9%)
+- stock down at least 15% from 52w high (-27.3%)
+
+Context:
+- Purchase / ADV60: 0.1%
+- 52w drawdown: -27.3%
+- Market cap: n/a
+- Purchase / market cap: n/a
+- Score: 5
+
+Caveats:
+- market cap unavailable
+
+Links:
+http://www.openinsider.com/INTC
+https://finance.yahoo.com/quote/INTC
+https://finviz.com/quote.ashx?t=INTC
