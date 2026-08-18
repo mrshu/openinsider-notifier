@@ -1,6 +1,6 @@
 # Forward Return Audit
 
-Created at: `2026-08-17T23:47:01.748039+00:00`
+Created at: `2026-08-18T23:47:10.704893+00:00`
 
 Returns use free Yahoo adjusted closes and are for monitoring, not production-grade attribution.
 
@@ -15,7 +15,7 @@ Returns use free Yahoo adjusted closes and are for monitoring, not production-gr
 | BLND | ALERT | 10 | $1.39 | 20.0% | -2.8% | n/a | n/a |
 | BKKT | ALERT | 10 | $8.72 | 3.0% | -23.2% | n/a | n/a |
 | BH | ALERT | 10 | $258.17 | 32.3% | 47.9% | n/a | n/a |
-| WGS | ALERT | 10 | $44.73 | 23.2% | n/a | n/a | n/a |
+| WGS | ALERT | 10 | $44.73 | 23.2% | 66.9% | n/a | n/a |
 | DNUT | ALERT | 10 | $3.51 | -3.0% | n/a | n/a | n/a |
 | WGS | ALERT | 10 | $40.75 | 48.4% | 88.7% | n/a | n/a |
 | NSP | ALERT | 10 | $28.24 | 24.8% | 82.2% | n/a | n/a |
@@ -46,6 +46,7 @@ Returns use free Yahoo adjusted closes and are for monitoring, not production-gr
 | TXO | ALERT | 8 | $13.81 | n/a | n/a | n/a | n/a |
 | AUPH | ALERT | 8 | $15.67 | -1.0% | n/a | n/a | n/a |
 | FSBC | ALERT | 8 | $46.56 | n/a | n/a | n/a | n/a |
+| BGDE | ALERT | 8 | $6.57 | n/a | n/a | n/a | n/a |
 | BOT | ALERT | 8 | $31.59 | -2.6% | n/a | n/a | n/a |
 | AAT | ALERT | 8 | $22.77 | n/a | n/a | n/a | n/a |
 | SKIL | ALERT | 8 | $6.11 | 7.5% | n/a | n/a | n/a |
@@ -73,7 +74,7 @@ Returns use free Yahoo adjusted closes and are for monitoring, not production-gr
 | ODTX | ALERT | 7 | $17.90 | -6.0% | 18.9% | n/a | n/a |
 | VRM | ALERT | 7 | $10.70 | -33.9% | n/a | n/a | n/a |
 | VRM | ALERT | 7 | $10.70 | -33.9% | n/a | n/a | n/a |
-| TXO | ALERT | 7 | $12.86 | -5.4% | n/a | n/a | n/a |
+| TXO | ALERT | 7 | $12.86 | -5.4% | 3.3% | n/a | n/a |
 | ODTX | ALERT | 7 | $17.90 | -6.0% | 18.9% | n/a | n/a |
 | GLOO | ALERT | 7 | $2.95 | 15.6% | n/a | n/a | n/a |
 | VIDA | ALERT | 7 | $2.29 | 82.7% | 0.5% | n/a | n/a |
@@ -138,6 +139,7 @@ Returns use free Yahoo adjusted closes and are for monitoring, not production-gr
 | LILA | WATCH | 6 | $7.35 | 11.7% | n/a | n/a | n/a |
 | FSBC | WATCH | 6 | $46.56 | n/a | n/a | n/a | n/a |
 | WHF | WATCH | 6 | $6.80 | -0.5% | n/a | n/a | n/a |
+| FRPH | WATCH | 6 | $22.01 | n/a | n/a | n/a | n/a |
 | ATTO | WATCH | 6 | $19.86 | n/a | n/a | n/a | n/a |
 | FRPH | WATCH | 6 | $22.12 | n/a | n/a | n/a | n/a |
 | VRA | WATCH | 6 | $3.77 | -1.1% | n/a | n/a | n/a |
