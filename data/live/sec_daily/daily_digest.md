@@ -1,16 +1,17 @@
 # Daily Insider Signal Digest
 
 - Lookback hours: 96
-- Form 4/4-A filings discovered: 252
-- Raw P/A transactions parsed: 16
-- Alert candidates: 0
-- Watch candidates: 3
+- Form 4/4-A filings discovered: 244
+- Raw P/A transactions parsed: 75
+- Alert candidates: 2
+- Watch candidates: 2
 - Archived candidates: 0
 
 ## Top Candidates
 
 | Tier | Ticker | Company | Score | Value | Value/ADV60 | Premium | Drawdown |
 | --- | --- | --- | ---: | ---: | ---: | ---: | ---: |
-| WATCH | UUU | UNIVERSAL SAFETY PRODUCTS, INC. | 6 | $135,672 | 89.6% | 11.9% | -16.6% |
-| WATCH | REFI | Chicago Atlantic Real Estate Finance, Inc. | 5 | $468,225 | 26.8% | 1.8% | -13.9% |
-| WATCH | REFI | Chicago Atlantic Real Estate Finance, Inc. | 5 | $256,325 | 14.7% | 3.3% | -13.9% |
+| ALERT | RAIN | Rain Enhancement Technologies Holdco, Inc. | 7 | $104,225 | 14.0% | -7.1% | -89.2% |
+| ALERT | IAUX | i-80 Gold Corp. | 7 | $1,620,000 | 10.5% | 8.6% | -15.4% |
+| WATCH | CLPR | Clipper Realty Inc. | 6 | $273,866 | 85.5% | 2.6% | -18.9% |
+| WATCH | SENS | Senseonics Holdings, Inc. | 5 | $125,300 | 2.7% | -1.8% | -21.9% |

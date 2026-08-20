@@ -1,22 +1,88 @@
-[WATCH] UUU - UNIVERSAL SAFETY PRODUCTS, INC.
+[ALERT] RAIN - Rain Enhancement Technologies Holdco, Inc.
 
 Insider signal:
-- Insider: AULT MILTON C III
-- Filed: 2026-08-19 21:29:37
-- Purchase value: $135,672
-- Insider VWAP: $5.58
-- Latest price: $6.24
-- Premium to insider VWAP: 11.9%
+- Insider: Seidl Randy
+- Filed: 2026-08-20 23:38:04
+- Purchase value: $104,225
+- Insider VWAP: $0.95
+- Latest price: $0.88
+- Premium to insider VWAP: -7.1%
 
 Why flagged:
-- purchase value >= $100k ($135,672)
-- purchase value / ADV60 >= 5% (89.6%)
-- current price within 15% of insider VWAP (11.9%)
-- stock down at least 15% from 52w high (-16.6%)
+- purchase value >= $100k ($104,225)
+- purchase value / ADV60 >= 5% (14.0%)
+- current price below insider VWAP (-7.1%)
+- stock down at least 30% from 52w high (-89.2%)
 
 Context:
-- Purchase / ADV60: 89.6%
-- 52w drawdown: -16.6%
+- Purchase / ADV60: 14.0%
+- 52w drawdown: -89.2%
+- Market cap: n/a
+- Purchase / market cap: n/a
+- Score: 7
+
+Caveats:
+- market cap unavailable
+
+Links:
+http://www.openinsider.com/RAIN
+https://finance.yahoo.com/quote/RAIN
+https://finviz.com/quote.ashx?t=RAIN
+
+---
+
+[ALERT] IAUX - i-80 Gold Corp.
+
+Insider signal:
+- Insider: Young Richard Scott
+- Filed: 2026-08-20 22:30:51
+- Purchase value: $1,620,000
+- Insider VWAP: $1.62
+- Latest price: $1.76
+- Premium to insider VWAP: 8.6%
+
+Why flagged:
+- purchase value >= $1m ($1,620,000)
+- purchase value / ADV60 >= 5% (10.5%)
+- current price within 15% of insider VWAP (8.6%)
+- stock down at least 15% from 52w high (-15.4%)
+
+Context:
+- Purchase / ADV60: 10.5%
+- 52w drawdown: -15.4%
+- Market cap: n/a
+- Purchase / market cap: n/a
+- Score: 7
+
+Caveats:
+- market cap unavailable
+
+Links:
+http://www.openinsider.com/IAUX
+https://finance.yahoo.com/quote/IAUX
+https://finviz.com/quote.ashx?t=IAUX
+
+---
+
+[WATCH] CLPR - Clipper Realty Inc.
+
+Insider signal:
+- Insider: Levinson Sam
+- Filed: 2026-08-20 21:50:38
+- Purchase value: $273,866
+- Insider VWAP: $3.15
+- Latest price: $3.23
+- Premium to insider VWAP: 2.6%
+
+Why flagged:
+- purchase value >= $100k ($273,866)
+- purchase value / ADV60 >= 5% (85.5%)
+- current price within 15% of insider VWAP (2.6%)
+- stock down at least 15% from 52w high (-18.9%)
+
+Context:
+- Purchase / ADV60: 85.5%
+- 52w drawdown: -18.9%
 - Market cap: n/a
 - Purchase / market cap: n/a
 - Score: 6
@@ -25,30 +91,31 @@ Caveats:
 - market cap unavailable
 
 Links:
-http://www.openinsider.com/UUU
-https://finance.yahoo.com/quote/UUU
-https://finviz.com/quote.ashx?t=UUU
+http://www.openinsider.com/CLPR
+https://finance.yahoo.com/quote/CLPR
+https://finviz.com/quote.ashx?t=CLPR
 
 ---
 
-[WATCH] REFI - Chicago Atlantic Real Estate Finance, Inc.
+[WATCH] SENS - Senseonics Holdings, Inc.
 
 Insider signal:
-- Insider: Cappell Anthony
-- Filed: 2026-08-19 21:22:57
-- Purchase value: $468,225
-- Insider VWAP: $10.40
-- Latest price: $10.59
-- Premium to insider VWAP: 1.8%
+- Insider: ROEDER DOUGLAS A
+- Filed: 2026-08-20 22:25:20
+- Purchase value: $125,300
+- Insider VWAP: $8.98
+- Latest price: $8.82
+- Premium to insider VWAP: -1.8%
 
 Why flagged:
-- purchase value >= $100k ($468,225)
-- purchase value / ADV60 >= 5% (26.8%)
-- current price within 15% of insider VWAP (1.8%)
+- purchase value >= $100k ($125,300)
+- purchase value / ADV60 >= 2% (2.7%)
+- current price below insider VWAP (-1.8%)
+- stock down at least 15% from 52w high (-21.9%)
 
 Context:
-- Purchase / ADV60: 26.8%
-- 52w drawdown: -13.9%
+- Purchase / ADV60: 2.7%
+- 52w drawdown: -21.9%
 - Market cap: n/a
 - Purchase / market cap: n/a
 - Score: 5
@@ -57,38 +124,6 @@ Caveats:
 - market cap unavailable
 
 Links:
-http://www.openinsider.com/REFI
-https://finance.yahoo.com/quote/REFI
-https://finviz.com/quote.ashx?t=REFI
-
----
-
-[WATCH] REFI - Chicago Atlantic Real Estate Finance, Inc.
-
-Insider signal:
-- Insider: Mazarakis John
-- Filed: 2026-08-19 21:23:30
-- Purchase value: $256,325
-- Insider VWAP: $10.25
-- Latest price: $10.59
-- Premium to insider VWAP: 3.3%
-
-Why flagged:
-- purchase value >= $100k ($256,325)
-- purchase value / ADV60 >= 5% (14.7%)
-- current price within 15% of insider VWAP (3.3%)
-
-Context:
-- Purchase / ADV60: 14.7%
-- 52w drawdown: -13.9%
-- Market cap: n/a
-- Purchase / market cap: n/a
-- Score: 5
-
-Caveats:
-- market cap unavailable
-
-Links:
-http://www.openinsider.com/REFI
-https://finance.yahoo.com/quote/REFI
-https://finviz.com/quote.ashx?t=REFI
+http://www.openinsider.com/SENS
+https://finance.yahoo.com/quote/SENS
+https://finviz.com/quote.ashx?t=SENS
