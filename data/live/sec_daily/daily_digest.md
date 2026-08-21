@@ -1,8 +1,8 @@
 # Daily Insider Signal Digest
 
 - Lookback hours: 96
-- Form 4/4-A filings discovered: 244
-- Raw P/A transactions parsed: 75
+- Form 4/4-A filings discovered: 237
+- Raw P/A transactions parsed: 21
 - Alert candidates: 2
 - Watch candidates: 2
 - Archived candidates: 0
@@ -11,7 +11,7 @@
 
 | Tier | Ticker | Company | Score | Value | Value/ADV60 | Premium | Drawdown |
 | --- | --- | --- | ---: | ---: | ---: | ---: | ---: |
-| ALERT | RAIN | Rain Enhancement Technologies Holdco, Inc. | 7 | $104,225 | 14.0% | -7.1% | -89.2% |
-| ALERT | IAUX | i-80 Gold Corp. | 7 | $1,620,000 | 10.5% | 8.6% | -15.4% |
-| WATCH | CLPR | Clipper Realty Inc. | 6 | $273,866 | 85.5% | 2.6% | -18.9% |
-| WATCH | SENS | Senseonics Holdings, Inc. | 5 | $125,300 | 2.7% | -1.8% | -21.9% |
+| ALERT | GWRS | Global Water Resources, Inc. | 8 | $5,766,819 | 647.4% | 0.3% | -16.5% |
+| ALERT | GWRS | Global Water Resources, Inc. | 7 | $1,233,186 | 138.4% | 0.3% | -16.5% |
+| WATCH | AAT | American Assets Trust, Inc. | 6 | $1,137,500 | 11.1% | 0.4% | -11.7% |
+| WATCH | ALK | ALASKA AIR GROUP, INC. | 5 | $1,001,510 | 0.7% | 0.9% | -36.7% |

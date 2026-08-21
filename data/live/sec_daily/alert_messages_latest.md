@@ -1,22 +1,55 @@
-[ALERT] RAIN - Rain Enhancement Technologies Holdco, Inc.
+[ALERT] GWRS - Global Water Resources, Inc.
 
 Insider signal:
-- Insider: Seidl Randy
-- Filed: 2026-08-20 23:38:04
-- Purchase value: $104,225
-- Insider VWAP: $0.95
-- Latest price: $0.88
-- Premium to insider VWAP: -7.1%
+- Insider: Levine Jonathan L
+- Filed: 2026-08-21 23:27:02
+- Purchase value: $5,766,819
+- Insider VWAP: $8.85
+- Latest price: $8.88
+- Premium to insider VWAP: 0.3%
 
 Why flagged:
-- purchase value >= $100k ($104,225)
-- purchase value / ADV60 >= 5% (14.0%)
-- current price below insider VWAP (-7.1%)
-- stock down at least 30% from 52w high (-89.2%)
+- purchase value >= $2m ($5,766,819)
+- purchase value / ADV60 >= 5% (647.4%)
+- current price within 15% of insider VWAP (0.3%)
+- stock down at least 15% from 52w high (-16.5%)
 
 Context:
-- Purchase / ADV60: 14.0%
-- 52w drawdown: -89.2%
+- Purchase / ADV60: 647.4%
+- 52w drawdown: -16.5%
+- Market cap: n/a
+- Purchase / market cap: n/a
+- Score: 8
+
+Caveats:
+- market cap unavailable
+
+Links:
+http://www.openinsider.com/GWRS
+https://finance.yahoo.com/quote/GWRS
+https://finviz.com/quote.ashx?t=GWRS
+
+---
+
+[ALERT] GWRS - Global Water Resources, Inc.
+
+Insider signal:
+- Insider: Cohn Andrew M.
+- Filed: 2026-08-21 23:14:46
+- Purchase value: $1,233,186
+- Insider VWAP: $8.85
+- Latest price: $8.88
+- Premium to insider VWAP: 0.3%
+
+Why flagged:
+- purchase value >= $1m ($1,233,186)
+- purchase value / ADV60 >= 5% (138.4%)
+- current price within 15% of insider VWAP (0.3%)
+- stock down at least 15% from 52w high (-16.5%)
+
+Context:
+- Purchase / ADV60: 138.4%
+- 52w drawdown: -16.5%
 - Market cap: n/a
 - Purchase / market cap: n/a
 - Score: 7
@@ -25,64 +58,30 @@ Caveats:
 - market cap unavailable
 
 Links:
-http://www.openinsider.com/RAIN
-https://finance.yahoo.com/quote/RAIN
-https://finviz.com/quote.ashx?t=RAIN
+http://www.openinsider.com/GWRS
+https://finance.yahoo.com/quote/GWRS
+https://finviz.com/quote.ashx?t=GWRS
 
 ---
 
-[ALERT] IAUX - i-80 Gold Corp.
+[WATCH] AAT - American Assets Trust, Inc.
 
 Insider signal:
-- Insider: Young Richard Scott
-- Filed: 2026-08-20 22:30:51
-- Purchase value: $1,620,000
-- Insider VWAP: $1.62
-- Latest price: $1.76
-- Premium to insider VWAP: 8.6%
+- Insider: RADY ERNEST S
+- Filed: 2026-08-21 20:27:42
+- Purchase value: $1,137,500
+- Insider VWAP: $22.75
+- Latest price: $22.83
+- Premium to insider VWAP: 0.4%
 
 Why flagged:
-- purchase value >= $1m ($1,620,000)
-- purchase value / ADV60 >= 5% (10.5%)
-- current price within 15% of insider VWAP (8.6%)
-- stock down at least 15% from 52w high (-15.4%)
+- purchase value >= $1m ($1,137,500)
+- purchase value / ADV60 >= 5% (11.1%)
+- current price within 15% of insider VWAP (0.4%)
 
 Context:
-- Purchase / ADV60: 10.5%
-- 52w drawdown: -15.4%
-- Market cap: n/a
-- Purchase / market cap: n/a
-- Score: 7
-
-Caveats:
-- market cap unavailable
-
-Links:
-http://www.openinsider.com/IAUX
-https://finance.yahoo.com/quote/IAUX
-https://finviz.com/quote.ashx?t=IAUX
-
----
-
-[WATCH] CLPR - Clipper Realty Inc.
-
-Insider signal:
-- Insider: Levinson Sam
-- Filed: 2026-08-20 21:50:38
-- Purchase value: $273,866
-- Insider VWAP: $3.15
-- Latest price: $3.23
-- Premium to insider VWAP: 2.6%
-
-Why flagged:
-- purchase value >= $100k ($273,866)
-- purchase value / ADV60 >= 5% (85.5%)
-- current price within 15% of insider VWAP (2.6%)
-- stock down at least 15% from 52w high (-18.9%)
-
-Context:
-- Purchase / ADV60: 85.5%
-- 52w drawdown: -18.9%
+- Purchase / ADV60: 11.1%
+- 52w drawdown: -11.7%
 - Market cap: n/a
 - Purchase / market cap: n/a
 - Score: 6
@@ -91,31 +90,30 @@ Caveats:
 - market cap unavailable
 
 Links:
-http://www.openinsider.com/CLPR
-https://finance.yahoo.com/quote/CLPR
-https://finviz.com/quote.ashx?t=CLPR
+http://www.openinsider.com/AAT
+https://finance.yahoo.com/quote/AAT
+https://finviz.com/quote.ashx?t=AAT
 
 ---
 
-[WATCH] SENS - Senseonics Holdings, Inc.
+[WATCH] ALK - ALASKA AIR GROUP, INC.
 
 Insider signal:
-- Insider: ROEDER DOUGLAS A
-- Filed: 2026-08-20 22:25:20
-- Purchase value: $125,300
-- Insider VWAP: $8.98
-- Latest price: $8.82
-- Premium to insider VWAP: -1.8%
+- Insider: MINICUCCI BENITO
+- Filed: 2026-08-21 20:59:34
+- Purchase value: $1,001,510
+- Insider VWAP: $40.06
+- Latest price: $40.41
+- Premium to insider VWAP: 0.9%
 
 Why flagged:
-- purchase value >= $100k ($125,300)
-- purchase value / ADV60 >= 2% (2.7%)
-- current price below insider VWAP (-1.8%)
-- stock down at least 15% from 52w high (-21.9%)
+- purchase value >= $1m ($1,001,510)
+- current price within 15% of insider VWAP (0.9%)
+- stock down at least 30% from 52w high (-36.7%)
 
 Context:
-- Purchase / ADV60: 2.7%
-- 52w drawdown: -21.9%
+- Purchase / ADV60: 0.7%
+- 52w drawdown: -36.7%
 - Market cap: n/a
 - Purchase / market cap: n/a
 - Score: 5
@@ -124,6 +122,6 @@ Caveats:
 - market cap unavailable
 
 Links:
-http://www.openinsider.com/SENS
-https://finance.yahoo.com/quote/SENS
-https://finviz.com/quote.ashx?t=SENS
+http://www.openinsider.com/ALK
+https://finance.yahoo.com/quote/ALK
+https://finviz.com/quote.ashx?t=ALK
