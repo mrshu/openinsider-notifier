@@ -64,35 +64,35 @@ https://finviz.com/quote.ashx?t=GWRS
 
 ---
 
-[WATCH] AAT - American Assets Trust, Inc.
+[WATCH] UUU - UNIVERSAL SAFETY PRODUCTS, INC.
 
 Insider signal:
-- Insider: RADY ERNEST S
-- Filed: 2026-08-21 20:27:42
-- Purchase value: $1,137,500
-- Insider VWAP: $22.75
-- Latest price: $22.83
-- Premium to insider VWAP: 0.4%
+- Insider: AULT MILTON C III
+- Filed: 2026-08-22 00:00:08
+- Purchase value: $130,961
+- Insider VWAP: $6.34
+- Latest price: $6.40
+- Premium to insider VWAP: 1.0%
 
 Why flagged:
-- purchase value >= $1m ($1,137,500)
-- purchase value / ADV60 >= 5% (11.1%)
-- current price within 15% of insider VWAP (0.4%)
+- purchase value >= $100k ($130,961)
+- purchase value / ADV60 >= 5% (83.2%)
+- current price within 15% of insider VWAP (1.0%)
 
 Context:
-- Purchase / ADV60: 11.1%
-- 52w drawdown: -11.7%
+- Purchase / ADV60: 83.2%
+- 52w drawdown: -14.4%
 - Market cap: n/a
 - Purchase / market cap: n/a
-- Score: 6
+- Score: 5
 
 Caveats:
 - market cap unavailable
 
 Links:
-http://www.openinsider.com/AAT
-https://finance.yahoo.com/quote/AAT
-https://finviz.com/quote.ashx?t=AAT
+http://www.openinsider.com/UUU
+https://finance.yahoo.com/quote/UUU
+https://finviz.com/quote.ashx?t=UUU
 
 ---
 

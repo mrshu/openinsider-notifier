@@ -1,6 +1,6 @@
 # Forward Return Audit
 
-Created at: `2026-08-21T23:49:10.209828+00:00`
+Created at: `2026-08-23T23:43:15.650487+00:00`
 
 Returns use free Yahoo adjusted closes and are for monitoring, not production-grade attribution.
 
@@ -29,7 +29,7 @@ Returns use free Yahoo adjusted closes and are for monitoring, not production-gr
 | BLND | ALERT | 9 | $1.56 | 13.5% | n/a | n/a | n/a |
 | BLND | ALERT | 9 | $1.47 | 14.2% | -3.2% | n/a | n/a |
 | NTSK | ALERT | 9 | $12.32 | 24.8% | n/a | n/a | n/a |
-| FBIN | ALERT | 9 | $36.05 | 14.1% | 25.1% | n/a | n/a |
+| FBIN | ALERT | 9 | $35.84 | 14.1% | 25.1% | n/a | n/a |
 | CLVT | ALERT | 9 | $1.89 | n/a | n/a | n/a | n/a |
 | OTLK | ALERT | 9 | $0.76 | n/a | n/a | n/a | n/a |
 | STEP | ALERT | 9 | $41.72 | 0.8% | n/a | n/a | n/a |
@@ -104,7 +104,7 @@ Returns use free Yahoo adjusted closes and are for monitoring, not production-gr
 | RM | ALERT | 7 | $32.39 | n/a | n/a | n/a | n/a |
 | SAGT | ALERT | 7 | $0.72 | n/a | n/a | n/a | n/a |
 | IAUX | ALERT | 7 | $1.76 | n/a | n/a | n/a | n/a |
-| CMCL | ALERT | 7 | $23.45 | n/a | n/a | n/a | n/a |
+| CMCL | ALERT | 7 | $23.32 | n/a | n/a | n/a | n/a |
 | INR | ALERT | 7 | $13.58 | -4.3% | n/a | n/a | n/a |
 | DFH | ALERT | 7 | $14.84 | n/a | n/a | n/a | n/a |
 | ANGX | ALERT | 7 | $4.37 | n/a | n/a | n/a | n/a |
@@ -181,6 +181,7 @@ Returns use free Yahoo adjusted closes and are for monitoring, not production-gr
 | EWSB | WATCH | 5 | $10.95 | -8.9% | n/a | n/a | n/a |
 | EWSB | WATCH | 5 | $9.95 | -0.4% | n/a | n/a | n/a |
 | EWSB | WATCH | 5 | $10.95 | -8.9% | n/a | n/a | n/a |
+| UUU | WATCH | 5 | n/a | n/a | n/a | n/a | n/a |
 | MKTW | WATCH | 5 | $16.83 | -4.7% | 5.3% | n/a | n/a |
 | BWMX | WATCH | 5 | $16.62 | n/a | n/a | n/a | n/a |
 | NXDT | WATCH | 5 | $5.09 | -12.8% | 6.8% | n/a | n/a |
