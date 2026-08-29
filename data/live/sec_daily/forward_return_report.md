@@ -1,6 +1,6 @@
 # Forward Return Audit
 
-Created at: `2026-08-28T07:01:19.987808+00:00`
+Created at: `2026-08-29T04:18:09.031241+00:00`
 
 Returns use free Yahoo adjusted closes and are for monitoring, not production-grade attribution.
 
@@ -122,6 +122,7 @@ Returns use free Yahoo adjusted closes and are for monitoring, not production-gr
 | PAL | ALERT | 7 | $5.89 | n/a | n/a | n/a | n/a |
 | ARTV | ALERT | 7 | $10.10 | n/a | n/a | n/a | n/a |
 | PLYX | ALERT | 7 | $3.27 | -20.8% | -37.7% | n/a | n/a |
+| VENU | ALERT | 7 | $2.00 | n/a | n/a | n/a | n/a |
 | AUNA | ALERT | 7 | $4.50 | 18.8% | n/a | n/a | n/a |
 | SMRT | ALERT | 7 | $1.41 | n/a | n/a | n/a | n/a |
 | TMCI | ALERT | 7 | $4.37 | n/a | n/a | n/a | n/a |
@@ -153,6 +154,7 @@ Returns use free Yahoo adjusted closes and are for monitoring, not production-gr
 | LILA | WATCH | 6 | $7.35 | 11.7% | n/a | n/a | n/a |
 | FSBC | WATCH | 6 | $46.56 | -6.4% | n/a | n/a | n/a |
 | WHF | WATCH | 6 | $6.80 | -0.5% | 1.4% | n/a | n/a |
+| ATTO | WATCH | 6 | n/a | n/a | n/a | n/a | n/a |
 | AAT | WATCH | 6 | $22.83 | n/a | n/a | n/a | n/a |
 | FRPH | WATCH | 6 | $22.01 | n/a | n/a | n/a | n/a |
 | ATTO | WATCH | 6 | $19.86 | n/a | n/a | n/a | n/a |
