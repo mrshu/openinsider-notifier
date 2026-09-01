@@ -1,16 +1,15 @@
 # Daily Insider Signal Digest
 
 - Lookback hours: 96
-- Form 4/4-A filings discovered: 239
-- Raw P/A transactions parsed: 53
-- Alert candidates: 1
-- Watch candidates: 2
+- Form 4/4-A filings discovered: 254
+- Raw P/A transactions parsed: 65
+- Alert candidates: 2
+- Watch candidates: 0
 - Archived candidates: 0
 
 ## Top Candidates
 
 | Tier | Ticker | Company | Score | Value | Value/ADV60 | Premium | Drawdown |
 | --- | --- | --- | ---: | ---: | ---: | ---: | ---: |
-| ALERT | AAT | American Assets Trust, Inc. | 8 | $2,254,000 | 22.0% | -0.5% | -13.2% |
-| WATCH | ATTO | Attovia Therapeutics, Inc. | 6 | $1,785,000 | 15.8% | -1.4% | -10.9% |
-| WATCH | DKS | DICK'S SPORTING GOODS, INC. | 6 | $2,222,240 | 0.6% | 3.3% | -43.5% |
+| ALERT | PETZ | TDH Holdings, Inc. | 9 | $3,563,630 | 1729.4% | -4.2% | -32.4% |
+| ALERT | BLNE | Beeline Holdings, Inc. | 7 | $239,316 | 53.0% | 1.9% | -77.1% |
