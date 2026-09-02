@@ -1,15 +1,17 @@
 # Daily Insider Signal Digest
 
 - Lookback hours: 96
-- Form 4/4-A filings discovered: 254
-- Raw P/A transactions parsed: 65
-- Alert candidates: 2
+- Form 4/4-A filings discovered: 261
+- Raw P/A transactions parsed: 34
+- Alert candidates: 3
 - Watch candidates: 0
-- Archived candidates: 0
+- Archived candidates: 1
 
 ## Top Candidates
 
 | Tier | Ticker | Company | Score | Value | Value/ADV60 | Premium | Drawdown |
 | --- | --- | --- | ---: | ---: | ---: | ---: | ---: |
-| ALERT | PETZ | TDH Holdings, Inc. | 9 | $3,563,630 | 1729.4% | -4.2% | -32.4% |
-| ALERT | BLNE | Beeline Holdings, Inc. | 7 | $239,316 | 53.0% | 1.9% | -77.1% |
+| ALERT | AUGO | Aura Minerals Inc. | 9 | $21,792,751 | 31.8% | -8.6% | -26.1% |
+| ALERT | AFCG | Advanced Flower Capital Inc. | 7 | $423,887 | 130.6% | -2.0% | -22.0% |
+| ALERT | LUCK | Lucky Strike Entertainment Corp | 7 | $614,000 | 73.5% | -99.0% | -40.9% |
+| ARCHIVE | ITT | ITT INC. | 3 | $1,001,592 | 0.5% | -2.7% | -12.2% |
