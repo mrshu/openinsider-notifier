@@ -1,6 +1,6 @@
 # Forward Return Audit
 
-Created at: `2026-09-02T01:12:50.032987+00:00`
+Created at: `2026-09-03T01:18:43.511301+00:00`
 
 Returns use free Yahoo adjusted closes and are for monitoring, not production-grade attribution.
 
@@ -34,7 +34,7 @@ Returns use free Yahoo adjusted closes and are for monitoring, not production-gr
 | FBIN | ALERT | 9 | $35.84 | 14.1% | 25.1% | n/a | n/a |
 | CLVT | ALERT | 9 | $1.89 | n/a | n/a | n/a | n/a |
 | OTLK | ALERT | 9 | $0.76 | n/a | n/a | n/a | n/a |
-| STEP | ALERT | 9 | $41.45 | 0.8% | n/a | n/a | n/a |
+| STEP | ALERT | 9 | $41.72 | 0.8% | n/a | n/a | n/a |
 | COAG | ALERT | 9 | $25.01 | 0.7% | 80.6% | n/a | n/a |
 | ZBIO | ALERT | 9 | $17.55 | -1.5% | 79.6% | n/a | n/a |
 | ARTV | ALERT | 8 | $10.50 | -18.6% | 8.1% | n/a | n/a |
@@ -57,7 +57,7 @@ Returns use free Yahoo adjusted closes and are for monitoring, not production-gr
 | PBLS | ALERT | 8 | $30.81 | 25.3% | n/a | n/a | n/a |
 | ARTV | ALERT | 8 | $9.15 | 24.2% | n/a | n/a | n/a |
 | ANNX | ALERT | 8 | $5.42 | 4.6% | -5.3% | n/a | n/a |
-| AAT | ALERT | 8 | $22.43 | n/a | n/a | n/a | n/a |
+| AAT | ALERT | 8 | $22.46 | n/a | n/a | n/a | n/a |
 | FTH | ALERT | 8 | $22.92 | 17.6% | n/a | n/a | n/a |
 | TWFG | ALERT | 8 | $18.57 | 30.1% | 65.4% | n/a | n/a |
 | PSEC | ALERT | 8 | $2.17 | -0.9% | n/a | n/a | n/a |
@@ -133,7 +133,7 @@ Returns use free Yahoo adjusted closes and are for monitoring, not production-gr
 | SMRT | ALERT | 7 | $1.41 | n/a | n/a | n/a | n/a |
 | TMCI | ALERT | 7 | $4.37 | n/a | n/a | n/a | n/a |
 | OPFI | ALERT | 7 | $7.16 | n/a | n/a | n/a | n/a |
-| FCNCA | ALERT | 7 | $1,905.71 | 10.6% | 14.0% | n/a | n/a |
+| FCNCA | ALERT | 7 | $1,907.53 | 10.6% | 14.0% | n/a | n/a |
 | AMRC | ALERT | 7 | $25.89 | n/a | n/a | n/a | n/a |
 | BLND | ALERT | 7 | $1.62 | 10.8% | n/a | n/a | n/a |
 | FBRT | ALERT | 7 | $8.22 | -3.4% | n/a | n/a | n/a |
@@ -160,7 +160,7 @@ Returns use free Yahoo adjusted closes and are for monitoring, not production-gr
 | LILA | WATCH | 6 | $7.35 | 11.7% | n/a | n/a | n/a |
 | FSBC | WATCH | 6 | $46.56 | -6.4% | n/a | n/a | n/a |
 | WHF | WATCH | 6 | $6.80 | -0.5% | 1.4% | n/a | n/a |
-| ATTO | WATCH | 6 | $20.70 | n/a | n/a | n/a | n/a |
+| ATTO | WATCH | 6 | $21.40 | n/a | n/a | n/a | n/a |
 | AAT | WATCH | 6 | $22.83 | n/a | n/a | n/a | n/a |
 | FRPH | WATCH | 6 | $22.01 | n/a | n/a | n/a | n/a |
 | ATTO | WATCH | 6 | $19.86 | n/a | n/a | n/a | n/a |
@@ -193,7 +193,7 @@ Returns use free Yahoo adjusted closes and are for monitoring, not production-gr
 | MBC | WATCH | 6 | $8.48 | 18.2% | -4.0% | n/a | n/a |
 | PWRL | WATCH | 6 | $14.20 | -14.6% | n/a | n/a | n/a |
 | BETR | WATCH | 6 | $25.03 | 4.9% | -51.8% | n/a | n/a |
-| DKS | WATCH | 6 | $135.09 | n/a | n/a | n/a | n/a |
+| DKS | WATCH | 6 | $135.10 | n/a | n/a | n/a | n/a |
 | CCLFX | WATCH | 5 | $10.26 | -2.3% | n/a | n/a | n/a |
 | EWSB | WATCH | 5 | $9.95 | -0.4% | n/a | n/a | n/a |
 | EWSB | WATCH | 5 | $10.95 | -8.9% | n/a | n/a | n/a |
@@ -201,7 +201,7 @@ Returns use free Yahoo adjusted closes and are for monitoring, not production-gr
 | EWSB | WATCH | 5 | $10.95 | -8.9% | n/a | n/a | n/a |
 | UUU | WATCH | 5 | $6.46 | n/a | n/a | n/a | n/a |
 | MKTW | WATCH | 5 | $16.83 | -4.7% | 5.3% | n/a | n/a |
-| BWMX | WATCH | 5 | $16.62 | -10.6% | n/a | n/a | n/a |
+| BWMX | WATCH | 5 | $16.62 | -9.9% | n/a | n/a | n/a |
 | NXDT | WATCH | 5 | $5.09 | -12.8% | 6.8% | n/a | n/a |
 | RBKB | WATCH | 5 | $12.35 | 1.0% | n/a | n/a | n/a |
 | MKTW | WATCH | 5 | $16.83 | 0.8% | 6.8% | n/a | n/a |
@@ -221,7 +221,7 @@ Returns use free Yahoo adjusted closes and are for monitoring, not production-gr
 | PLSE | WATCH | 5 | $19.08 | 32.9% | 112.7% | n/a | n/a |
 | PLSE | WATCH | 5 | $23.30 | 15.5% | 73.2% | n/a | n/a |
 | TXO | WATCH | 5 | $11.81 | 13.1% | 10.5% | n/a | n/a |
-| TNC | WATCH | 5 | $67.34 | n/a | n/a | n/a | n/a |
+| TNC | WATCH | 5 | $67.64 | n/a | n/a | n/a | n/a |
 | CECO | WATCH | 5 | $79.47 | 1.7% | -12.5% | n/a | n/a |
 | SENS | WATCH | 5 | $8.82 | n/a | n/a | n/a | n/a |
 | DMC | WATCH | 5 | $29.61 | n/a | n/a | n/a | n/a |
