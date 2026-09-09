@@ -1,6 +1,6 @@
 # Forward Return Audit
 
-Created at: `2026-09-08T01:17:54.028105+00:00`
+Created at: `2026-09-09T01:22:43.188271+00:00`
 
 Returns use free Yahoo adjusted closes and are for monitoring, not production-grade attribution.
 
@@ -101,6 +101,7 @@ Returns use free Yahoo adjusted closes and are for monitoring, not production-gr
 | KINS | ALERT | 7 | $14.12 | 14.7% | 31.0% | n/a | n/a |
 | PNBK | ALERT | 7 | $1.07 | -0.1% | -6.3% | n/a | n/a |
 | LODE | ALERT | 7 | $4.08 | 1.7% | n/a | n/a | n/a |
+| CMTG | ALERT | 7 | n/a | n/a | n/a | n/a | n/a |
 | OPAD | ALERT | 7 | $0.74 | 666.7% | 483.8% | n/a | n/a |
 | NAKA | ALERT | 7 | $5.60 | -23.5% | 22.1% | n/a | n/a |
 | AAT | ALERT | 7 | $22.39 | n/a | n/a | n/a | n/a |
@@ -233,6 +234,7 @@ Returns use free Yahoo adjusted closes and are for monitoring, not production-gr
 | TMUS | WATCH | 5 | $192.26 | -11.2% | -14.2% | n/a | n/a |
 | AON | WATCH | 5 | $323.09 | n/a | n/a | n/a | n/a |
 | SGI | WATCH | 5 | $62.48 | n/a | n/a | n/a | n/a |
+| GME | WATCH | 5 | n/a | n/a | n/a | n/a | n/a |
 | ALK | WATCH | 5 | $40.41 | n/a | n/a | n/a | n/a |
 | ADBE | WATCH | 5 | $202.73 | 15.9% | n/a | n/a | n/a |
 | INTC | WATCH | 5 | $102.50 | n/a | n/a | n/a | n/a |

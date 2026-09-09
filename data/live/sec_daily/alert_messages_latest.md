@@ -1,55 +1,22 @@
-[ALERT] LILA - Liberty Latin America Ltd.
+[ALERT] CMTG - Claros Mortgage Trust, Inc.
 
 Insider signal:
-- Insider: DE ANGOITIA ALFONSO
-- Filed: 2026-09-05 01:31:10
-- Purchase value: $9,978,488
-- Insider VWAP: $20.95
-- Latest price: $8.52
-- Premium to insider VWAP: -59.3%
-
-Why flagged:
-- purchase value >= $2m ($9,978,488)
-- purchase value / ADV60 >= 5% (186.7%)
-- current price below insider VWAP (-59.3%)
-- multiple purchase rows in filing (3)
-
-Context:
-- Purchase / ADV60: 186.7%
-- 52w drawdown: -2.9%
-- Market cap: n/a
-- Purchase / market cap: n/a
-- Score: 8
-
-Caveats:
-- market cap unavailable
-
-Links:
-http://www.openinsider.com/LILA
-https://finance.yahoo.com/quote/LILA
-https://finviz.com/quote.ashx?t=LILA
-
----
-
-[ALERT] ATRA - Atara Biotherapeutics, Inc.
-
-Insider signal:
-- Insider: Cherry Brian N
-- Filed: 2026-09-04 22:20:04
-- Purchase value: $999,994
-- Insider VWAP: $9.60
-- Latest price: $9.76
+- Insider: Mack Richard
+- Filed: 2026-09-08 20:44:59
+- Purchase value: $318,480
+- Insider VWAP: $1.59
+- Latest price: $1.62
 - Premium to insider VWAP: 1.7%
 
 Why flagged:
-- purchase value >= $100k ($999,994)
-- purchase value / ADV60 >= 5% (161.6%)
+- purchase value >= $100k ($318,480)
+- purchase value / ADV60 >= 5% (20.5%)
 - current price within 15% of insider VWAP (1.7%)
-- stock down at least 30% from 52w high (-46.0%)
+- stock down at least 30% from 52w high (-59.0%)
 
 Context:
-- Purchase / ADV60: 161.6%
-- 52w drawdown: -46.0%
+- Purchase / ADV60: 20.5%
+- 52w drawdown: -59.0%
 - Market cap: n/a
 - Purchase / market cap: n/a
 - Score: 7
@@ -58,39 +25,38 @@ Caveats:
 - market cap unavailable
 
 Links:
-http://www.openinsider.com/ATRA
-https://finance.yahoo.com/quote/ATRA
-https://finviz.com/quote.ashx?t=ATRA
+http://www.openinsider.com/CMTG
+https://finance.yahoo.com/quote/CMTG
+https://finviz.com/quote.ashx?t=CMTG
 
 ---
 
-[ALERT] ENHA - Enhanced Group Inc.
+[WATCH] GME - GameStop Corp.
 
 Insider signal:
-- Insider: Angermayer Christian; Apeiron Investment Group Ltd.; Enhanced Holdings LP
-- Filed: 2026-09-04 20:30:06
-- Purchase value: $169,627
-- Insider VWAP: $1.58
-- Latest price: $1.58
-- Premium to insider VWAP: 0.3%
+- Insider: Cheng Lawrence
+- Filed: 2026-09-08 22:11:37
+- Purchase value: $1,033,956
+- Insider VWAP: $18.80
+- Latest price: $19.16
+- Premium to insider VWAP: 1.9%
 
 Why flagged:
-- purchase value >= $100k ($169,627)
-- purchase value / ADV60 >= 5% (7.0%)
-- current price within 15% of insider VWAP (0.3%)
-- stock down at least 30% from 52w high (-83.7%)
+- purchase value >= $1m ($1,033,956)
+- current price within 15% of insider VWAP (1.9%)
+- stock down at least 30% from 52w high (-30.8%)
 
 Context:
-- Purchase / ADV60: 7.0%
-- 52w drawdown: -83.7%
+- Purchase / ADV60: 0.9%
+- 52w drawdown: -30.8%
 - Market cap: n/a
 - Purchase / market cap: n/a
-- Score: 7
+- Score: 5
 
 Caveats:
 - market cap unavailable
 
 Links:
-http://www.openinsider.com/ENHA
-https://finance.yahoo.com/quote/ENHA
-https://finviz.com/quote.ashx?t=ENHA
+http://www.openinsider.com/GME
+https://finance.yahoo.com/quote/GME
+https://finviz.com/quote.ashx?t=GME
