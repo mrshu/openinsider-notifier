@@ -1,95 +1,63 @@
-[ALERT] GLOO - Gloo Holdings, Inc.
+[WATCH] PMTS - CPI Card Group Inc.
 
 Insider signal:
-- Insider: GELSINGER PATRICK P
-- Filed: 2026-09-11 21:14:08
-- Purchase value: $166,875
-- Insider VWAP: $3.34
-- Latest price: $3.33
-- Premium to insider VWAP: -0.2%
+- Insider: Riley H Sanford
+- Filed: 2026-09-14 23:45:58
+- Purchase value: $299,990
+- Insider VWAP: $21.50
+- Latest price: $24.26
+- Premium to insider VWAP: 12.8%
 
 Why flagged:
-- purchase value >= $100k ($166,875)
-- purchase value / ADV60 >= 5% (18.5%)
-- current price below insider VWAP (-0.2%)
-- stock down at least 30% from 52w high (-64.9%)
+- purchase value >= $100k ($299,990)
+- purchase value / ADV60 >= 5% (11.0%)
+- current price within 15% of insider VWAP (12.8%)
+- stock down at least 15% from 52w high (-20.5%)
 
 Context:
-- Purchase / ADV60: 18.5%
-- 52w drawdown: -64.9%
+- Purchase / ADV60: 11.0%
+- 52w drawdown: -20.5%
 - Market cap: n/a
 - Purchase / market cap: n/a
-- Score: 7
+- Score: 6
 
 Caveats:
 - market cap unavailable
 
 Links:
-http://www.openinsider.com/GLOO
-https://finance.yahoo.com/quote/GLOO
-https://finviz.com/quote.ashx?t=GLOO
+http://www.openinsider.com/PMTS
+https://finance.yahoo.com/quote/PMTS
+https://finviz.com/quote.ashx?t=PMTS
 
 ---
 
-[WATCH] SLRC - SLR Investment Corp.
+[WATCH] PMTS - CPI Card Group Inc.
 
 Insider signal:
-- Insider: GROSS MICHAEL S
-- Filed: 2026-09-11 20:26:01
-- Purchase value: $246,980
-- Insider VWAP: $12.35
-- Latest price: $12.08
-- Premium to insider VWAP: -2.2%
+- Insider: Peters Nicholas
+- Filed: 2026-09-14 23:42:28
+- Purchase value: $250,002
+- Insider VWAP: $21.50
+- Latest price: $24.26
+- Premium to insider VWAP: 12.8%
 
 Why flagged:
-- purchase value >= $100k ($246,980)
-- purchase value / ADV60 >= 2% (4.9%)
-- current price below insider VWAP (-2.2%)
-- stock down at least 15% from 52w high (-21.3%)
+- purchase value >= $100k ($250,002)
+- purchase value / ADV60 >= 5% (9.2%)
+- current price within 15% of insider VWAP (12.8%)
+- stock down at least 15% from 52w high (-20.5%)
 
 Context:
-- Purchase / ADV60: 4.9%
-- 52w drawdown: -21.3%
+- Purchase / ADV60: 9.2%
+- 52w drawdown: -20.5%
 - Market cap: n/a
 - Purchase / market cap: n/a
-- Score: 5
+- Score: 6
 
 Caveats:
 - market cap unavailable
 
 Links:
-http://www.openinsider.com/SLRC
-https://finance.yahoo.com/quote/SLRC
-https://finviz.com/quote.ashx?t=SLRC
-
----
-
-[WATCH] PVH - PVH CORP. /DE/
-
-Insider signal:
-- Insider: Larsson Stefan
-- Filed: 2026-09-11 23:18:42
-- Purchase value: $1,000,001
-- Insider VWAP: $70.53
-- Latest price: $70.64
-- Premium to insider VWAP: 0.2%
-
-Why flagged:
-- purchase value >= $1m ($1,000,001)
-- current price within 15% of insider VWAP (0.2%)
-- stock down at least 15% from 52w high (-28.4%)
-
-Context:
-- Purchase / ADV60: 1.3%
-- 52w drawdown: -28.4%
-- Market cap: n/a
-- Purchase / market cap: n/a
-- Score: 4
-
-Caveats:
-- market cap unavailable
-
-Links:
-http://www.openinsider.com/PVH
-https://finance.yahoo.com/quote/PVH
-https://finviz.com/quote.ashx?t=PVH
+http://www.openinsider.com/PMTS
+https://finance.yahoo.com/quote/PMTS
+https://finviz.com/quote.ashx?t=PMTS
