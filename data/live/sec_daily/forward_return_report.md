@@ -1,6 +1,6 @@
 # Forward Return Audit
 
-Created at: `2026-09-15T01:39:55.453658+00:00`
+Created at: `2026-09-16T01:33:27.923677+00:00`
 
 Returns use free Yahoo adjusted closes and are for monitoring, not production-grade attribution.
 
@@ -108,6 +108,7 @@ Returns use free Yahoo adjusted closes and are for monitoring, not production-gr
 | GLOO | ALERT | 7 | $3.33 | n/a | n/a | n/a | n/a |
 | AAT | ALERT | 7 | $22.39 | n/a | n/a | n/a | n/a |
 | CAPS | ALERT | 7 | $0.23 | -20.7% | n/a | n/a | n/a |
+| NTHI | ALERT | 7 | n/a | n/a | n/a | n/a | n/a |
 | XIIIU | ALERT | 7 | $10.45 | 0.7% | n/a | n/a | n/a |
 | PRQR | ALERT | 7 | $1.88 | 18.8% | n/a | n/a | n/a |
 | NSLR | ALERT | 7 | $10.26 | n/a | n/a | n/a | n/a |
@@ -158,7 +159,7 @@ Returns use free Yahoo adjusted closes and are for monitoring, not production-gr
 | FUND | WATCH | 6 | $9.48 | 6.2% | n/a | n/a | n/a |
 | TVA | WATCH | 6 | $10.48 | 0.3% | n/a | n/a | n/a |
 | MKTW | WATCH | 6 | $17.18 | -3.2% | 7.6% | n/a | n/a |
-| LEEEF | WATCH | 6 | $0.17 | 18.0% | 8.9% | n/a | n/a |
+| LEEEF | WATCH | 6 | $0.17 | 18.0% | 9.2% | n/a | n/a |
 | GLBS | WATCH | 6 | $2.73 | 32.8% | n/a | n/a | n/a |
 | UUU | WATCH | 6 | $6.24 | n/a | n/a | n/a | n/a |
 | CLPR | WATCH | 6 | $3.23 | n/a | n/a | n/a | n/a |
