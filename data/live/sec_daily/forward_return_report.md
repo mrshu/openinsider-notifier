@@ -1,6 +1,6 @@
 # Forward Return Audit
 
-Created at: `2026-09-19T01:24:57.049044+00:00`
+Created at: `2026-09-21T01:19:38.851113+00:00`
 
 Returns use free Yahoo adjusted closes and are for monitoring, not production-grade attribution.
 
@@ -73,7 +73,6 @@ Returns use free Yahoo adjusted closes and are for monitoring, not production-gr
 | KNOP | ALERT | 7 | $10.29 | 1.3% | 7.9% | n/a | n/a |
 | XBP | ALERT | 7 | $3.18 | n/a | n/a | n/a | n/a |
 | HWH | ALERT | 7 | $1.23 | 1.4% | 42.7% | n/a | n/a |
-| ELOG | ALERT | 7 | n/a | n/a | n/a | n/a | n/a |
 | ATRA | ALERT | 7 | $9.76 | n/a | n/a | n/a | n/a |
 | XAIR | ALERT | 7 | $5.28 | -27.4% | n/a | n/a | n/a |
 | CLPR | ALERT | 7 | $3.25 | 5.5% | n/a | n/a | n/a |
@@ -84,6 +83,7 @@ Returns use free Yahoo adjusted closes and are for monitoring, not production-gr
 | NGL | ALERT | 7 | $17.20 | n/a | n/a | n/a | n/a |
 | MKTW | ALERT | 7 | $16.38 | -1.1% | 8.0% | n/a | n/a |
 | LOGC | ALERT | 7 | $8.98 | 1.0% | 38.3% | n/a | n/a |
+| ELOG | ALERT | 7 | $0.51 | n/a | n/a | n/a | n/a |
 | BWMX | ALERT | 7 | $15.97 | n/a | n/a | n/a | n/a |
 | ODTX | ALERT | 7 | $17.90 | -6.0% | 18.9% | n/a | n/a |
 | VRM | ALERT | 7 | $10.70 | -33.9% | -7.6% | n/a | n/a |
@@ -232,13 +232,13 @@ Returns use free Yahoo adjusted closes and are for monitoring, not production-gr
 | RBKB | WATCH | 5 | $12.35 | 1.0% | n/a | n/a | n/a |
 | MKTW | WATCH | 5 | $16.83 | 0.8% | 6.8% | n/a | n/a |
 | BWMX | WATCH | 5 | $16.13 | -2.5% | n/a | n/a | n/a |
-| REFI | WATCH | 5 | $10.59 | n/a | n/a | n/a | n/a |
+| REFI | WATCH | 5 | $10.59 | 4.4% | n/a | n/a | n/a |
 | RBKB | WATCH | 5 | $12.35 | 1.0% | n/a | n/a | n/a |
 | BWMX | WATCH | 5 | $15.97 | n/a | n/a | n/a | n/a |
 | HNVR | WATCH | 5 | $26.31 | 2.6% | n/a | n/a | n/a |
 | RBKB | WATCH | 5 | $12.35 | 1.0% | n/a | n/a | n/a |
 | LOGC | WATCH | 5 | $9.66 | -10.7% | 32.7% | n/a | n/a |
-| REFI | WATCH | 5 | $10.59 | n/a | n/a | n/a | n/a |
+| REFI | WATCH | 5 | $10.59 | 4.4% | n/a | n/a | n/a |
 | XRN | WATCH | 5 | $36.95 | 0.2% | n/a | n/a | n/a |
 | VIDA | WATCH | 5 | $2.29 | 82.7% | 0.5% | n/a | n/a |
 | FNKO | WATCH | 5 | $6.38 | n/a | n/a | n/a | n/a |
