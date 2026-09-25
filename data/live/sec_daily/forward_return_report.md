@@ -1,6 +1,6 @@
 # Forward Return Audit
 
-Created at: `2026-09-24T01:36:14.439504+00:00`
+Created at: `2026-09-25T01:44:22.688069+00:00`
 
 Returns use free Yahoo adjusted closes and are for monitoring, not production-grade attribution.
 
@@ -138,7 +138,7 @@ Returns use free Yahoo adjusted closes and are for monitoring, not production-gr
 | DFH | ALERT | 7 | $14.84 | -12.2% | n/a | n/a | n/a |
 | ANGX | ALERT | 7 | $4.37 | 27.4% | n/a | n/a | n/a |
 | GBFH | ALERT | 7 | $20.39 | -0.4% | n/a | n/a | n/a |
-| FTH | ALERT | 7 | $22.87 | 26.5% | n/a | n/a | n/a |
+| FTH | ALERT | 7 | $22.87 | 26.5% | 21.5% | n/a | n/a |
 | GBFH | ALERT | 7 | $20.39 | -0.4% | n/a | n/a | n/a |
 | SMRT | ALERT | 7 | $1.11 | 2.8% | 23.0% | n/a | n/a |
 | CXIIU | ALERT | 7 | $10.10 | -5.6% | 3.5% | n/a | n/a |
@@ -159,6 +159,7 @@ Returns use free Yahoo adjusted closes and are for monitoring, not production-gr
 | FBRT | ALERT | 7 | $8.22 | -3.4% | -7.0% | n/a | n/a |
 | ANVS | ALERT | 7 | $2.23 | -20.7% | -22.3% | n/a | n/a |
 | ANGX | ALERT | 7 | $4.71 | 14.9% | n/a | n/a | n/a |
+| HHH | ALERT | 7 | $64.58 | n/a | n/a | n/a | n/a |
 | RGNX | ALERT | 7 | $9.37 | n/a | n/a | n/a | n/a |
 | ATEC | ALERT | 7 | $10.58 | n/a | n/a | n/a | n/a |
 | CDNL | ALERT | 7 | $39.23 | -14.9% | n/a | n/a | n/a |
@@ -267,7 +268,7 @@ Returns use free Yahoo adjusted closes and are for monitoring, not production-gr
 | SGI | WATCH | 5 | $62.48 | n/a | n/a | n/a | n/a |
 | GME | WATCH | 5 | $18.89 | n/a | n/a | n/a | n/a |
 | ALK | WATCH | 5 | $40.41 | 2.4% | n/a | n/a | n/a |
-| ADBE | WATCH | 5 | $202.73 | 15.9% | n/a | n/a | n/a |
+| ADBE | WATCH | 5 | $202.73 | 15.9% | 12.4% | n/a | n/a |
 | INTC | WATCH | 5 | $102.50 | -3.2% | n/a | n/a | n/a |
 | FCBM | WATCH | 4 | $12.58 | 1.0% | -2.8% | n/a | n/a |
 | NGL | WATCH | 4 | $17.20 | n/a | n/a | n/a | n/a |
