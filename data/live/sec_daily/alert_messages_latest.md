@@ -1,55 +1,22 @@
-[ALERT] CX - CEMEX SAB DE CV
+[ALERT] INR - INFINITY NATURAL RESOURCES, INC.
 
 Insider signal:
-- Insider: Zambrano Lozano Rogelio
-- Filed: 2026-09-25 22:47:27
-- Purchase value: $6,926,305
-- Insider VWAP: $17.28
-- Latest price: $9.71
-- Premium to insider VWAP: -43.8%
+- Insider: Baetz Cary D
+- Filed: 2026-09-28 22:01:09
+- Purchase value: $295,702
+- Insider VWAP: $13.44
+- Latest price: $12.53
+- Premium to insider VWAP: -6.8%
 
 Why flagged:
-- purchase value >= $2m ($6,926,305)
-- purchase value / ADV60 >= 5% (9.3%)
-- current price below insider VWAP (-43.8%)
-- stock down at least 15% from 52w high (-28.0%)
+- purchase value >= $100k ($295,702)
+- purchase value / ADV60 >= 5% (7.5%)
+- current price below insider VWAP (-6.8%)
+- stock down at least 30% from 52w high (-34.8%)
 
 Context:
-- Purchase / ADV60: 9.3%
-- 52w drawdown: -28.0%
-- Market cap: n/a
-- Purchase / market cap: n/a
-- Score: 8
-
-Caveats:
-- market cap unavailable
-
-Links:
-http://www.openinsider.com/CX
-https://finance.yahoo.com/quote/CX
-https://finviz.com/quote.ashx?t=CX
-
----
-
-[ALERT] MX - MAGNACHIP SEMICONDUCTOR Corp
-
-Insider signal:
-- Insider: LEE CHAE
-- Filed: 2026-09-25 20:15:03
-- Purchase value: $158,500
-- Insider VWAP: $3.17
-- Latest price: $3.30
-- Premium to insider VWAP: 4.1%
-
-Why flagged:
-- purchase value >= $100k ($158,500)
-- purchase value / ADV60 >= 5% (5.2%)
-- current price within 15% of insider VWAP (4.1%)
-- stock down at least 30% from 52w high (-63.0%)
-
-Context:
-- Purchase / ADV60: 5.2%
-- 52w drawdown: -63.0%
+- Purchase / ADV60: 7.5%
+- 52w drawdown: -34.8%
 - Market cap: n/a
 - Purchase / market cap: n/a
 - Score: 7
@@ -58,38 +25,39 @@ Caveats:
 - market cap unavailable
 
 Links:
-http://www.openinsider.com/MX
-https://finance.yahoo.com/quote/MX
-https://finviz.com/quote.ashx?t=MX
+http://www.openinsider.com/INR
+https://finance.yahoo.com/quote/INR
+https://finviz.com/quote.ashx?t=INR
 
 ---
 
-[WATCH] DLY - DoubleLine Yield Opportunities Fund
+[WATCH] AOMR - Angel Oak Mortgage REIT, Inc.
 
 Insider signal:
-- Insider: Sherman Jeffrey J.
-- Filed: 2026-09-25 21:19:48
-- Purchase value: $130,300
-- Insider VWAP: $13.03
-- Latest price: $13.11
-- Premium to insider VWAP: 0.6%
+- Insider: Fierman Michael
+- Filed: 2026-09-28 21:24:00
+- Purchase value: $290,511
+- Insider VWAP: $7.50
+- Latest price: $7.37
+- Premium to insider VWAP: -1.8%
 
 Why flagged:
-- purchase value >= $100k ($130,300)
-- purchase value / ADV60 >= 2% (4.9%)
-- current price within 15% of insider VWAP (0.6%)
+- purchase value >= $100k ($290,511)
+- purchase value / ADV60 >= 5% (25.7%)
+- current price below insider VWAP (-1.8%)
+- stock down at least 15% from 52w high (-17.2%)
 
 Context:
-- Purchase / ADV60: 4.9%
-- 52w drawdown: -6.5%
+- Purchase / ADV60: 25.7%
+- 52w drawdown: -17.2%
 - Market cap: n/a
 - Purchase / market cap: n/a
-- Score: 4
+- Score: 6
 
 Caveats:
 - market cap unavailable
 
 Links:
-http://www.openinsider.com/DLY
-https://finance.yahoo.com/quote/DLY
-https://finviz.com/quote.ashx?t=DLY
+http://www.openinsider.com/AOMR
+https://finance.yahoo.com/quote/AOMR
+https://finviz.com/quote.ashx?t=AOMR

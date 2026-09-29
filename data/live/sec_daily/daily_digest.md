@@ -1,9 +1,9 @@
 # Daily Insider Signal Digest
 
 - Lookback hours: 96
-- Form 4/4-A filings discovered: 254
-- Raw P/A transactions parsed: 39
-- Alert candidates: 2
+- Form 4/4-A filings discovered: 246
+- Raw P/A transactions parsed: 38
+- Alert candidates: 1
 - Watch candidates: 1
 - Archived candidates: 0
 
@@ -11,6 +11,5 @@
 
 | Tier | Ticker | Company | Score | Value | Value/ADV60 | Premium | Drawdown |
 | --- | --- | --- | ---: | ---: | ---: | ---: | ---: |
-| ALERT | CX | CEMEX SAB DE CV | 8 | $6,926,305 | 9.3% | -43.8% | -28.0% |
-| ALERT | MX | MAGNACHIP SEMICONDUCTOR Corp | 7 | $158,500 | 5.2% | 4.1% | -63.0% |
-| WATCH | DLY | DoubleLine Yield Opportunities Fund | 4 | $130,300 | 4.9% | 0.6% | -6.5% |
+| ALERT | INR | INFINITY NATURAL RESOURCES, INC. | 7 | $295,702 | 7.5% | -6.8% | -34.8% |
+| WATCH | AOMR | Angel Oak Mortgage REIT, Inc. | 6 | $290,511 | 25.7% | -1.8% | -17.2% |
