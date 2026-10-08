@@ -1,6 +1,6 @@
 # Forward Return Audit
 
-Created at: `2026-10-07T02:36:14.621377+00:00`
+Created at: `2026-10-08T02:49:47.288311+00:00`
 
 Returns use free Yahoo adjusted closes and are for monitoring, not production-grade attribution.
 
@@ -178,7 +178,7 @@ Returns use free Yahoo adjusted closes and are for monitoring, not production-gr
 | CDNL | ALERT | 7 | $39.23 | -14.9% | n/a | n/a | n/a |
 | CDNL | ALERT | 7 | $39.23 | -14.9% | n/a | n/a | n/a |
 | VFLEX | WATCH | 6 | $27.32 | -2.2% | -1.3% | n/a | n/a |
-| EWSB | WATCH | 6 | $9.95 | -0.4% | n/a | n/a | n/a |
+| EWSB | WATCH | 6 | $9.95 | -0.4% | -2.7% | n/a | n/a |
 | EWSB | WATCH | 6 | $10.95 | -8.9% | n/a | n/a | n/a |
 | PRTS | WATCH | 6 | $10.00 | n/a | n/a | n/a | n/a |
 | PRTS | WATCH | 6 | $10.00 | n/a | n/a | n/a | n/a |
@@ -243,10 +243,10 @@ Returns use free Yahoo adjusted closes and are for monitoring, not production-gr
 | BETR | WATCH | 6 | $25.03 | 4.9% | -51.8% | n/a | n/a |
 | DKS | WATCH | 6 | $133.82 | 0.5% | n/a | n/a | n/a |
 | ORCL | WATCH | 6 | $138.07 | n/a | n/a | n/a | n/a |
-| CCLFX | WATCH | 5 | $10.26 | -2.3% | n/a | n/a | n/a |
-| EWSB | WATCH | 5 | $9.95 | -0.4% | n/a | n/a | n/a |
+| CCLFX | WATCH | 5 | $10.26 | -2.3% | -4.2% | n/a | n/a |
+| EWSB | WATCH | 5 | $9.95 | -0.4% | -2.7% | n/a | n/a |
 | EWSB | WATCH | 5 | $10.95 | -8.9% | n/a | n/a | n/a |
-| EWSB | WATCH | 5 | $9.95 | -0.4% | n/a | n/a | n/a |
+| EWSB | WATCH | 5 | $9.95 | -0.4% | -2.7% | n/a | n/a |
 | EWSB | WATCH | 5 | $10.95 | -8.9% | n/a | n/a | n/a |
 | CLPR | WATCH | 5 | $3.39 | n/a | n/a | n/a | n/a |
 | UUU | WATCH | 5 | $6.46 | -25.6% | n/a | n/a | n/a |
