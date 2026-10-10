@@ -1,61 +1,64 @@
-[WATCH] IMMR - IMMERSION CORP
+[ALERT] BPRE - Bluerock Private Real Estate Fund
 
 Insider signal:
-- Insider: Singer Eric
-- Filed: 2026-10-08 22:07:30
-- Purchase value: $192,692
-- Insider VWAP: $7.15
-- Latest price: $7.14
-- Premium to insider VWAP: -0.1%
+- Insider: KAMFAR RAMIN
+- Filed: 2026-10-10 01:07:26
+- Purchase value: $8,501,527
+- Insider VWAP: $13.06
+- Latest price: $13.08
+- Premium to insider VWAP: 0.2%
 
 Why flagged:
-- purchase value >= $100k ($192,692)
-- purchase value / ADV60 >= 5% (5.4%)
-- current price below insider VWAP (-0.1%)
+- purchase value >= $2m ($8,501,527)
+- purchase value / ADV60 >= 5% (76.0%)
+- current price within 15% of insider VWAP (0.2%)
+- stock down at least 15% from 52w high (-23.5%)
+- multiple purchase rows in filing (4)
 
 Context:
-- Purchase / ADV60: 5.4%
-- 52w drawdown: -8.3%
+- Purchase / ADV60: 76.0%
+- 52w drawdown: -23.5%
 - Market cap: n/a
 - Purchase / market cap: n/a
-- Score: 5
+- Score: 9
 
 Caveats:
 - market cap unavailable
 
 Links:
-http://www.openinsider.com/IMMR
-https://finance.yahoo.com/quote/IMMR
-https://finviz.com/quote.ashx?t=IMMR
+http://www.openinsider.com/BPRE
+https://finance.yahoo.com/quote/BPRE
+https://finviz.com/quote.ashx?t=BPRE
 
 ---
 
-[WATCH] PHK - PIMCO HIGH INCOME FUND
+[ALERT] REF - Reformation Inc.
 
 Insider signal:
-- Insider: FLATTUM DAVID C
-- Filed: 2026-10-08 20:05:08
-- Purchase value: $249,245
-- Insider VWAP: $4.14
-- Latest price: $4.19
-- Premium to insider VWAP: 1.2%
+- Insider: Coyle John Joseph
+- Filed: 2026-10-10 01:18:38
+- Purchase value: $3,000,000
+- Insider VWAP: $15.00
+- Latest price: $13.66
+- Premium to insider VWAP: -8.9%
 
 Why flagged:
-- purchase value >= $100k ($249,245)
-- purchase value / ADV60 >= 2% (4.7%)
-- current price within 15% of insider VWAP (1.2%)
+- purchase value >= $2m ($3,000,000)
+- purchase value / ADV60 >= 5% (32.2%)
+- current price below insider VWAP (-8.9%)
+- stock down at least 15% from 52w high (-18.9%)
 
 Context:
-- Purchase / ADV60: 4.7%
-- 52w drawdown: -9.3%
+- Purchase / ADV60: 32.2%
+- 52w drawdown: -18.9%
 - Market cap: n/a
 - Purchase / market cap: n/a
-- Score: 4
+- Score: 8
 
 Caveats:
 - market cap unavailable
 
 Links:
-http://www.openinsider.com/PHK
-https://finance.yahoo.com/quote/PHK
-https://finviz.com/quote.ashx?t=PHK
+http://www.openinsider.com/REF
+https://finance.yahoo.com/quote/REF
+https://finviz.com/quote.ashx?t=REF
