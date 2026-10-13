@@ -11,5 +11,5 @@
 
 | Tier | Ticker | Company | Score | Value | Value/ADV60 | Premium | Drawdown |
 | --- | --- | --- | ---: | ---: | ---: | ---: | ---: |
-| ALERT | BPRE | Bluerock Private Real Estate Fund | 9 | $8,501,527 | 76.0% | 0.2% | -23.5% |
-| ALERT | REF | Reformation Inc. | 8 | $3,000,000 | 32.2% | -8.9% | -18.9% |
+| ALERT | BPRE | Bluerock Private Real Estate Fund | 9 | $8,501,527 | 76.5% | -0.7% | -24.1% |
+| ALERT | REF | Reformation Inc. | 8 | $3,000,000 | 32.4% | -6.1% | -16.4% |
