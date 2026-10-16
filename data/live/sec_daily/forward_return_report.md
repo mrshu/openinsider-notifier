@@ -1,6 +1,6 @@
 # Forward Return Audit
 
-Created at: `2026-10-15T01:39:39.124447+00:00`
+Created at: `2026-10-16T01:35:14.110330+00:00`
 
 Returns use free Yahoo adjusted closes and are for monitoring, not production-grade attribution.
 
@@ -115,7 +115,8 @@ Returns use free Yahoo adjusted closes and are for monitoring, not production-gr
 | VIDA | ALERT | 7 | $2.29 | 82.7% | 0.5% | n/a | n/a |
 | TXO | ALERT | 7 | $11.99 | 5.7% | 13.1% | n/a | n/a |
 | BRTMU | ALERT | 7 | $9.96 | -0.2% | n/a | n/a | n/a |
-| NPB | ALERT | 7 | $16.89 | -9.9% | n/a | n/a | n/a |
+| FLSC | ALERT | 7 | $10.49 | n/a | n/a | n/a | n/a |
+| NPB | ALERT | 7 | $16.86 | -9.9% | n/a | n/a | n/a |
 | CGON | ALERT | 7 | $73.73 | -4.7% | -9.2% | n/a | n/a |
 | MNR | ALERT | 7 | $10.97 | n/a | n/a | n/a | n/a |
 | KBDC | ALERT | 7 | $12.68 | n/a | n/a | n/a | n/a |
@@ -285,6 +286,7 @@ Returns use free Yahoo adjusted closes and are for monitoring, not production-gr
 | PLSE | WATCH | 5 | $19.08 | 32.9% | 112.7% | n/a | n/a |
 | PLSE | WATCH | 5 | $23.30 | 15.5% | 73.2% | n/a | n/a |
 | TXO | WATCH | 5 | $11.81 | 13.1% | 10.5% | n/a | n/a |
+| CXM | WATCH | 5 | $5.85 | n/a | n/a | n/a | n/a |
 | TNC | WATCH | 5 | $67.34 | 4.2% | n/a | n/a | n/a |
 | CECO | WATCH | 5 | $79.47 | 1.7% | -12.5% | n/a | n/a |
 | SENS | WATCH | 5 | $8.82 | 9.2% | n/a | n/a | n/a |
@@ -318,7 +320,7 @@ Returns use free Yahoo adjusted closes and are for monitoring, not production-gr
 | XRN | WATCH | 4 | $33.27 | 9.9% | 1.8% | n/a | n/a |
 | FCBM | WATCH | 4 | $12.58 | 1.0% | -2.8% | n/a | n/a |
 | PVH | WATCH | 4 | $70.64 | 13.5% | n/a | n/a | n/a |
-| BBD | ARCHIVE | 3 | $3.52 | n/a | n/a | n/a | n/a |
+| BBD | ARCHIVE | 3 | $3.45 | n/a | n/a | n/a | n/a |
 | DINO | ARCHIVE | 3 | $85.55 | 27.6% | n/a | n/a | n/a |
 | ITT | ARCHIVE | 3 | $193.89 | 3.7% | n/a | n/a | n/a |
 | IR | ARCHIVE | 3 | $89.98 | -15.2% | n/a | n/a | n/a |
