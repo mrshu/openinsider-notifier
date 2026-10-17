@@ -1,16 +1,16 @@
 # Daily SEC Insider Signal Scan
 
-Created at: `2026-10-16T01:33:53.846327+00:00`
+Created at: `2026-10-17T01:24:55.392104+00:00`
 - Lookback hours: 96
-- Form 4/4-A filings discovered: 255
-- Raw P/A transactions parsed: 26
-- Eligible purchases >= $100,000: 2
-- Monitor candidates: 2
-- Monitor episodes: 2
-- ALERT-tier episodes: 1
-- WATCH-tier episodes: 1
-- New ALERT/WATCH notifications: 2
-- Historical eligible purchases: 927
+- Form 4/4-A filings discovered: 258
+- Raw P/A transactions parsed: 18
+- Eligible purchases >= $100,000: 1
+- Monitor candidates: 0
+- Monitor episodes: 0
+- ALERT-tier episodes: 0
+- WATCH-tier episodes: 0
+- New ALERT/WATCH notifications: 0
+- Historical eligible purchases: 928
 - Historical candidates: 465
 - Historical candidate episodes: 318
 
