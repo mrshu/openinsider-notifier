@@ -1,6 +1,6 @@
 # Forward Return Audit
 
-Created at: `2026-10-20T01:59:52.408620+00:00`
+Created at: `2026-10-21T01:49:35.410899+00:00`
 
 Returns use free Yahoo adjusted closes and are for monitoring, not production-grade attribution.
 
@@ -21,7 +21,7 @@ Returns use free Yahoo adjusted closes and are for monitoring, not production-gr
 | NSP | ALERT | 10 | $27.91 | 24.8% | 82.2% | n/a | n/a |
 | REBN | ALERT | 9 | $1.34 | -44.1% | n/a | n/a | n/a |
 | HMMR | ALERT | 9 | $0.11 | 0.6% | 3.6% | n/a | n/a |
-| UUU | ALERT | 9 | $5.29 | n/a | n/a | n/a | n/a |
+| UUU | ALERT | 9 | $5.10 | n/a | n/a | n/a | n/a |
 | PETZ | ALERT | 9 | $1.15 | 13.4% | n/a | n/a | n/a |
 | GLOO | ALERT | 9 | $2.95 | 15.6% | 26.7% | n/a | n/a |
 | TXO | ALERT | 9 | $11.81 | 13.1% | 10.5% | n/a | n/a |
@@ -70,7 +70,7 @@ Returns use free Yahoo adjusted closes and are for monitoring, not production-gr
 | SKIL | ALERT | 8 | $6.11 | 7.5% | -21.3% | n/a | n/a |
 | REF | ALERT | 8 | $14.08 | n/a | n/a | n/a | n/a |
 | GBFH | ALERT | 8 | $20.39 | -0.4% | n/a | n/a | n/a |
-| PBLS | ALERT | 8 | $30.81 | 25.3% | n/a | n/a | n/a |
+| PBLS | ALERT | 8 | $30.81 | 25.3% | -15.3% | n/a | n/a |
 | KOD | ALERT | 8 | $94.80 | n/a | n/a | n/a | n/a |
 | ARTV | ALERT | 8 | $9.15 | 24.2% | -39.2% | n/a | n/a |
 | ANNX | ALERT | 8 | $5.42 | 4.6% | -5.3% | n/a | n/a |
@@ -136,7 +136,7 @@ Returns use free Yahoo adjusted closes and are for monitoring, not production-gr
 | NAKA | ALERT | 7 | $5.60 | -23.5% | 22.1% | n/a | n/a |
 | GLOO | ALERT | 7 | $3.33 | 12.1% | n/a | n/a | n/a |
 | AAT | ALERT | 7 | $22.39 | -4.6% | n/a | n/a | n/a |
-| CAPS | ALERT | 7 | $2.72 | -3.3% | n/a | n/a | n/a |
+| CAPS | ALERT | 7 | $0.23 | -20.7% | n/a | n/a | n/a |
 | NTHI | ALERT | 7 | $2.99 | -11.2% | n/a | n/a | n/a |
 | XIIIU | ALERT | 7 | $10.45 | 0.7% | n/a | n/a | n/a |
 | PRQR | ALERT | 7 | $1.88 | 18.8% | -33.0% | n/a | n/a |
@@ -201,7 +201,7 @@ Returns use free Yahoo adjusted closes and are for monitoring, not production-gr
 | GLBS | WATCH | 6 | $2.73 | 32.8% | 20.4% | n/a | n/a |
 | CLPR | WATCH | 6 | $3.15 | n/a | n/a | n/a | n/a |
 | AFCG | WATCH | 6 | $3.60 | n/a | n/a | n/a | n/a |
-| UUU | WATCH | 6 | $5.29 | 0.7% | n/a | n/a | n/a |
+| UUU | WATCH | 6 | $5.10 | 0.7% | n/a | n/a | n/a |
 | CLPR | WATCH | 6 | $3.23 | 0.2% | n/a | n/a | n/a |
 | DGAC | WATCH | 6 | $9.96 | 0.9% | n/a | n/a | n/a |
 | VIDA | WATCH | 6 | $2.29 | 82.7% | 0.5% | n/a | n/a |
@@ -251,7 +251,7 @@ Returns use free Yahoo adjusted closes and are for monitoring, not production-gr
 | LRMR | WATCH | 6 | $3.61 | 11.5% | -27.8% | n/a | n/a |
 | MBC | WATCH | 6 | $8.48 | 18.2% | -4.0% | n/a | n/a |
 | RWT | WATCH | 6 | $3.86 | -23.5% | n/a | n/a | n/a |
-| PWRL | WATCH | 6 | $14.20 | -14.6% | -25.7% | n/a | n/a |
+| PWRL | WATCH | 6 | $14.10 | -14.6% | -25.7% | n/a | n/a |
 | BETR | WATCH | 6 | $25.03 | 4.9% | -51.8% | n/a | n/a |
 | DKS | WATCH | 6 | $133.82 | 0.5% | n/a | n/a | n/a |
 | ORCL | WATCH | 6 | $137.56 | n/a | n/a | n/a | n/a |
@@ -262,7 +262,7 @@ Returns use free Yahoo adjusted closes and are for monitoring, not production-gr
 | EWSB | WATCH | 5 | $10.95 | -8.9% | -10.9% | n/a | n/a |
 | EP | WATCH | 5 | $3.39 | n/a | n/a | n/a | n/a |
 | CLPR | WATCH | 5 | $3.39 | -10.9% | n/a | n/a | n/a |
-| UUU | WATCH | 5 | $5.29 | -1.6% | n/a | n/a | n/a |
+| UUU | WATCH | 5 | $5.10 | -1.6% | n/a | n/a | n/a |
 | MKTW | WATCH | 5 | $16.83 | -4.7% | 5.3% | n/a | n/a |
 | PRTS | WATCH | 5 | $8.69 | -3.2% | n/a | n/a | n/a |
 | PRTS | WATCH | 5 | $9.31 | -8.9% | n/a | n/a | n/a |
@@ -278,13 +278,13 @@ Returns use free Yahoo adjusted closes and are for monitoring, not production-gr
 | RBKB | WATCH | 5 | $12.35 | 1.0% | n/a | n/a | n/a |
 | LOGC | WATCH | 5 | $9.66 | -10.7% | 32.7% | n/a | n/a |
 | REFI | WATCH | 5 | $10.12 | 4.4% | n/a | n/a | n/a |
-| XRN | WATCH | 5 | $36.78 | 0.2% | n/a | n/a | n/a |
+| XRN | WATCH | 5 | $36.59 | 0.2% | n/a | n/a | n/a |
 | VIDA | WATCH | 5 | $2.29 | 82.7% | 0.5% | n/a | n/a |
 | FNKO | WATCH | 5 | $6.38 | -14.7% | n/a | n/a | n/a |
 | LILA | WATCH | 5 | $8.55 | 5.9% | n/a | n/a | n/a |
 | BCML | WATCH | 5 | $30.20 | -1.3% | n/a | n/a | n/a |
 | RTSN | WATCH | 5 | $11.63 | n/a | n/a | n/a | n/a |
-| XRN | WATCH | 5 | $36.78 | 0.2% | n/a | n/a | n/a |
+| XRN | WATCH | 5 | $36.59 | 0.2% | n/a | n/a | n/a |
 | IMMR | WATCH | 5 | $7.07 | n/a | n/a | n/a | n/a |
 | SLRC | WATCH | 5 | $12.08 | -7.6% | n/a | n/a | n/a |
 | PLSE | WATCH | 5 | $19.08 | 32.9% | 112.7% | n/a | n/a |
@@ -319,9 +319,9 @@ Returns use free Yahoo adjusted closes and are for monitoring, not production-gr
 | FCBM | WATCH | 4 | $12.58 | 1.0% | -2.8% | n/a | n/a |
 | CRESY | WATCH | 4 | $11.22 | -3.9% | -3.9% | n/a | n/a |
 | RTSN | WATCH | 4 | $11.63 | n/a | n/a | n/a | n/a |
-| XRN | WATCH | 4 | $33.27 | 9.9% | 1.8% | n/a | n/a |
+| XRN | WATCH | 4 | $33.09 | 9.9% | 1.8% | n/a | n/a |
 | SSMR | WATCH | 4 | $14.79 | -16.4% | 15.5% | n/a | n/a |
-| XRN | WATCH | 4 | $33.27 | 9.9% | 1.8% | n/a | n/a |
+| XRN | WATCH | 4 | $33.09 | 9.9% | 1.8% | n/a | n/a |
 | FCBM | WATCH | 4 | $12.58 | 1.0% | -2.8% | n/a | n/a |
 | PVH | WATCH | 4 | $70.64 | 13.5% | n/a | n/a | n/a |
 | BBD | ARCHIVE | 3 | $3.45 | n/a | n/a | n/a | n/a |
