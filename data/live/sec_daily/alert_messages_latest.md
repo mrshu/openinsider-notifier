@@ -1,65 +1,30 @@
-[ALERT] BPRE - Bluerock Private Real Estate Fund
+[ALERT] RAPP - Rapport Therapeutics, Inc.
 
 Insider signal:
-- Insider: KAMFAR RAMIN
-- Filed: 2026-10-21 22:21:07
-- Purchase value: $3,345,006
-- Insider VWAP: $12.32
-- Latest price: $12.30
-- Premium to insider VWAP: -0.1%
+- Insider: PAUL STEVEN M
+- Filed: 2026-10-22 20:56:38
+- Purchase value: $974,278
+- Insider VWAP: $27.28
+- Latest price: $26.53
+- Premium to insider VWAP: -2.7%
 
 Why flagged:
-- purchase value >= $2m ($3,345,006)
-- purchase value / ADV60 >= 5% (30.5%)
-- current price below insider VWAP (-0.1%)
-- stock down at least 15% from 52w high (-27.3%)
-- multiple purchase rows in filing (3)
+- purchase value >= $100k ($974,278)
+- purchase value / ADV60 >= 5% (5.1%)
+- current price below insider VWAP (-2.7%)
+- stock down at least 30% from 52w high (-49.5%)
 
 Context:
-- Purchase / ADV60: 30.5%
-- 52w drawdown: -27.3%
+- Purchase / ADV60: 5.1%
+- 52w drawdown: -49.5%
 - Market cap: n/a
 - Purchase / market cap: n/a
-- Score: 9
+- Score: 7
 
 Caveats:
 - market cap unavailable
 
 Links:
-http://www.openinsider.com/BPRE
-https://finance.yahoo.com/quote/BPRE
-https://finviz.com/quote.ashx?t=BPRE
-
----
-
-[ALERT] FBK - FB Financial Corp
-
-Insider signal:
-- Insider: INGRAM ORRIN H II
-- Filed: 2026-10-21 23:24:01
-- Purchase value: $1,537,788
-- Insider VWAP: $52.88
-- Latest price: $52.10
-- Premium to insider VWAP: -1.5%
-
-Why flagged:
-- purchase value >= $1m ($1,537,788)
-- purchase value / ADV60 >= 5% (5.8%)
-- current price below insider VWAP (-1.5%)
-- stock down at least 15% from 52w high (-16.1%)
-- multiple purchase rows in filing (2)
-
-Context:
-- Purchase / ADV60: 5.8%
-- 52w drawdown: -16.1%
-- Market cap: n/a
-- Purchase / market cap: n/a
-- Score: 8
-
-Caveats:
-- market cap unavailable
-
-Links:
-http://www.openinsider.com/FBK
-https://finance.yahoo.com/quote/FBK
-https://finviz.com/quote.ashx?t=FBK
+http://www.openinsider.com/RAPP
+https://finance.yahoo.com/quote/RAPP
+https://finviz.com/quote.ashx?t=RAPP
