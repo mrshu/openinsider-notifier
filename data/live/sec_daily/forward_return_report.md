@@ -1,6 +1,6 @@
 # Forward Return Audit
 
-Created at: `2026-10-29T02:38:28.123759+00:00`
+Created at: `2026-10-30T02:46:57.261322+00:00`
 
 Returns use free Yahoo adjusted closes and are for monitoring, not production-grade attribution.
 
@@ -33,7 +33,7 @@ Returns use free Yahoo adjusted closes and are for monitoring, not production-gr
 | BPRE | ALERT | 9 | $12.83 | n/a | n/a | n/a | n/a |
 | BPRE | ALERT | 9 | $12.41 | n/a | n/a | n/a | n/a |
 | BPRE | ALERT | 9 | $12.48 | n/a | n/a | n/a | n/a |
-| BPRE | ALERT | 9 | $12.36 | n/a | n/a | n/a | n/a |
+| BPRE | ALERT | 9 | $12.36 | 0.9% | n/a | n/a | n/a |
 | AUGO | ALERT | 9 | $79.04 | -0.8% | n/a | n/a | n/a |
 | BPRE | ALERT | 9 | $12.59 | n/a | n/a | n/a | n/a |
 | BPRE | ALERT | 9 | $12.30 | n/a | n/a | n/a | n/a |
@@ -42,7 +42,7 @@ Returns use free Yahoo adjusted closes and are for monitoring, not production-gr
 | BLND | ALERT | 9 | $1.56 | 13.5% | -7.4% | n/a | n/a |
 | BPRE | ALERT | 9 | $12.11 | n/a | n/a | n/a | n/a |
 | BPRE | ALERT | 9 | $12.43 | n/a | n/a | n/a | n/a |
-| BPRE | ALERT | 9 | $12.36 | n/a | n/a | n/a | n/a |
+| BPRE | ALERT | 9 | $12.36 | 0.9% | n/a | n/a | n/a |
 | BLND | ALERT | 9 | $1.47 | 14.2% | -3.2% | n/a | n/a |
 | SRRK | ALERT | 9 | $42.49 | n/a | n/a | n/a | n/a |
 | NTSK | ALERT | 9 | $12.32 | 24.8% | 56.4% | n/a | n/a |
@@ -100,10 +100,10 @@ Returns use free Yahoo adjusted closes and are for monitoring, not production-gr
 | XBP | ALERT | 7 | $3.18 | -11.8% | n/a | n/a | n/a |
 | FUND | ALERT | 7 | $9.61 | n/a | n/a | n/a | n/a |
 | XBIT | ALERT | 7 | $1.99 | n/a | n/a | n/a | n/a |
-| HWH | ALERT | 7 | $2.33 | -2.3% | -4.2% | n/a | n/a |
+| HWH | ALERT | 7 | $2.68 | -2.3% | -4.2% | n/a | n/a |
 | CITR | ALERT | 7 | $2.64 | n/a | n/a | n/a | n/a |
 | ATRA | ALERT | 7 | $9.76 | -4.5% | n/a | n/a | n/a |
-| XAIR | ALERT | 7 | $5.28 | -27.4% | n/a | n/a | n/a |
+| XAIR | ALERT | 7 | $5.28 | -27.4% | -59.5% | n/a | n/a |
 | CLPR | ALERT | 7 | $3.25 | 5.5% | n/a | n/a | n/a |
 | GWRS | ALERT | 7 | $8.83 | -6.3% | n/a | n/a | n/a |
 | ONMD | ALERT | 7 | $6.25 | 10.7% | n/a | n/a | n/a |
@@ -151,6 +151,7 @@ Returns use free Yahoo adjusted closes and are for monitoring, not production-gr
 | CAPS | ALERT | 7 | $6.90 | -20.7% | -66.3% | n/a | n/a |
 | NTHI | ALERT | 7 | $2.99 | -11.2% | n/a | n/a | n/a |
 | XIIIU | ALERT | 7 | $10.45 | 0.7% | n/a | n/a | n/a |
+| SCQCU | ALERT | 7 | $9.98 | n/a | n/a | n/a | n/a |
 | PRQR | ALERT | 7 | $1.88 | 18.8% | -33.0% | n/a | n/a |
 | NSLR | ALERT | 7 | $10.26 | -23.4% | n/a | n/a | n/a |
 | CDZI | ALERT | 7 | $4.38 | -9.9% | -9.8% | n/a | n/a |
@@ -175,10 +176,10 @@ Returns use free Yahoo adjusted closes and are for monitoring, not production-gr
 | CTNT | ALERT | 7 | $2.43 | n/a | n/a | n/a | n/a |
 | CXIIU | ALERT | 7 | $10.10 | -5.6% | 3.5% | -4.0% | n/a |
 | PAL | ALERT | 7 | $5.89 | -14.4% | n/a | n/a | n/a |
-| ARTV | ALERT | 7 | $10.10 | 9.2% | n/a | n/a | n/a |
+| ARTV | ALERT | 7 | $10.10 | 9.2% | -61.4% | n/a | n/a |
 | INR | ALERT | 7 | $12.53 | 15.2% | n/a | n/a | n/a |
-| ZONE | ALERT | 7 | $0.12 | n/a | n/a | n/a | n/a |
-| GME | ALERT | 7 | $23.76 | n/a | n/a | n/a | n/a |
+| ZONE | ALERT | 7 | $0.09 | n/a | n/a | n/a | n/a |
+| GME | ALERT | 7 | $23.76 | 0.3% | n/a | n/a | n/a |
 | ENHA | ALERT | 7 | $15.80 | -9.1% | n/a | n/a | n/a |
 | ENHA | ALERT | 7 | $16.20 | -25.2% | n/a | n/a | n/a |
 | PLYX | ALERT | 7 | $3.27 | -20.8% | -37.7% | n/a | n/a |
@@ -344,4 +345,6 @@ Returns use free Yahoo adjusted closes and are for monitoring, not production-gr
 | BBD | ARCHIVE | 3 | $3.45 | n/a | n/a | n/a | n/a |
 | DINO | ARCHIVE | 3 | $85.55 | 27.6% | n/a | n/a | n/a |
 | ITT | ARCHIVE | 3 | $193.89 | 3.7% | n/a | n/a | n/a |
+| DINO | ARCHIVE | 3 | $111.89 | n/a | n/a | n/a | n/a |
+| TFC | ARCHIVE | 3 | $49.32 | n/a | n/a | n/a | n/a |
 | IR | ARCHIVE | 3 | $89.98 | -15.2% | n/a | n/a | n/a |
