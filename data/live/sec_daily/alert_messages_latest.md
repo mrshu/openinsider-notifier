@@ -1,189 +1,88 @@
-[ALERT] FUN - Six Flags Entertainment Corporation/NEW
+[WATCH] LRMR - Larimar Therapeutics, Inc.
 
 Insider signal:
-- Insider: JAFFER REHAN
-- Filed: 2026-11-10 22:43:47
-- Purchase value: $14,929,000
-- Insider VWAP: $10.30
-- Latest price: $11.10
-- Premium to insider VWAP: 7.8%
+- Insider: Hamilton Thomas Edward
+- Filed: 2026-11-13 02:32:19
+- Purchase value: $187,082
+- Insider VWAP: $2.67
+- Latest price: $2.70
+- Premium to insider VWAP: 1.0%
 
 Why flagged:
-- purchase value >= $2m ($14,929,000)
-- purchase value / ADV60 >= 5% (35.2%)
-- current price within 15% of insider VWAP (7.8%)
-- stock down at least 30% from 52w high (-55.5%)
-- multiple purchase rows in filing (3)
+- purchase value >= $100k ($187,082)
+- purchase value / ADV60 >= 2% (4.7%)
+- current price within 15% of insider VWAP (1.0%)
+- stock down at least 30% from 52w high (-54.6%)
 
 Context:
-- Purchase / ADV60: 35.2%
-- 52w drawdown: -55.5%
+- Purchase / ADV60: 4.7%
+- 52w drawdown: -54.6%
 - Market cap: n/a
 - Purchase / market cap: n/a
-- Score: 10
+- Score: 6
 
 Caveats:
 - market cap unavailable
 
 Links:
-http://www.openinsider.com/FUN
-https://finance.yahoo.com/quote/FUN
-https://finviz.com/quote.ashx?t=FUN
+http://www.openinsider.com/LRMR
+https://finance.yahoo.com/quote/LRMR
+https://finviz.com/quote.ashx?t=LRMR
 
 ---
 
-[ALERT] TXO - TXO Partners, L.P.
+[WATCH] HPP - Hudson Pacific Properties, Inc.
 
 Insider signal:
-- Insider: SIMPSON BOB R
-- Filed: 2026-11-10 21:57:23
-- Purchase value: $3,078,749
-- Insider VWAP: $13.22
-- Latest price: $13.94
-- Premium to insider VWAP: 5.4%
+- Insider: COLEMAN VICTOR J
+- Filed: 2026-11-13 01:43:41
+- Purchase value: $182,000
+- Insider VWAP: $9.10
+- Latest price: $8.80
+- Premium to insider VWAP: -3.3%
 
 Why flagged:
-- purchase value >= $2m ($3,078,749)
-- purchase value / ADV60 >= 5% (146.7%)
-- current price within 15% of insider VWAP (5.4%)
-- multiple purchase rows in filing (3)
+- purchase value >= $100k ($182,000)
+- purchase value / ADV60 >= 2% (2.2%)
+- current price below insider VWAP (-3.3%)
+- stock down at least 30% from 52w high (-48.0%)
 
 Context:
-- Purchase / ADV60: 146.7%
-- 52w drawdown: -9.7%
+- Purchase / ADV60: 2.2%
+- 52w drawdown: -48.0%
 - Market cap: n/a
 - Purchase / market cap: n/a
-- Score: 8
+- Score: 6
 
 Caveats:
 - market cap unavailable
 
 Links:
-http://www.openinsider.com/TXO
-https://finance.yahoo.com/quote/TXO
-https://finviz.com/quote.ashx?t=TXO
+http://www.openinsider.com/HPP
+https://finance.yahoo.com/quote/HPP
+https://finviz.com/quote.ashx?t=HPP
 
 ---
 
-[ALERT] DTI - Drilling Tools International Corp
+[WATCH] ASR - SOUTHEAST AIRPORT GROUP
 
 Insider signal:
-- Insider: Prejean Robert Wayne
-- Filed: 2026-11-10 22:06:32
-- Purchase value: $164,300
-- Insider VWAP: $1.64
-- Latest price: $1.61
-- Premium to insider VWAP: -2.0%
+- Insider: Perez Anton Jose Antonio
+- Filed: 2026-11-13 02:36:26
+- Purchase value: $477,648
+- Insider VWAP: $265.36
+- Latest price: $271.73
+- Premium to insider VWAP: 2.4%
 
 Why flagged:
-- purchase value >= $100k ($164,300)
-- purchase value / ADV60 >= 5% (36.3%)
-- current price below insider VWAP (-2.0%)
-- stock down at least 30% from 52w high (-64.1%)
+- purchase value >= $100k ($477,648)
+- purchase value / ADV60 >= 2% (3.1%)
+- current price within 15% of insider VWAP (2.4%)
+- stock down at least 15% from 52w high (-27.4%)
 
 Context:
-- Purchase / ADV60: 36.3%
-- 52w drawdown: -64.1%
-- Market cap: n/a
-- Purchase / market cap: n/a
-- Score: 7
-
-Caveats:
-- market cap unavailable
-
-Links:
-http://www.openinsider.com/DTI
-https://finance.yahoo.com/quote/DTI
-https://finviz.com/quote.ashx?t=DTI
-
----
-
-[ALERT] ETRA - Electra Therapeutics, Inc.
-
-Insider signal:
-- Insider: ORBIMED ADVISORS LLC; OrbiMed Capital GP VII LLC; OrbiMed Genesis GP LLC
-- Filed: 2026-11-11 01:09:58
-- Purchase value: $306,755
-- Insider VWAP: $8.36
-- Latest price: $9.45
-- Premium to insider VWAP: 13.1%
-
-Why flagged:
-- purchase value >= $100k ($306,755)
-- purchase value / ADV60 >= 2% (4.9%)
-- current price within 15% of insider VWAP (13.1%)
-- stock down at least 30% from 52w high (-32.1%)
-- multiple purchase rows in filing (2)
-
-Context:
-- Purchase / ADV60: 4.9%
-- 52w drawdown: -32.1%
-- Market cap: n/a
-- Purchase / market cap: n/a
-- Score: 7
-
-Caveats:
-- market cap unavailable
-
-Links:
-http://www.openinsider.com/ETRA
-https://finance.yahoo.com/quote/ETRA
-https://finviz.com/quote.ashx?t=ETRA
-
----
-
-[ALERT] ETRA - Electra Therapeutics, Inc.
-
-Insider signal:
-- Insider: GORDON CARL L
-- Filed: 2026-11-11 01:14:08
-- Purchase value: $306,755
-- Insider VWAP: $8.36
-- Latest price: $9.45
-- Premium to insider VWAP: 13.1%
-
-Why flagged:
-- purchase value >= $100k ($306,755)
-- purchase value / ADV60 >= 2% (4.9%)
-- current price within 15% of insider VWAP (13.1%)
-- stock down at least 30% from 52w high (-32.1%)
-- multiple purchase rows in filing (2)
-
-Context:
-- Purchase / ADV60: 4.9%
-- 52w drawdown: -32.1%
-- Market cap: n/a
-- Purchase / market cap: n/a
-- Score: 7
-
-Caveats:
-- market cap unavailable
-
-Links:
-http://www.openinsider.com/ETRA
-https://finance.yahoo.com/quote/ETRA
-https://finviz.com/quote.ashx?t=ETRA
-
----
-
-[WATCH] BSM - Black Stone Minerals, L.P.
-
-Insider signal:
-- Insider: Carter Thomas L Jr
-- Filed: 2026-11-10 22:16:58
-- Purchase value: $686,290
-- Insider VWAP: $13.73
-- Latest price: $13.98
-- Premium to insider VWAP: 1.9%
-
-Why flagged:
-- purchase value >= $100k ($686,290)
-- purchase value / ADV60 >= 5% (10.9%)
-- current price within 15% of insider VWAP (1.9%)
-
-Context:
-- Purchase / ADV60: 10.9%
-- 52w drawdown: -5.5%
+- Purchase / ADV60: 3.1%
+- 52w drawdown: -27.4%
 - Market cap: n/a
 - Purchase / market cap: n/a
 - Score: 5
@@ -192,6 +91,103 @@ Caveats:
 - market cap unavailable
 
 Links:
-http://www.openinsider.com/BSM
-https://finance.yahoo.com/quote/BSM
-https://finviz.com/quote.ashx?t=BSM
+http://www.openinsider.com/ASR
+https://finance.yahoo.com/quote/ASR
+https://finviz.com/quote.ashx?t=ASR
+
+---
+
+[WATCH] VISN - Vistance Networks, Inc.
+
+Insider signal:
+- Insider: Watts Claudius E. IV
+- Filed: 2026-11-13 01:14:46
+- Purchase value: $831,060
+- Insider VWAP: $4.16
+- Latest price: $4.00
+- Premium to insider VWAP: -3.7%
+
+Why flagged:
+- purchase value >= $100k ($831,060)
+- purchase value / ADV60 >= 2% (2.4%)
+- current price below insider VWAP (-3.7%)
+- stock down at least 15% from 52w high (-25.1%)
+
+Context:
+- Purchase / ADV60: 2.4%
+- 52w drawdown: -25.1%
+- Market cap: n/a
+- Purchase / market cap: n/a
+- Score: 5
+
+Caveats:
+- market cap unavailable
+
+Links:
+http://www.openinsider.com/VISN
+https://finance.yahoo.com/quote/VISN
+https://finviz.com/quote.ashx?t=VISN
+
+---
+
+[WATCH] TEAM - Atlassian Corp
+
+Insider signal:
+- Insider: Cannon-Brookes Michael
+- Filed: 2026-11-12 22:16:47
+- Purchase value: $1,497,212
+- Insider VWAP: $149.72
+- Latest price: $152.29
+- Premium to insider VWAP: 1.7%
+
+Why flagged:
+- purchase value >= $1m ($1,497,212)
+- current price within 15% of insider VWAP (1.7%)
+- stock down at least 30% from 52w high (-33.1%)
+
+Context:
+- Purchase / ADV60: 0.2%
+- 52w drawdown: -33.1%
+- Market cap: n/a
+- Purchase / market cap: n/a
+- Score: 5
+
+Caveats:
+- market cap unavailable
+
+Links:
+http://www.openinsider.com/TEAM
+https://finance.yahoo.com/quote/TEAM
+https://finviz.com/quote.ashx?t=TEAM
+
+---
+
+[WATCH] BLMN - Bloomin' Brands, Inc.
+
+Insider signal:
+- Insider: Spanos Mike
+- Filed: 2026-11-12 23:16:23
+- Purchase value: $502,000
+- Insider VWAP: $10.04
+- Latest price: $10.12
+- Premium to insider VWAP: 0.8%
+
+Why flagged:
+- purchase value >= $100k ($502,000)
+- purchase value / ADV60 >= 2% (2.2%)
+- current price within 15% of insider VWAP (0.8%)
+
+Context:
+- Purchase / ADV60: 2.2%
+- 52w drawdown: -14.6%
+- Market cap: n/a
+- Purchase / market cap: n/a
+- Score: 4
+
+Caveats:
+- market cap unavailable
+
+Links:
+http://www.openinsider.com/BLMN
+https://finance.yahoo.com/quote/BLMN
+https://finviz.com/quote.ashx?t=BLMN
