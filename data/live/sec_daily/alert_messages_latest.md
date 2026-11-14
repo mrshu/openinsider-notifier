@@ -1,22 +1,156 @@
-[WATCH] LRMR - Larimar Therapeutics, Inc.
+[ALERT] STWD - STARWOOD PROPERTY TRUST, INC.
 
 Insider signal:
-- Insider: Hamilton Thomas Edward
-- Filed: 2026-11-13 02:32:19
-- Purchase value: $187,082
-- Insider VWAP: $2.67
-- Latest price: $2.70
-- Premium to insider VWAP: 1.0%
+- Insider: STERNLICHT BARRY S
+- Filed: 2026-11-14 02:19:42
+- Purchase value: $14,697,682
+- Insider VWAP: $11.81
+- Latest price: $11.34
+- Premium to insider VWAP: -3.9%
 
 Why flagged:
-- purchase value >= $100k ($187,082)
-- purchase value / ADV60 >= 2% (4.7%)
-- current price within 15% of insider VWAP (1.0%)
-- stock down at least 30% from 52w high (-54.6%)
+- purchase value >= $2m ($14,697,682)
+- purchase value / ADV60 >= 5% (19.5%)
+- current price below insider VWAP (-3.9%)
+- stock down at least 30% from 52w high (-34.3%)
+- multiple purchase rows in filing (2)
 
 Context:
-- Purchase / ADV60: 4.7%
-- 52w drawdown: -54.6%
+- Purchase / ADV60: 19.5%
+- 52w drawdown: -34.3%
+- Market cap: n/a
+- Purchase / market cap: n/a
+- Score: 10
+
+Caveats:
+- market cap unavailable
+
+Links:
+http://www.openinsider.com/STWD
+https://finance.yahoo.com/quote/STWD
+https://finviz.com/quote.ashx?t=STWD
+
+---
+
+[ALERT] STWD - STARWOOD PROPERTY TRUST, INC.
+
+Insider signal:
+- Insider: Pollack Jonathan Lee
+- Filed: 2026-11-14 02:21:30
+- Purchase value: $2,013,450
+- Insider VWAP: $11.86
+- Latest price: $11.34
+- Premium to insider VWAP: -4.4%
+
+Why flagged:
+- purchase value >= $2m ($2,013,450)
+- purchase value / ADV60 >= 2% (2.7%)
+- current price below insider VWAP (-4.4%)
+- stock down at least 30% from 52w high (-34.3%)
+- multiple purchase rows in filing (2)
+
+Context:
+- Purchase / ADV60: 2.7%
+- 52w drawdown: -34.3%
+- Market cap: n/a
+- Purchase / market cap: n/a
+- Score: 9
+
+Caveats:
+- market cap unavailable
+
+Links:
+http://www.openinsider.com/STWD
+https://finance.yahoo.com/quote/STWD
+https://finviz.com/quote.ashx?t=STWD
+
+---
+
+[ALERT] NXGL - NEXGEL, INC.
+
+Insider signal:
+- Insider: Kieser Brian Joseph
+- Filed: 2026-11-14 02:59:13
+- Purchase value: $732,688
+- Insider VWAP: $5.50
+- Latest price: $3.88
+- Premium to insider VWAP: -29.5%
+
+Why flagged:
+- purchase value >= $100k ($732,688)
+- purchase value / ADV60 >= 5% (114.0%)
+- current price below insider VWAP (-29.5%)
+- stock down at least 30% from 52w high (-89.8%)
+
+Context:
+- Purchase / ADV60: 114.0%
+- 52w drawdown: -89.8%
+- Market cap: n/a
+- Purchase / market cap: n/a
+- Score: 7
+
+Caveats:
+- market cap unavailable
+
+Links:
+http://www.openinsider.com/NXGL
+https://finance.yahoo.com/quote/NXGL
+https://finviz.com/quote.ashx?t=NXGL
+
+---
+
+[ALERT] NTHI - NEONC TECHNOLOGIES HOLDINGS, INC.
+
+Insider signal:
+- Insider: Heshmatpour Amir F
+- Filed: 2026-11-13 22:33:32
+- Purchase value: $150,501
+- Insider VWAP: $5.02
+- Latest price: $4.91
+- Premium to insider VWAP: -2.1%
+
+Why flagged:
+- purchase value >= $100k ($150,501)
+- purchase value / ADV60 >= 5% (23.4%)
+- current price below insider VWAP (-2.1%)
+- stock down at least 30% from 52w high (-54.3%)
+
+Context:
+- Purchase / ADV60: 23.4%
+- 52w drawdown: -54.3%
+- Market cap: n/a
+- Purchase / market cap: n/a
+- Score: 7
+
+Caveats:
+- market cap unavailable
+
+Links:
+http://www.openinsider.com/NTHI
+https://finance.yahoo.com/quote/NTHI
+https://finviz.com/quote.ashx?t=NTHI
+
+---
+
+[WATCH] CTEV - Claritev Corp
+
+Insider signal:
+- Insider: Dalton Travis
+- Filed: 2026-11-13 22:45:29
+- Purchase value: $149,927
+- Insider VWAP: $29.34
+- Latest price: $26.82
+- Premium to insider VWAP: -8.6%
+
+Why flagged:
+- purchase value >= $100k ($149,927)
+- purchase value / ADV60 >= 2% (2.7%)
+- current price below insider VWAP (-8.6%)
+- stock down at least 30% from 52w high (-51.1%)
+
+Context:
+- Purchase / ADV60: 2.7%
+- 52w drawdown: -51.1%
 - Market cap: n/a
 - Purchase / market cap: n/a
 - Score: 6
@@ -25,31 +159,31 @@ Caveats:
 - market cap unavailable
 
 Links:
-http://www.openinsider.com/LRMR
-https://finance.yahoo.com/quote/LRMR
-https://finviz.com/quote.ashx?t=LRMR
+http://www.openinsider.com/CTEV
+https://finance.yahoo.com/quote/CTEV
+https://finviz.com/quote.ashx?t=CTEV
 
 ---
 
-[WATCH] HPP - Hudson Pacific Properties, Inc.
+[WATCH] IOND - Ionic Digital Inc.
 
 Insider signal:
-- Insider: COLEMAN VICTOR J
-- Filed: 2026-11-13 01:43:41
-- Purchase value: $182,000
-- Insider VWAP: $9.10
-- Latest price: $8.80
-- Premium to insider VWAP: -3.3%
+- Insider: Abbate Michael
+- Filed: 2026-11-13 23:59:10
+- Purchase value: $827,037
+- Insider VWAP: $66.20
+- Latest price: $59.84
+- Premium to insider VWAP: -9.6%
 
 Why flagged:
-- purchase value >= $100k ($182,000)
-- purchase value / ADV60 >= 2% (2.2%)
-- current price below insider VWAP (-3.3%)
-- stock down at least 30% from 52w high (-48.0%)
+- purchase value >= $100k ($827,037)
+- purchase value / ADV60 >= 2% (2.0%)
+- current price below insider VWAP (-9.6%)
+- stock down at least 30% from 52w high (-30.9%)
 
 Context:
-- Purchase / ADV60: 2.2%
-- 52w drawdown: -48.0%
+- Purchase / ADV60: 2.0%
+- 52w drawdown: -30.9%
 - Market cap: n/a
 - Purchase / market cap: n/a
 - Score: 6
@@ -58,31 +192,30 @@ Caveats:
 - market cap unavailable
 
 Links:
-http://www.openinsider.com/HPP
-https://finance.yahoo.com/quote/HPP
-https://finviz.com/quote.ashx?t=HPP
+http://www.openinsider.com/IOND
+https://finance.yahoo.com/quote/IOND
+https://finviz.com/quote.ashx?t=IOND
 
 ---
 
-[WATCH] ASR - SOUTHEAST AIRPORT GROUP
+[WATCH] UPST - Upstart Holdings, Inc.
 
 Insider signal:
-- Insider: Perez Anton Jose Antonio
-- Filed: 2026-11-13 02:36:26
-- Purchase value: $477,648
-- Insider VWAP: $265.36
-- Latest price: $271.73
-- Premium to insider VWAP: 2.4%
+- Insider: Gu Paul
+- Filed: 2026-11-13 22:38:15
+- Purchase value: $1,028,400
+- Insider VWAP: $20.57
+- Latest price: $19.56
+- Premium to insider VWAP: -4.9%
 
 Why flagged:
-- purchase value >= $100k ($477,648)
-- purchase value / ADV60 >= 2% (3.1%)
-- current price within 15% of insider VWAP (2.4%)
-- stock down at least 15% from 52w high (-27.4%)
+- purchase value >= $1m ($1,028,400)
+- current price below insider VWAP (-4.9%)
+- stock down at least 30% from 52w high (-61.4%)
 
 Context:
-- Purchase / ADV60: 3.1%
-- 52w drawdown: -27.4%
+- Purchase / ADV60: 0.9%
+- 52w drawdown: -61.4%
 - Market cap: n/a
 - Purchase / market cap: n/a
 - Score: 5
@@ -91,103 +224,6 @@ Caveats:
 - market cap unavailable
 
 Links:
-http://www.openinsider.com/ASR
-https://finance.yahoo.com/quote/ASR
-https://finviz.com/quote.ashx?t=ASR
-
----
-
-[WATCH] VISN - Vistance Networks, Inc.
-
-Insider signal:
-- Insider: Watts Claudius E. IV
-- Filed: 2026-11-13 01:14:46
-- Purchase value: $831,060
-- Insider VWAP: $4.16
-- Latest price: $4.00
-- Premium to insider VWAP: -3.7%
-
-Why flagged:
-- purchase value >= $100k ($831,060)
-- purchase value / ADV60 >= 2% (2.4%)
-- current price below insider VWAP (-3.7%)
-- stock down at least 15% from 52w high (-25.1%)
-
-Context:
-- Purchase / ADV60: 2.4%
-- 52w drawdown: -25.1%
-- Market cap: n/a
-- Purchase / market cap: n/a
-- Score: 5
-
-Caveats:
-- market cap unavailable
-
-Links:
-http://www.openinsider.com/VISN
-https://finance.yahoo.com/quote/VISN
-https://finviz.com/quote.ashx?t=VISN
-
----
-
-[WATCH] TEAM - Atlassian Corp
-
-Insider signal:
-- Insider: Cannon-Brookes Michael
-- Filed: 2026-11-12 22:16:47
-- Purchase value: $1,497,212
-- Insider VWAP: $149.72
-- Latest price: $152.29
-- Premium to insider VWAP: 1.7%
-
-Why flagged:
-- purchase value >= $1m ($1,497,212)
-- current price within 15% of insider VWAP (1.7%)
-- stock down at least 30% from 52w high (-33.1%)
-
-Context:
-- Purchase / ADV60: 0.2%
-- 52w drawdown: -33.1%
-- Market cap: n/a
-- Purchase / market cap: n/a
-- Score: 5
-
-Caveats:
-- market cap unavailable
-
-Links:
-http://www.openinsider.com/TEAM
-https://finance.yahoo.com/quote/TEAM
-https://finviz.com/quote.ashx?t=TEAM
-
----
-
-[WATCH] BLMN - Bloomin' Brands, Inc.
-
-Insider signal:
-- Insider: Spanos Mike
-- Filed: 2026-11-12 23:16:23
-- Purchase value: $502,000
-- Insider VWAP: $10.04
-- Latest price: $10.12
-- Premium to insider VWAP: 0.8%
-
-Why flagged:
-- purchase value >= $100k ($502,000)
-- purchase value / ADV60 >= 2% (2.2%)
-- current price within 15% of insider VWAP (0.8%)
-
-Context:
-- Purchase / ADV60: 2.2%
-- 52w drawdown: -14.6%
-- Market cap: n/a
-- Purchase / market cap: n/a
-- Score: 4
-
-Caveats:
-- market cap unavailable
-
-Links:
-http://www.openinsider.com/BLMN
-https://finance.yahoo.com/quote/BLMN
-https://finviz.com/quote.ashx?t=BLMN
+http://www.openinsider.com/UPST
+https://finance.yahoo.com/quote/UPST
+https://finviz.com/quote.ashx?t=UPST
