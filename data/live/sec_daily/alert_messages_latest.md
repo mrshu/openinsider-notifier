@@ -1,124 +1,56 @@
-[ALERT] ANAB - ANAPTYSBIO, INC
+[ALERT] FBIO - Fortress Biotech, Inc.
 
 Insider signal:
-- Insider: EcoR1 Capital, LLC; NODELMAN OLEG
-- Filed: 2026-11-18 23:56:28
-- Purchase value: $17,224,593
-- Insider VWAP: $45.98
-- Latest price: $47.06
-- Premium to insider VWAP: 2.3%
+- Insider: ROSENWALD LINDSAY A MD
+- Filed: 2026-11-19 22:59:04
+- Purchase value: $220,143
+- Insider VWAP: $1.85
+- Latest price: $1.77
+- Premium to insider VWAP: -4.1%
 
 Why flagged:
-- purchase value >= $2m ($17,224,593)
-- purchase value / ADV60 >= 5% (68.5%)
-- current price within 15% of insider VWAP (2.3%)
-- stock down at least 30% from 52w high (-32.6%)
-- multiple purchase rows in filing (3)
+- purchase value >= $100k ($220,143)
+- purchase value / ADV60 >= 5% (38.0%)
+- current price below insider VWAP (-4.1%)
+- stock down at least 30% from 52w high (-59.6%)
+- multiple purchase rows in filing (2)
 
 Context:
-- Purchase / ADV60: 68.5%
-- 52w drawdown: -32.6%
+- Purchase / ADV60: 38.0%
+- 52w drawdown: -59.6%
 - Market cap: n/a
 - Purchase / market cap: n/a
-- Score: 10
+- Score: 8
 
 Caveats:
 - market cap unavailable
 
 Links:
-http://www.openinsider.com/ANAB
-https://finance.yahoo.com/quote/ANAB
-https://finviz.com/quote.ashx?t=ANAB
+http://www.openinsider.com/FBIO
+https://finance.yahoo.com/quote/FBIO
+https://finviz.com/quote.ashx?t=FBIO
 
 ---
 
-[ALERT] FUN - Six Flags Entertainment Corporation/NEW
+[ALERT] LCTX - Lineage Cell Therapeutics, Inc.
 
 Insider signal:
-- Insider: JAFFER REHAN
-- Filed: 2026-11-18 22:20:29
-- Purchase value: $6,354,000
-- Insider VWAP: $11.55
-- Latest price: $11.81
-- Premium to insider VWAP: 2.2%
+- Insider: BROADWOOD CAPITAL INC; BROADWOOD PARTNERS, L.P.; Bradsher Neal C
+- Filed: 2026-11-19 22:58:45
+- Purchase value: $770,700
+- Insider VWAP: $0.77
+- Latest price: $0.82
+- Premium to insider VWAP: 6.4%
 
 Why flagged:
-- purchase value >= $2m ($6,354,000)
-- purchase value / ADV60 >= 5% (14.2%)
-- current price within 15% of insider VWAP (2.2%)
-- stock down at least 30% from 52w high (-52.6%)
-- multiple purchase rows in filing (3)
+- purchase value >= $100k ($770,700)
+- purchase value / ADV60 >= 5% (47.9%)
+- current price within 15% of insider VWAP (6.4%)
+- stock down at least 30% from 52w high (-58.2%)
 
 Context:
-- Purchase / ADV60: 14.2%
-- 52w drawdown: -52.6%
-- Market cap: n/a
-- Purchase / market cap: n/a
-- Score: 10
-
-Caveats:
-- market cap unavailable
-
-Links:
-http://www.openinsider.com/FUN
-https://finance.yahoo.com/quote/FUN
-https://finviz.com/quote.ashx?t=FUN
-
----
-
-[ALERT] BPRE - Bluerock Private Real Estate Fund
-
-Insider signal:
-- Insider: KAMFAR RAMIN
-- Filed: 2026-11-18 23:58:31
-- Purchase value: $3,224,289
-- Insider VWAP: $12.13
-- Latest price: $12.04
-- Premium to insider VWAP: -0.7%
-
-Why flagged:
-- purchase value >= $2m ($3,224,289)
-- purchase value / ADV60 >= 5% (29.8%)
-- current price below insider VWAP (-0.7%)
-- stock down at least 15% from 52w high (-28.0%)
-- multiple purchase rows in filing (3)
-
-Context:
-- Purchase / ADV60: 29.8%
-- 52w drawdown: -28.0%
-- Market cap: n/a
-- Purchase / market cap: n/a
-- Score: 9
-
-Caveats:
-- market cap unavailable
-
-Links:
-http://www.openinsider.com/BPRE
-https://finance.yahoo.com/quote/BPRE
-https://finviz.com/quote.ashx?t=BPRE
-
----
-
-[ALERT] GWRS - Global Water Resources, Inc.
-
-Insider signal:
-- Insider: Cohn Andrew M.
-- Filed: 2026-11-18 22:17:52
-- Purchase value: $104,550
-- Insider VWAP: $6.97
-- Latest price: $6.48
-- Premium to insider VWAP: -7.0%
-
-Why flagged:
-- purchase value >= $100k ($104,550)
-- purchase value / ADV60 >= 5% (19.2%)
-- current price below insider VWAP (-7.0%)
-- stock down at least 30% from 52w high (-30.2%)
-
-Context:
-- Purchase / ADV60: 19.2%
-- 52w drawdown: -30.2%
+- Purchase / ADV60: 47.9%
+- 52w drawdown: -58.2%
 - Market cap: n/a
 - Purchase / market cap: n/a
 - Score: 7
@@ -127,31 +59,130 @@ Caveats:
 - market cap unavailable
 
 Links:
-http://www.openinsider.com/GWRS
-https://finance.yahoo.com/quote/GWRS
-https://finviz.com/quote.ashx?t=GWRS
+http://www.openinsider.com/LCTX
+https://finance.yahoo.com/quote/LCTX
+https://finviz.com/quote.ashx?t=LCTX
 
 ---
 
-[WATCH] BH - Biglari Holdings Inc.
+[ALERT] SCM - Stellus Capital Investment Corp
 
 Insider signal:
-- Insider: BIGLARI CAPITAL CORP.; BIGLARI, SARDAR; LION FUND, L.P.
-- Filed: 2026-11-18 23:45:23
-- Purchase value: $1,728,370
-- Insider VWAP: $358.36
-- Latest price: $367.53
-- Premium to insider VWAP: 2.6%
+- Insider: Ladd Robert T.
+- Filed: 2026-11-20 01:02:31
+- Purchase value: $197,100
+- Insider VWAP: $6.57
+- Latest price: $6.51
+- Premium to insider VWAP: -0.9%
 
 Why flagged:
-- purchase value >= $1m ($1,728,370)
-- purchase value / ADV60 >= 2% (4.5%)
-- current price within 15% of insider VWAP (2.6%)
-- stock down at least 15% from 52w high (-22.9%)
+- purchase value >= $100k ($197,100)
+- purchase value / ADV60 >= 5% (16.6%)
+- current price below insider VWAP (-0.9%)
+- stock down at least 30% from 52w high (-45.8%)
 
 Context:
-- Purchase / ADV60: 4.5%
-- 52w drawdown: -22.9%
+- Purchase / ADV60: 16.6%
+- 52w drawdown: -45.8%
+- Market cap: n/a
+- Purchase / market cap: n/a
+- Score: 7
+
+Caveats:
+- market cap unavailable
+
+Links:
+http://www.openinsider.com/SCM
+https://finance.yahoo.com/quote/SCM
+https://finviz.com/quote.ashx?t=SCM
+
+---
+
+[ALERT] CRVO - CervoMed Inc.
+
+Insider signal:
+- Insider: ALAM JOHN J
+- Filed: 2026-11-20 02:03:48
+- Purchase value: $116,768
+- Insider VWAP: $1.53
+- Latest price: $1.33
+- Premium to insider VWAP: -13.1%
+
+Why flagged:
+- purchase value >= $100k ($116,768)
+- purchase value / ADV60 >= 5% (11.6%)
+- current price below insider VWAP (-13.1%)
+- stock down at least 30% from 52w high (-86.6%)
+
+Context:
+- Purchase / ADV60: 11.6%
+- 52w drawdown: -86.6%
+- Market cap: n/a
+- Purchase / market cap: n/a
+- Score: 7
+
+Caveats:
+- market cap unavailable
+
+Links:
+http://www.openinsider.com/CRVO
+https://finance.yahoo.com/quote/CRVO
+https://finviz.com/quote.ashx?t=CRVO
+
+---
+
+[ALERT] CCB - COASTAL FINANCIAL CORP
+
+Insider signal:
+- Insider: HOVDE STEVEN D
+- Filed: 2026-11-19 22:44:39
+- Purchase value: $550,000
+- Insider VWAP: $36.67
+- Latest price: $37.38
+- Premium to insider VWAP: 1.9%
+
+Why flagged:
+- purchase value >= $100k ($550,000)
+- purchase value / ADV60 >= 5% (5.8%)
+- current price within 15% of insider VWAP (1.9%)
+- stock down at least 30% from 52w high (-68.6%)
+
+Context:
+- Purchase / ADV60: 5.8%
+- 52w drawdown: -68.6%
+- Market cap: n/a
+- Purchase / market cap: n/a
+- Score: 7
+
+Caveats:
+- market cap unavailable
+
+Links:
+http://www.openinsider.com/CCB
+https://finance.yahoo.com/quote/CCB
+https://finviz.com/quote.ashx?t=CCB
+
+---
+
+[WATCH] AFCG - Advanced Flower Capital Inc.
+
+Insider signal:
+- Insider: TANNENBAUM LEONARD M
+- Filed: 2026-11-19 22:25:58
+- Purchase value: $298,409
+- Insider VWAP: $3.49
+- Latest price: $3.47
+- Premium to insider VWAP: -0.6%
+
+Why flagged:
+- purchase value >= $100k ($298,409)
+- purchase value / ADV60 >= 5% (123.6%)
+- current price below insider VWAP (-0.6%)
+- multiple purchase rows in filing (2)
+
+Context:
+- Purchase / ADV60: 123.6%
+- 52w drawdown: -4.7%
 - Market cap: n/a
 - Purchase / market cap: n/a
 - Score: 6
@@ -160,71 +191,38 @@ Caveats:
 - market cap unavailable
 
 Links:
-http://www.openinsider.com/BH
-https://finance.yahoo.com/quote/BH
-https://finviz.com/quote.ashx?t=BH
+http://www.openinsider.com/AFCG
+https://finance.yahoo.com/quote/AFCG
+https://finviz.com/quote.ashx?t=AFCG
 
 ---
 
-[WATCH] ECC - Eagle Point Credit Co
+[WATCH] BSM - Black Stone Minerals, L.P.
 
 Insider signal:
-- Insider: Majewski Thomas P.
-- Filed: 2026-11-18 23:00:10
-- Purchase value: $118,000
-- Insider VWAP: $2.36
-- Latest price: $2.38
-- Premium to insider VWAP: 0.8%
+- Insider: Carter Thomas L Jr
+- Filed: 2026-11-19 22:36:07
+- Purchase value: $313,848
+- Insider VWAP: $13.51
+- Latest price: $13.45
+- Premium to insider VWAP: -0.4%
 
 Why flagged:
-- purchase value >= $100k ($118,000)
-- purchase value / ADV60 >= 2% (3.0%)
-- current price within 15% of insider VWAP (0.8%)
-- stock down at least 30% from 52w high (-52.5%)
+- purchase value >= $100k ($313,848)
+- purchase value / ADV60 >= 2% (4.9%)
+- current price below insider VWAP (-0.4%)
 
 Context:
-- Purchase / ADV60: 3.0%
-- 52w drawdown: -52.5%
+- Purchase / ADV60: 4.9%
+- 52w drawdown: -9.1%
 - Market cap: n/a
 - Purchase / market cap: n/a
-- Score: 6
+- Score: 4
 
 Caveats:
 - market cap unavailable
 
 Links:
-http://www.openinsider.com/ECC
-https://finance.yahoo.com/quote/ECC
-https://finviz.com/quote.ashx?t=ECC
-
----
-
-[WATCH] USAR - USA Rare Earth, Inc.
-
-Insider signal:
-- Insider: BLITZER MICHAEL
-- Filed: 2026-11-19 01:26:37
-- Purchase value: $1,660,975
-- Insider VWAP: $6.64
-- Latest price: $6.56
-- Premium to insider VWAP: -1.3%
-
-Why flagged:
-- purchase value >= $1m ($1,660,975)
-- current price below insider VWAP (-1.3%)
-- stock down at least 30% from 52w high (-78.6%)
-
-Context:
-- Purchase / ADV60: 0.9%
-- 52w drawdown: -78.6%
-- Market cap: n/a
-- Purchase / market cap: n/a
-- Score: 5
-
-Caveats:
-- market cap unavailable
-
-Links:
-http://www.openinsider.com/USAR
-https://finance.yahoo.com/quote/USAR
-https://finviz.com/quote.ashx?t=USAR
+http://www.openinsider.com/BSM
+https://finance.yahoo.com/quote/BSM
+https://finviz.com/quote.ashx?t=BSM
